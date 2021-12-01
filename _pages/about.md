@@ -13,8 +13,7 @@ I am an assistant professor at [School of Computing](https://www.titech.ac.jp/en
 
 Research Interests 
 ======
-* General-Purpose computing on Graphics Processing Units (GPGPU): a methodology for high-performance computing that uses graphics
-processing units to crunch data.
+* GPU Accelerator: kernel designs for high-performance computing that uses graphics processing units to crunch data.
 * Real-Time vision system: accelerating the processing of high complexity vision algorithms using special hardwares such as FPGAs and GPUs.
 * High-performance large-scale data processing: efficient algorithms for large-scale data processing.
 
