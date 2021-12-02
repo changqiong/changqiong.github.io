@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-layout: archive
 redirect_from: 
   - /publications/
   - /publications.html
@@ -19,11 +18,6 @@ _In 32nd International Coference on Database and Expert Systems Applications (DE
    **Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention.**<br />
     _British Machine Vision Conference (BMVC)_.
 
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
 
 [2020]
 ====== 
