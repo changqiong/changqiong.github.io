@@ -6,20 +6,20 @@ redirect_from:
 ---
 ### [2021]
 
-**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama<br />
-<var>Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.</var><br />
+_**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama_<br />
+Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br />
 _Journal of Systems Architecture_, to appear.
 
-Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li<br /> 
-  <var>A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.</var><br /> 
+_Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li_<br /> 
+A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.<br /> 
   _Research_, to appear.
 
-Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki<br /> 
-<var>Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.</var><br /> 
+_Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki_<br /> 
+Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.<br /> 
 _In 32nd International Coference on Database and Expert Systems Applications (DEXA)_.
 
-Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka<br />
-<var>Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention.</var><br />
+_Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka_<br />
+Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention.<br />
  _British Machine Vision Conference (BMVC)_.
 
 
