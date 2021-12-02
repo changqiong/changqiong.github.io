@@ -60,7 +60,7 @@ Real-Time High-Quality Stereo Matching System on a GPU.<br />
 
 Fast convolution kernels on pascal GPU with high memory efficiency.<br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
-  _In Proceedings of the 26th High Performance Computing Symposium (HPC)_ *(Best Paper Award).
+  _In Proceedings of the 26th High Performance Computing Symposium (HPC)_ **(Best Paper Award)**.
 
 Real-Time Stereo Vision System: A Multi-Block Matching on GPU.<br />
 <span style="color:gray">**Qiong Chang**, Tsutomu Maruyama</span><br /> 
