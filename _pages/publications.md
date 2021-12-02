@@ -4,7 +4,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-###[2021]
+### [2021]
 
 **Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama<br />
 <var>Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.</var><br />
