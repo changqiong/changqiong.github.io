@@ -12,6 +12,6 @@ This is a description of a teaching experience. You can use markdown like any ot
 2021 ====== 
 
 * **Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei,
-Meng Joo Er, Tsutomu Maruyama
-<ins>Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.</ins>
+Meng Joo Er, Tsutomu Maruyama<br />
+<ins>Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.</ins><br />
 _Journal of Systems Architecture 2021_, to appear 
