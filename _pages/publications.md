@@ -5,9 +5,11 @@ redirect_from:
   - /publications.html
 ---
 ### [2021]
+
 **Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama<br />
 <var>Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.</var><br />
-_Journal of Systems Architecture_, to appear.<br />
+_Journal of Systems Architecture_, to appear.
+
 Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li<br /> 
   <var>A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.</var><br /> 
   _Research_, to appear.
@@ -21,8 +23,8 @@ Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Ch
  _British Machine Vision Conference (BMVC)_.
 
 
-[2020]
-====== 
+### [2020]
+ 
 **Qiong Chang**, Aolong Zha, Weimin Wang, Masaki Onishi, Tsutomu Maruyama<br /> 
   <var>Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU.</var><br />
   _In IEEE 38th International Conference on Computer Design (ICCD)_.
@@ -36,8 +38,7 @@ Aolong Zha, Rongxuan Gao, **Qiong Chang**, Itsuki Noda<br />
   <var>A Simulator for Analyzing the Balance of Mafia Game. </var><br />
   _In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS)_.
 
-[2019]
-======
+### [2019]
 
 **Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama<br /> 
   <var>A GPU Accelerator for Domain Transformation-Based Stereo Matching</var><br />
@@ -48,8 +49,7 @@ Aolong Zha, **Qiong Chang**, Itsuki Noda<br />
   _SIG-FPAI_.
 
 
-[2018]
-======
+###[2018]
 
 **Qiong Chang**, Tsutomu Maruyama<br /> 
   <var>Real-Time High-Quality Stereo Matching System on a GPU.</var><br />
