@@ -5,11 +5,9 @@ redirect_from:
   - /publications.html
 ---
 ### [2021]
-
 **Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama<br />
 <var>Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.</var><br />
-_Journal of Systems Architecture_, to appear.
-
+_Journal of Systems Architecture_, to appear.<br />
 Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li<br /> 
   <var>A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.</var><br /> 
   _Research_, to appear.
