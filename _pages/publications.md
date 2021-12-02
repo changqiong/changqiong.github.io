@@ -10,31 +10,26 @@ redirect_from:
 2021
 ====== 
 
-* **Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei,
-Meng Joo Er, Tsutomu Maruyama<br />
+* **Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama<br />
 "Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation."<br />
 _Journal of Systems Architecture_, to appear.
 
 * Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li<br /> 
-  "A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic
-  Ferroelectric Neuromem."<br /> 
+  "A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem."<br /> 
   _Research_, to appear.
 
 * Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki<br /> 
 "Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs."<br /> 
 _In 32nd International Coference on Database and Expert Systems Applications (DEXA)_.
 
-* Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara,
-   **Qiong Chang**, Masashi Matsuoka<br />
-   "Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise
-   Attention."<br />
+* Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka<br />
+   "Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention."<br />
     _British Machine Vision Conference (BMVC)_.
 
 
 2020
 ====== 
-* **Qiong Chang**, Aolong Zha, Weimin Wang, Masaki Onishi,
-  Tsutomu Maruyama<br /> 
+* **Qiong Chang**, Aolong Zha, Weimin Wang, Masaki Onishi, Tsutomu Maruyama<br /> 
   "Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross
   Correlation for Fast and Accurate Stereo Matching on Embedded GPU."<br />
   _In IEEE 38th International Conference on Computer Design (ICCD)_.
