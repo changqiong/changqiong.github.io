@@ -1,16 +1,17 @@
 ---
-layout: archive
-title: "Publications"
+title: "[2021]"
+collection: publications
+type: "Undergraduate course"
 permalink: /publications/publications
-author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+This is a description of a teaching experience. You can use markdown like any other post.
 
-{% include base_path %}
+Heading 1
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Heading 2
+======
+
+Heading 3
+======
