@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 collection: publications
-type: "Undergraduate course"
 redirect_from: 
   - /publications/
   - /publications.html
