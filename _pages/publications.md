@@ -30,8 +30,7 @@ _In 32nd International Coference on Database and Expert Systems Applications (DE
 2020
 ====== 
 * **Qiong Chang**, Aolong Zha, Weimin Wang, Masaki Onishi, Tsutomu Maruyama<br /> 
-  "Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross
-  Correlation for Fast and Accurate Stereo Matching on Embedded GPU."<br />
+  "Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU."<br />
   _In IEEE 38th International Conference on Computer Design (ICCD)_.
 
 * Aolong Zha, Rongxuan Gao, **Qiong Chang**, Itsuki Noda<br /> 
@@ -40,23 +39,18 @@ _In 32nd International Coference on Database and Expert Systems Applications (DE
 
 
 * **Qiong Chang**<br /> 
-  "A Simulator for Analyzing the Balance of
-  Mafia Game. "<br />
+  "A Simulator for Analyzing the Balance of Mafia Game. "<br />
   _In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS)_.
 
 2019
 ======
 
-* **Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu
-  Maruyama<br /> 
-  "A GPU Accelerator for Domain Transformation-Based Stereo
-  Matching"<br />
-  _In Proceedings of the 2nd International Conference on Algorithms,
-  Computing and Artificial Intelligence (ACAI)_.
+* **Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama<br /> 
+  "A GPU Accelerator for Domain Transformation-Based Stereo Matching"<br />
+  _In Proceedings of the 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI)_.
 
 * Aolong Zha, **Qiong Chang**, Itsuki Noda<br /> 
-  "An Incremental
-  MaxSAT Approach for Solving the Realtime Taxi-Sharing Service Problem."<br />
+  "An Incremental MaxSAT Approach for Solving the Realtime Taxi-Sharing Service Problem."<br />
   _SIG-FPAI_.
 
 
@@ -65,19 +59,16 @@ _In 32nd International Coference on Database and Expert Systems Applications (DE
 
 * **Qiong Chang**, Tsutomu Maruyama<br /> 
   "Real-Time High-Quality Stereo Matching System on a GPU."<br />
-  _In IEEE 29th International Conference on
-  Application-specific Systems, Architectures and Processors (ASAP)_.
+  _In IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP)_.
 
 
 * **Qiong Chang**<br /> 
   "Fast
   convolution kernels on pascal GPU with high memory efficiency"<br />
-  _In Proceedings
-  of the 26th High Performance Computing Symposium (HPC)_.
+  _In Proceedings of the 26th High Performance Computing Symposium (HPC)_.
 
 
 * **Qiong Chang**, Tsutomu Maruyama<br /> 
-  "Real-Time Stereo
-  Vision System: A Multi-Block Matching on GPU."<br />
+  "Real-Time Stereo Vision System: A Multi-Block Matching on GPU."<br />
   _IEEE Access_.
 
