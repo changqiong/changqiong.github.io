@@ -5,9 +5,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-## Publications
-[2021]
-====== 
+## [2021]
 
 :**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama<br />
 **Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.**<br />
@@ -21,7 +19,7 @@ _Journal of Systems Architecture_, to appear.
 **Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.**<br /> 
 _In 32nd International Coference on Database and Expert Systems Applications (DEXA)_.
 
-Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka<br />
+:Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka<br />
    **Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention.**<br />
     _British Machine Vision Conference (BMVC)_.
 
