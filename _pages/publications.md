@@ -2,7 +2,9 @@
 title: "[2021]"
 collection: publications
 type: "Undergraduate course"
-permalink: /publications/publications
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
