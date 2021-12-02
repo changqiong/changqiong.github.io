@@ -49,7 +49,7 @@ Aolong Zha, **Qiong Chang**, Itsuki Noda<br />
   _SIG-FPAI_.
 
 
-###[2018]
+### [2018]
 
 **Qiong Chang**, Tsutomu Maruyama<br /> 
   <var>Real-Time High-Quality Stereo Matching System on a GPU.</var><br />
