@@ -7,6 +7,5 @@ redirect_from:
 
 ### Journal Reviewer
 * IEEE TCSVT
-* IEEE ACCESS
 * Journal of Systems Architecture
 * Journal of Real-Time Image Processing
