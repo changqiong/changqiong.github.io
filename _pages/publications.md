@@ -12,8 +12,7 @@ _Journal of Systems Architecture_, to appear.
 
 A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.<br />
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> 
-<br /> 
-  _Research_, to appear.
+_Research_, to appear.
 
 Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.<br /> 
 <span style="color:gray">Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki</span><br /> 
