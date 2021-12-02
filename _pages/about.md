@@ -18,9 +18,9 @@ Research Interests
 
 News(2021) 
 ======
-* [Nov, 2021] Our paper "Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation" is accepted by Journal of Systems Architecture.
-* [Nov, 2021] Our paper "A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem" is accepted by Research.
-* [Oct, 2021] Our paper "Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention" is accepted by [BMVC'21](https://www.bmvc2021-virtualconference.com/).
-* [Jun, 2021] Our paper "Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs" is accepted by [DEXA'21](http://www.dexa.org/dexa2021).
-* [Feb, 2021] Our paper "A Deep Learning Framework for Realistic Robot Motion Generation" is accepted by Neural Computing and Applications.
+* **[Nov, 2021]** Our paper "Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation" is accepted by Journal of Systems Architecture.
+* **[Nov, 2021]** Our paper "A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem" is accepted by Research.
+* **[Oct, 2021]** Our paper "Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention" is accepted by [BMVC'21](https://www.bmvc2021-virtualconference.com/).
+* **[Jun, 2021]** Our paper "Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs" is accepted by [DEXA'21](http://www.dexa.org/dexa2021).
+* **[Feb, 2021]** Our paper "A Deep Learning Framework for Realistic Robot Motion Generation" is accepted by Neural Computing and Applications.
 
