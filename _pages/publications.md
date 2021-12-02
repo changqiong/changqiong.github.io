@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-collection: publications
 layout: archive
 redirect_from: 
   - /publications/
