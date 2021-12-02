@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qiong Chang"
   avatar           : "changqiong.jpg"
-  bio              : "Assistant Professor of Tokyo Institute of Technology"
+  #bio              : "Assistant Professor of Tokyo Institute of Technology"
   location         : "Tokyo, Japan"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
