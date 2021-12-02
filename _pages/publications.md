@@ -10,7 +10,7 @@ Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture_, to appear.
 
-A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.
+A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.<br />
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> 
 <br /> 
   _Research_, to appear.
