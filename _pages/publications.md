@@ -39,7 +39,7 @@ CNF Encodings for the Min-Max Multiple Traveling Salesmen Problem.<br />
 
 
 A Simulator for Analyzing the Balance of Mafia Game.<br />
-<span style="color:gray">**Qiong Chang**</span><br /> 
+<span style="color:black">**Qiong Chang**</span><br /> 
   _In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS)_.
 
 ### [2019]
