@@ -7,7 +7,7 @@ redirect_from:
 ### [2021]
 
 Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br />
-<span style="color:gray"></span><span style="color:block">**Qiong Chang**</span>, <span style="color:gray">Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
+<span style="color:gray"></span><span style="color:block">**Qiong Chang***</span>, <span style="color:gray">Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture_, to appear.
 
 A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.<br />
