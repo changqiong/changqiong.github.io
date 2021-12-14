@@ -4,6 +4,11 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
+### [2022]
+Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation.<br />
+<span style="color:gray">Yun Liu, **Qiong Chang**, Jun Miyazaki</span><br />
+_The 37th ACM/SIGAPP Symposium on Applied Computing_, to appear.
+
 ### [2021]
 
 Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br />
