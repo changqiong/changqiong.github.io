@@ -19,6 +19,12 @@ A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Orga
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> 
 _Research_, to appear.
 
+
+Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform.<br />
+<span style="color:gray">Ran Dong, Yangfei Lin, Qiong Chang, Junpei Zhong, Dongsheng Cai, Soichiro Ikuno</span><br />
+_ACM International Conference on Intelligent Computing and Its Emerging Applications.
+
+
 Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.<br /> 
 <span style="color:gray">Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki</span><br /> 
 _In 32nd International Coference on Database and Expert Systems Applications (DEXA)_.
