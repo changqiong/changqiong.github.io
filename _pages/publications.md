@@ -22,7 +22,7 @@ _Research_, to appear.
 
 Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform.<br />
 <span style="color:gray">Ran Dong, Yangfei Lin, Qiong Chang, Junpei Zhong, Dongsheng Cai, Soichiro Ikuno</span><br />
-_ACM International Conference on Intelligent Computing and Its Emerging Applications.
+_ACM International Conference on Intelligent Computing and Its Emerging Applications (ICEA)_.
 
 
 Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.<br /> 
