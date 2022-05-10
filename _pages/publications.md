@@ -5,9 +5,17 @@ redirect_from:
   - /publications.html
 ---
 ### [2022]
+Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation.<br />
+<span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
+_In 33rd International Coference on Database and Expert Systems Applications (DEXA)_.
+
+Acceleration of video stabilization using embedded GPU.<br />
+<span style="color:gray">Yuzuki Mimura, **Qiong Chang**, Tsutomu Maruyama</span><br />
+_In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)_.
+
 Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation.<br />
-<span style="color:gray">Yun Liu, **Qiong Chang**, Jun Miyazaki</span><br />
-_The 37th ACM/SIGAPP Symposium on Applied Computing_, to appear.
+<span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
+_The 37th ACM/SIGAPP Symposium on Applied Computing (SAC_).
 
 
 Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br />
@@ -17,7 +25,7 @@ _Journal of Systems Architecture_.
 ### [2021]
 A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem.<br />
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> 
-_Research_..
+_Research_.
 
 
 Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform.<br />
