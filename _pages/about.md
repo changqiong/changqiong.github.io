@@ -16,12 +16,8 @@ Research Interests
 * Real-Time vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
 * High-performance large-scale data processing: efficient algorithms for large-scale data processing.
 
-News(2021) 
+News(2022) 
 ======
-* **[Dec, 2021]** Our paper "Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation" is accepted by [SAC'22](http://www.sigapp.org/sac/sac2022/).
-* **[Nov, 2021]** Our paper "Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation" is accepted by Journal of Systems Architecture.
-* **[Nov, 2021]** Our paper "A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem" is accepted by Research.
-* **[Oct, 2021]** Our paper "Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention" is accepted by [BMVC'21](https://www.bmvc2021-virtualconference.com/).
-* **[Jun, 2021]** Our paper "Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs" is accepted by [DEXA'21](http://www.dexa.org/dexa2021).
-* **[Feb, 2021]** Our paper "A Deep Learning Framework for Realistic Robot Motion Generation" is accepted by Neural Computing and Applications.
+* **[May, 2022]** Our paper "Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation" is accepted by [DEXA'22](https://www.dexa.org/).
+* **[May, 2022]** Our paper "Acceleration of video stabilization using embedded GPU" is accepted by [ASAP'22](https://www.asap2022.org/).
 
