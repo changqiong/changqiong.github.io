@@ -7,7 +7,7 @@ redirect_from:
 ### [2022]
 Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation.<br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
-_In 33rd International Coference on Database and Expert Systems Applications (DEXA), to appear_.
+_In 33rd International Conference on Database and Expert Systems Applications (DEXA), to appear_.
 
 Acceleration of video stabilization using embedded GPU.<br />
 <span style="color:gray">Yuzuki Mimura, **Qiong Chang**, Tsutomu Maruyama</span><br />
@@ -34,7 +34,7 @@ _ACM International Conference on Intelligent Computing and Its Emerging Applicat
 
 Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs.<br /> 
 <span style="color:gray">Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki</span><br /> 
-_In 32nd International Coference on Database and Expert Systems Applications (DEXA)_.
+_In 32nd International Conference on Database and Expert Systems Applications (DEXA)_.
 
 Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention.<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
