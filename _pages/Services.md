@@ -6,6 +6,6 @@ redirect_from:
 ---
 
 ### Journal Reviewer
-* IEEE TCSVT
+* IEEE Transactions on Circuits and Systems for Video Technology
 * Journal of Systems Architecture
 * Journal of Real-Time Image Processing
