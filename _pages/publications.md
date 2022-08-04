@@ -5,6 +5,11 @@ redirect_from:
   - /publications.html
 ---
 ### [2022]
+An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem.<br />
+<span style="color:gray">Aolong Zha, **Qiong Chang**, Itsuki Noda</span><br />
+_Discrete Applied Mathematics_.
+
+
 Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation.<br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
 _In 33rd International Conference on Database and Expert Systems Applications (DEXA), to appear_.
@@ -65,10 +70,6 @@ A Simulator for Analyzing the Balance of Mafia Game.<br />
 A GPU Accelerator for Domain Transformation-Based Stereo Matching.<br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama</span><br /> 
   _In Proceedings of the 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI)_.
-
-An Incremental MaxSAT Approach for Solving the Realtime Taxi-Sharing Service Problem.<br />
-<span style="color:gray">Aolong Zha, **Qiong Chang**, Itsuki Noda</span><br /> 
-  _SIG-FPAI_.
 
 
 ### [2018]
