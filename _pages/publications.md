@@ -12,15 +12,15 @@ _Discrete Applied Mathematics_.
 
 Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation.<br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
-_In 33rd International Conference on Database and Expert Systems Applications (DEXA), to appear_.
+_In 33rd International Conference on Database and Expert Systems Applications (DEXA)_.
 
 Acceleration of video stabilization using embedded GPU.<br />
 <span style="color:gray">Yuzuki Mimura, **Qiong Chang**, Tsutomu Maruyama</span><br />
-_In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP), to appear_.
+_In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)_.
 
 Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation.<br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
-_The 37th ACM/SIGAPP Symposium on Applied Computing (SAC_).
+_The 37th ACM/SIGAPP Symposium on Applied Computing (SAC)_.
 
 Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
