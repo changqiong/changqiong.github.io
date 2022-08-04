@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -271,7 +271,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
- - jemoji
+  - jemoji
 
 
 # Archives
