@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Services"
-    url: /Services/
-
   - title: "Team"
     url: /team/
+
+  - title: "Services"
+    url: /Services/
 
   - title: "Teaching"
     url: /teaching/    
