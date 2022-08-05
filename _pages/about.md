@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at theTokyo Institute of Technology(TiTech), School of Computing, [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/). At the same time, I am also collaborating with [Reconfigurable Computing Lab](http://www.darwin.esys.tsukuba.ac.jp/home/entop) at University of Tsukuba and [Yun Li's Lab](https://www.yunligroup.org/) at Nanjing University.  I received Ph.D. in Intelligent systems engineering from University of Tsukuba. Before joining TiTech, I was a researcher at National Institue of Advanced Industrial Science and Technology (AIST).
+I am an assistant professor at theTokyo Institute of Technology(TiTech), School of Computing. I received Ph.D. in Intelligent systems engineering from University of Tsukuba. Before joining TiTech, I was a researcher at National Institue of Advanced Industrial Science and Technology (AIST).
 
 Research Interests 
 ======
