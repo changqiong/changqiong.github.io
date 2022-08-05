@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at theTokyo Institute of Technology(TiTech), School of Computing. I received Ph.D. in Intelligent systems engineering from University of Tsukuba. Before joining TiTech, I was a researcher at National Institue of Advanced Industrial Science and Technology (AIST).
+I am an assistant professor at the Tokyo Institute of Technology(TiTech), School of Computing. I received Ph.D. in Intelligent systems engineering from University of Tsukuba. Before joining TiTech, I was a researcher at National Institue of Advanced Industrial Science and Technology (AIST).
 
 Research Interests 
 ======
