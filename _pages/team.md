@@ -5,6 +5,10 @@ redirect_from:
   - /team.html
 ---
 
+In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Tokyo Institute of Technology, I am also
+collaborating with the [Reconfigurable Computing Lab](http://www.darwin.esys.tsukuba.ac.jp/home/entop) at University of Tsukuba and [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
+
+
 ### Current Supervisions
 
 **Xiang Li**     D1<br />
