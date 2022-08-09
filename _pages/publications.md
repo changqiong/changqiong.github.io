@@ -22,7 +22,7 @@ Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Mov
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
 _The 37th ACM/SIGAPP Symposium on Applied Computing (SAC)_.
 
-Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.<br />
+Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation.(http://changqiong.github.io/files/JSA01.pdf)<br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture_.
 
