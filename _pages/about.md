@@ -13,7 +13,7 @@ I am an assistant professor at Tokyo Institute of Technology (TiTech), School of
 Research Interests 
 ======
 * GPU Accelerator: kernel designs for high-performance computing that uses graphics processing units to crunch data.
-* Real-Time vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
+* Real-time vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
 * High-performance large-scale data processing: efficient algorithms for large-scale data processing.
 
 News(2022) 
