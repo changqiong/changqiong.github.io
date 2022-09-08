@@ -41,10 +41,6 @@ Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on G
 <span style="color:gray">Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki</span><br /> 
 _In 32nd International Conference on Database and Expert Systems Applications (DEXA)_.
 
-Enhancing Local Feature Learning for 3D Point Cloud Processing using Unary-Pairwise Attention.<br />
-<span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
- _British Machine Vision Conference (BMVC)_.
-
 A Deep Learning Framework for Realistic Robot Motion Generation.<br />
 <span style="color:gray">Ran Dong, **Qiong Chang**, Soichiro Ikuno</span><br />
 _Neural Computing and Application_.
