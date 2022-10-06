@@ -18,7 +18,7 @@ Research Interests
 
 News(2022) 
 ======
-* **[Sep, 2022]** Taking serves on the Session chair of ICoIAS'22.
+* **[Sep, 2022]** Serving on the Session chair of ICoIAS'22.
 * **[July, 2022]** Our paper "An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem" is accepted by [DAM'22](https://www.sciencedirect.com/journal/discrete-applied-mathematics).
 * **[May, 2022]** Our paper "Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation" is accepted by [DEXA'22](https://www.dexa.org/).
 * **[May, 2022]** Our paper "Acceleration of video stabilization using embedded GPU" is accepted by [ASAP'22](https://www.asap2022.org/).
