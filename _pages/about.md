@@ -18,6 +18,7 @@ Research Interests
 
 News(2022) 
 ======
+* **[Oct, 2022]** Opening a Special Issue on Journal of Real-time Image Processing [MAV](Call for Papers: Special Issue on Real-Time Machine Vision Acceleration Technology and Applications).
 * **[Sep, 2022]** Serving on the Session chair of ICoIAS'22.
 * **[July, 2022]** Our paper "An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem" is accepted by [DAM'22](https://www.sciencedirect.com/journal/discrete-applied-mathematics).
 * **[May, 2022]** Our paper "Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation" is accepted by [DEXA'22](https://www.dexa.org/).
