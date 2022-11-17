@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Tokyo Institute of Technology, I am also
-collaborating with the [Reconfigurable Computing Lab](http://www.darwin.esys.tsukuba.ac.jp/home/entop) at University of Tsukuba and [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
+collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
 
 
 ### Current Supervisions
@@ -18,10 +18,6 @@ Research Interest: GPU accelerator for image processing filter
 **Shinya Miura**     M2<br />
 Tokyo Institute of Technology<br />
 Research Interest: GPU accelerator for large-scale data sorting 
-
-**Yuzuki Mimura**     M2<br />
-University of Tsukuba<br />
-Research Interest: GPU accelerator for video stabilization 
 
 **Kei Terakura**     B4<br />
 Tokyo Institute of Technology<br />
