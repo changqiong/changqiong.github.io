@@ -24,7 +24,7 @@ _The 37th ACM/SIGAPP Symposium on Applied Computing (SAC)_.
 
 Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_The 29th International Conference on MultiMedia Modeling (MMM))_.
+_The 29th International Conference on MultiMedia Modeling (MMM)_.
 
 Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation. <br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
