@@ -16,11 +16,11 @@ Research Interests
 * Real-time vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
 * High-performance large-scale data processing: efficient algorithms for large-scale data processing.
 
-News(2022) 
+News(2023) 
 ======
-* **[Oct, 2022]** Opening a Special Issue on Journal of Real-time Image Processing [(MAV)](https://link.springer.com/collections/efjhhjghai).
-* **[Sep, 2022]** Serving on the Session chair of ICoIAS'22.
-* **[July, 2022]** Our paper "An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem" is accepted by [DAM'22](https://www.sciencedirect.com/journal/discrete-applied-mathematics).
-* **[May, 2022]** Our paper "Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation" is accepted by [DEXA'22](https://www.dexa.org/).
-* **[May, 2022]** Our paper "Acceleration of video stabilization using embedded GPU" is accepted by [ASAP'22](https://www.asap2022.org/).
+* **[Mar, 2023]** Our paper "Multi-Directional Sobel Operator Kernel on GPUs" is accepted by [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing).
+* **[Feb, 2023]** Our paper "VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation." is accepted by [ICASSP'23](https://2023.ieeeicassp.org/).
+* **[Jan, 2023]** Our paper "StereoVAE: A lightweight stereo-matching system using embedded GPUs." is accepted by [ICRA'23](https://www.icra2023.org/).
+* **[Jan, 2023]** Our paper "Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System." is accepted by [ACM SAC'23](https://www.sigapp.org/sac/sac2023/index.html).
+
 

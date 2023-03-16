@@ -19,13 +19,21 @@ Research Interest: GPU accelerator for image processing filter
 Tokyo Institute of Technology<br />
 Research Interest: GPU accelerator for large-scale data sorting 
 
-**Kei Terakura**     B4<br />
+**Masashi Nakano**     M1<br />
 Tokyo Institute of Technology<br />
 
-**Masashi Nakano**     B4<br />
-Tokyo Institute of Technology<br />
+**Huaqiao Duan** M1<br />
+Nanjing University<br />
+Research Interest: GPU accelerator for Deep Learning
+
+**Qian Li** M1<br />
+Nanjing University<br />
+Research Interest: FPGA accelerator for high performance computing
 
 ### Past Supervisions
+
+**Kei Terakura**     B4<br />
+Tokyo Institute of Technology<br />
 
 **Xin Xu**     M3<br />
 Nanjing University<br />
