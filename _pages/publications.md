@@ -5,6 +5,21 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
+Multi-Directional Sobel Operator Kernel on Gpus<br />
+<span style="color:gray">**Qiong Chang, Xiang Li, Yun Li, Jun Miyazaki</span><br />
+_Journal of Parallel and Distributed Computing_.
+
+VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation<br />
+<span style="color:gray">Weimin Wang, **Qiong Chang**</span><br />
+_2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_.
+
+StereoVAE: A lightweight stereo-matching system using embedded GPUs<br />
+<span style="color:gray">**Qiong Chang**, Xiang Li, Xun Xi, Xin Liu, Yun Li, Jun Miyazaki</span><br />
+_2023 International Conference on Robotics and Automation (ICRA)_.
+
+Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications<br />
+<span style="color:gray">Kuakua Lu, Longfei Li, Sai Jiang, Xu Chen, **Qiong Chang**, Yi Shi, Yun Li</span><br />
+_Advanced Sensor Research_.
 
 Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System.<br />
 <span style="color:gray">Shi-Jun Luo, Hyoil Han, **Qiong Chang**, Jun Miyazaki</span><br />
