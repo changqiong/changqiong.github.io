@@ -5,6 +5,11 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
+
+Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System.<br />
+<span style="color:gray">Shi-Jun Luo, Hyoil Han, **Qiong Chang**, Jun Miyazaki</span><br />
+_The 38th ACM/SIGAPP Symposium On Applied Computing._
+
 DS-Net: A dedicated approach for collapsed building detection from post-event airborne point clouds.<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _International Journal of Applied Earth Observation and Geoinformation_.
