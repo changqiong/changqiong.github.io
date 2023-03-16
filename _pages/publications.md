@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [2023]
 Multi-Directional Sobel Operator Kernel on Gpus<br />
-<span style="color:gray">**Qiong Chang, Xiang Li, Yun Li, Jun Miyazaki</span><br />
+<span style="color:gray">**Qiong Chang**, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing_
 
 VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation<br />
