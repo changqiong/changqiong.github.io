@@ -5,6 +5,11 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
+High-precision plant height measurement by drone with RTK-GNSS and signle camera for real-time processing<br />
+<span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
+_Scientific Reports_
+
+
 Multi-Directional Sobel Operator Kernel on Gpus<br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing_

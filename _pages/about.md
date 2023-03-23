@@ -18,6 +18,7 @@ Research Interests
 
 News(2023) 
 ======
+* **[Mar, 2023]** Our paper "High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing" is accepted by [Scientific Reports](https://www.nature.com/srep/?gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWLS0GQTXEuyE7T8oiVjFwN0URCmeQmlmbRlnDv7pPXY8dHax6lKHIaAjH7EALw_wcB).
 * **[Mar, 2023]** Our paper "Multi-Directional Sobel Operator Kernel on GPUs" is accepted by [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing).
 * **[Feb, 2023]** Our paper "VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation." is accepted by [ICASSP'23](https://2023.ieeeicassp.org/).
 * **[Jan, 2023]** Our paper "StereoVAE: A lightweight stereo-matching system using embedded GPUs." is accepted by [ICRA'23](https://www.icra2023.org/).
