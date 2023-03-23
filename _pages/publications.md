@@ -5,7 +5,7 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
-High-precision plant height measurement by drone with RTK-GNSS and signle camera for real-time processing<br />
+High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing<br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
 _Scientific Reports_
 
