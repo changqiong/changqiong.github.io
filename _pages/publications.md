@@ -5,10 +5,13 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
+A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes<br />
+<span style="color:gray">Aolong Zha, **Qiong Chang**, Naoto Imura, Katsuhiro Nishinari</span><br />
+_2023 23rd International Conference on Computational Science, to appear._
+
 High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing<br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
-_Scientific Reports_
-
+_Scientific Reports, to appear._
 
 Multi-Directional Sobel Operator Kernel on Gpus<br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Yun Li, Jun Miyazaki</span><br />
@@ -16,11 +19,11 @@ _Journal of Parallel and Distributed Computing_
 
 VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation<br />
 <span style="color:gray">Weimin Wang, **Qiong Chang**</span><br />
-_2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_
+_2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), to appear._
 
 StereoVAE: A lightweight stereo-matching system using embedded GPUs<br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Xun Xi, Xin Liu, Yun Li, Jun Miyazaki</span><br />
-_2023 International Conference on Robotics and Automation (ICRA)_
+_2023 International Conference on Robotics and Automation (ICRA), to appear._
 
 Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications<br />
 <span style="color:gray">Kuakua Lu, Longfei Li, Sai Jiang, Xu Chen, **Qiong Chang**, Yi Shi, Yun Li</span><br />
@@ -33,7 +36,6 @@ _The 38th ACM/SIGAPP Symposium On Applied Computing_
 Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _2023 MultiMedia Modeling: 20th International Conference (MMM)_
-
 
 DS-Net: A dedicated approach for collapsed building detection from post-event airborne point clouds<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
