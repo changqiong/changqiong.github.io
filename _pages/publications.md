@@ -5,6 +5,10 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
+FP-GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation<br />
+<span style="color:gray">Yoshiki Kunimoto, **Qiong Chang**, Yashiki Yamaguchi, Tsutomu Maruyama</span><br />
+_2023 34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), to appear._
+
 A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes<br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Naoto Imura, Katsuhiro Nishinari</span><br />
 _2023 23rd International Conference on Computational Science, to appear._
