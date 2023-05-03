@@ -5,7 +5,7 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
-FP-GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation<br />
+GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation<br />
 <span style="color:gray">Yoshiki Kunimoto, **Qiong Chang**, Yashiki Yamaguchi, Tsutomu Maruyama</span><br />
 _2023 34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), to appear._
 
