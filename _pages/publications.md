@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [2023]
 How Does the System Perceive Me? --- A Transparent and Tunable Recommender System<br />
-<span style="color:gray">Mingman Xu, Qiong Chang, Jun Miyazaki</span><br />
+<span style="color:gray">Mingman Xu, **Qiong Chang**, Jun Miyazaki</span><br />
 _In 34th International Conference on Database and Expert Systems Applications (DEXA), to appear._
 
 GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation<br />
