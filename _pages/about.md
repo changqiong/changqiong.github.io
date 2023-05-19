@@ -20,7 +20,7 @@ News(2023)
 ======
 * **[May, 2023]** Our paper "How Does the System Perceive Me? --- A Transparent and Tunable Recommender System" is acepted by [DEXA'23](https://www.dexa.org/node/97).
 * **[May, 2023]** Our paper "GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation" is accepted by [ASAP'23](https://www.asap2023.org/).
-* **[Apr, 2023]** Our paper "A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes" is accepted by [ICCS'23](https://easychair.org/conferences/submission?submission=6386490;a=30295809).
+* **[Apr, 2023]** Our paper "A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes" is accepted by [ICCS'23](https://www.iccs-meeting.org/iccs2023/).
 * **[Mar, 2023]** Our paper "High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing" is accepted by [Scientific Reports](https://www.nature.com/srep/?gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWLS0GQTXEuyE7T8oiVjFwN0URCmeQmlmbRlnDv7pPXY8dHax6lKHIaAjH7EALw_wcB).
 * **[Mar, 2023]** Our paper "Multi-Directional Sobel Operator Kernel on GPUs" is accepted by [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing).
 * **[Feb, 2023]** Our paper "VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation." is accepted by [ICASSP'23](https://2023.ieeeicassp.org/).
