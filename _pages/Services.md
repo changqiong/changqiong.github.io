@@ -5,7 +5,7 @@ redirect_from:
   - /Services.html
 ---
 
-### Journal Guest Editor
+### Journal Associate Editor
 * Journal of Real-Time Image Processing
 
 ### Reviewer
@@ -13,3 +13,4 @@ redirect_from:
 * IEEE Transactions on Circuits and Systems for Video Technology
 * Journal of Real-Time Image Processing
 * Applied Soft Computing
+* Computer Vision and Image Understanding 
