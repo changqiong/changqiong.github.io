@@ -14,3 +14,4 @@ redirect_from:
 * Journal of Real-Time Image Processing
 * Applied Soft Computing
 * Computer Vision and Image Understanding 
+* Expert Systems With Applications
