@@ -11,15 +11,15 @@ _In 34th International Conference on Database and Expert Systems Applications (D
 
 GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation<br />
 <span style="color:gray">Yoshiki Kunimoto, **Qiong Chang**, Yashiki Yamaguchi, Tsutomu Maruyama</span><br />
-_2023 34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), to appear._
+_2023 34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)_
 
 A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes<br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Naoto Imura, Katsuhiro Nishinari</span><br />
-_2023 23rd International Conference on Computational Science, to appear._
+_2023 23rd International Conference on Computational Science (ICCS)_
 
 High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing<br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
-_Scientific Reports, to appear._
+_Scientific Reports_
 
 Multi-Directional Sobel Operator Kernel on Gpus<br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Yun Li, Jun Miyazaki</span><br />
@@ -27,11 +27,11 @@ _Journal of Parallel and Distributed Computing_
 
 VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation<br />
 <span style="color:gray">Weimin Wang, **Qiong Chang**</span><br />
-_2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), to appear._
+_2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_
 
 StereoVAE: A lightweight stereo-matching system using embedded GPUs<br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Xun Xi, Xin Liu, Yun Li, Jun Miyazaki</span><br />
-_2023 International Conference on Robotics and Automation (ICRA), to appear._
+_2023 International Conference on Robotics and Automation (ICRA)_
 
 Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications<br />
 <span style="color:gray">Kuakua Lu, Longfei Li, Sai Jiang, Xu Chen, **Qiong Chang**, Yi Shi, Yun Li</span><br />
@@ -39,7 +39,7 @@ _Advanced Sensor Research_
 
 Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System<br />
 <span style="color:gray">Shi-Jun Luo, Hyoil Han, **Qiong Chang**, Jun Miyazaki</span><br />
-_The 38th ACM/SIGAPP Symposium On Applied Computing_
+_The 38th ACM/SIGAPP Symposium On Applied Computing (SAC)_
 
 Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
