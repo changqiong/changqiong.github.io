@@ -18,6 +18,7 @@ Research Interests
 
 News(2023) 
 ======
+* **[Sep, 2023]** Our paper "Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency." is acepted by [PRCV'23](https://www.prcv2023.cn/2023prcv).
 * **[May, 2023]** Our paper "How Does the System Perceive Me? --- A Transparent and Tunable Recommender System" is acepted by [DEXA'23](https://www.dexa.org/node/97).
 * **[May, 2023]** Our paper "GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation" is accepted by [ASAP'23](https://www.asap2023.org/).
 * **[Apr, 2023]** Our paper "A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes" is accepted by [ICCS'23](https://www.iccs-meeting.org/iccs2023/).

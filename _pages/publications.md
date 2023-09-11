@@ -5,6 +5,10 @@ redirect_from:
   - /publications.html
 ---
 ### [2023]
+Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency<br />
+<span style="color:gray">Yu Du, Ting Yang, **Qiong Chang**, Wei Zhong, Weimin Wang</span><br />
+_2023 6th Chinese Conference on Pattern Recognition and Computer Vision (PRCV)_
+
 How Does the System Perceive Me? --- A Transparent and Tunable Recommender System<br />
 <span style="color:gray">Mingman Xu, **Qiong Chang**, Jun Miyazaki</span><br />
 _In 34th International Conference on Database and Expert Systems Applications (DEXA), to appear._
