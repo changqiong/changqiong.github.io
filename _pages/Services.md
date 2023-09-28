@@ -15,3 +15,4 @@ redirect_from:
 * Applied Soft Computing
 * Computer Vision and Image Understanding 
 * Expert Systems With Applications
+* IET Image Processing
