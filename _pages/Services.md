@@ -6,8 +6,8 @@ redirect_from:
 ---
 
 ## Long Term 
-### Journal of Real-Time Image Processing Associate Editor
-### IEEE Transactions on Parallel and Distributed Systems Reproducibility Reviewer
+* Journal of Real-Time Image Processing: Associate Editor
+* IEEE Transactions on Parallel and Distributed Systems: Reproducibility Reviewer
 
 ## Short Term
 ### Review for Journal
