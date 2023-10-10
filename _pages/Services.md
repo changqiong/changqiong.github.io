@@ -11,6 +11,7 @@ redirect_from:
 
 ## Short Term
 ### Review for Journal
+* IEEE Transactions on Parallel and Distributed Systems
 * Journal of Parallel and Distributed Computing
 * Journal of Systems Architecture
 * IEEE Transactions on Circuits and Systems for Video Technology
