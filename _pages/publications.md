@@ -7,7 +7,7 @@ redirect_from:
 ### [2023]
 Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_2023 Neurocomputing, to appear._
+_2023 Neurocomputing_
 
 Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency<br />
 <span style="color:gray">Yu Du, Ting Yang, **Qiong Chang**, Wei Zhong, Weimin Wang</span><br />
