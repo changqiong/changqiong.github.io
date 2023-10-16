@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Selected_publications"
-    url: /selected_publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Services"
     url: /Services/
