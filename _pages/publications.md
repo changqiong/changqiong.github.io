@@ -4,14 +4,24 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
+### [2024]
+Acceleration of Neural Network Inference for Embedded GPU Systems<br />
+ <span style="color:gray">Kei Terakura, **Qiong Chang**, Jun Miyazaki</span><br />
+_2024 International Conference on Big Data and Smart Computing (BigComp), to appear_
+
+Attribution-based Scanline Perturbation Attack on 3D Detectors of LiDar Point Clouds<br />
+<span style="color:gray">Ziyang Yu, Ting Yang, **Qiong Chang**, Yu Liu, Weimin Wang</span><br />
+_2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), to appear_
+
+
 ### [2023]
 Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_2023 Neurocomputing, to appear._
+_2023 Neurocomputing_
 
 Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency<br />
 <span style="color:gray">Yu Du, Ting Yang, **Qiong Chang**, Wei Zhong, Weimin Wang</span><br />
-_2023 6th Chinese Conference on Pattern Recognition and Computer Vision (PRCV), to appear._
+_2023 6th Chinese Conference on Pattern Recognition and Computer Vision (PRCV)_
 
 How Does the System Perceive Me? --- A Transparent and Tunable Recommender System<br />
 <span style="color:gray">Mingman Xu, **Qiong Chang**, Jun Miyazaki</span><br />

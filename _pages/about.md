@@ -16,16 +16,6 @@ Research Interests
 * Real-time vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
 * High-performance large-scale data processing: efficient algorithms for large-scale data processing.
 
-News(2023) 
+News(2024) 
 ======
-* **[Sep, 2023]** Our paper "Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency." is acepted by [PRCV'23](https://www.prcv2023.cn/2023prcv).
-* **[May, 2023]** Our paper "How Does the System Perceive Me? --- A Transparent and Tunable Recommender System" is acepted by [DEXA'23](https://www.dexa.org/node/97).
-* **[May, 2023]** Our paper "GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation" is accepted by [ASAP'23](https://www.asap2023.org/).
-* **[Apr, 2023]** Our paper "A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes" is accepted by [ICCS'23](https://www.iccs-meeting.org/iccs2023/).
-* **[Mar, 2023]** Our paper "High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing" is accepted by [Scientific Reports](https://www.nature.com/srep/?gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaWLS0GQTXEuyE7T8oiVjFwN0URCmeQmlmbRlnDv7pPXY8dHax6lKHIaAjH7EALw_wcB).
-* **[Mar, 2023]** Our paper "Multi-Directional Sobel Operator Kernel on GPUs" is accepted by [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing).
-* **[Feb, 2023]** Our paper "VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation." is accepted by [ICASSP'23](https://2023.ieeeicassp.org/).
-* **[Jan, 2023]** Our paper "StereoVAE: A lightweight stereo-matching system using embedded GPUs." is accepted by [ICRA'23](https://www.icra2023.org/).
-* **[Jan, 2023]** Our paper "Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System." is accepted by [ACM SAC'23](https://www.sigapp.org/sac/sac2023/index.html).
-
-
+* **[Jan, 2024]** Our paper "Acceleration of Neural Network Inference for Embedded GPU Systems." is accepted by [BigComp'24](https://www.bigcomputing.org/conf2024/)
