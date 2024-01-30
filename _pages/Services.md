@@ -16,11 +16,12 @@ redirect_from:
 * Journal of Systems Architecture
 * IEEE Transactions on Circuits and Systems for Video Technology
 * Journal of Real-Time Image Processing
+* IEEE Robotics and Automation Magazine
 * Applied Soft Computing
 * Computer Vision and Image Understanding 
 * Expert Systems With Applications
 * IET Image Processing
-* Mechanical Systems and Signal Processing.
+* Mechanical Systems and Signal Processing
 
 ### Review for Conference
 *  IEEE International Conference on Robotics and Automation (ICRA) 2024.
