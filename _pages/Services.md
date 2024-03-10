@@ -22,8 +22,10 @@ redirect_from:
 * Expert Systems With Applications
 * IET Image Processing
 * Mechanical Systems and Signal Processing
+* IEEE Transactions on Intelligent Transportation Systems
 
 ### Review for Conference
+*  International Conference on Database Systems for Advanced Applications (DASFAA) 2024.
 *  IEEE International Conference on Robotics and Automation (ICRA) 2024.
 *  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024.
 *  Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2023.
