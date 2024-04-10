@@ -6,23 +6,23 @@ redirect_from:
 ---
 
 ## Long Term 
+* ACM Transactions on Architecture and Code Optimization: Associate Editor
 * Journal of Real-Time Image Processing: Associate Editor
 * IEEE Transactions on Parallel and Distributed Systems: Reproducibility Reviewer
 
 ## Short Term
-### Review for Journal
-* IEEE Transactions on Parallel and Distributed Systems
-* Journal of Parallel and Distributed Computing
-* Journal of Systems Architecture
-* IEEE Transactions on Circuits and Systems for Video Technology
-* Journal of Real-Time Image Processing
-* IEEE Robotics and Automation Magazine
-* Applied Soft Computing
-* Computer Vision and Image Understanding 
-* Expert Systems With Applications
-* IET Image Processing
-* Mechanical Systems and Signal Processing
-* IEEE Transactions on Intelligent Transportation Systems
+### Review for Journal*
+* Journal of Systems Architecture (2020-2024)
+* IEEE Transactions on Parallel and Distributed Systems (2024)
+* Journal of Parallel and Distributed Computing (2023)
+* IEEE Robotics and Automation Magazine (2023)
+* Applied Soft Computing (2023)
+* Computer Vision and Image Understanding (2023)
+* Expert Systems With Applications (2023)
+* IET Image Processing (2023)
+* Mechanical Systems and Signal Processing (2023)
+* IEEE Transactions on Intelligent Transportation Systems (2024)
+* IEEE Transactions on Circuits and Systems for Video Technology (2020, 2021)
 
 ### Review for Conference
 *  International Conference on Database Systems for Advanced Applications (DASFAA) 2024.
