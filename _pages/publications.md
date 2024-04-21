@@ -5,13 +5,18 @@ redirect_from:
   - /publications.html
 ---
 ### [2024]
+TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs<br />
+<span style="color:gray">**Qiong Chang**, Xin Xu Mengjoo Er, Yongqing Sun and Yun Li</span><br />
+_IEEE Transactions on Systems, Man, and Cybernetics: Systems_
+
+
 Acceleration of Neural Network Inference for Embedded GPU Systems<br />
  <span style="color:gray">Kei Terakura, **Qiong Chang**, Jun Miyazaki</span><br />
-_2024 International Conference on Big Data and Smart Computing (BigComp), to appear_
+_2024 International Conference on Big Data and Smart Computing (BigComp)_
 
 Attribution-based Scanline Perturbation Attack on 3D Detectors of LiDar Point Clouds<br />
 <span style="color:gray">Ziyang Yu, Ting Yang, **Qiong Chang**, Yu Liu, Weimin Wang</span><br />
-_2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), to appear_
+_2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_
 
 
 ### [2023]
