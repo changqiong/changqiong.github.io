@@ -22,7 +22,7 @@ _2024 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 ### [2023]
 Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_2023 Neurocomputing_
+_Neurocomputing_
 
 Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency<br />
 <span style="color:gray">Yu Du, Ting Yang, **Qiong Chang**, Wei Zhong, Weimin Wang</span><br />
