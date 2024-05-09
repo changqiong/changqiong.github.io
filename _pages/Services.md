@@ -24,7 +24,7 @@ redirect_from:
 * IEEE Transactions on Intelligent Transportation Systems (2024)
 * IEEE Transactions on Circuits and Systems for Video Technology (2020, 2021)
 
-### Conference*
+### Conference
 *  International Conference on Database Systems for Advanced Applications (DASFAA) 2024.
 *  International Conference on Intelligent Robots and Systems (IROS) 2024.
 *  IEEE International Conference on Robotics and Automation (ICRA) 2024.

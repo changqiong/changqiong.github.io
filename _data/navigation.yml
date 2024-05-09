@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teams"
+    url: /team/
+
   - title: "Services"
     url: /Services/
 

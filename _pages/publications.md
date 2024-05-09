@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [2024]
 Extension of Parallel Primitives and Their Applications to Large-Scale Data
-Processing
+Processing<br />
 <span style="color:gray">Masashi Nakano, **Qiong Chang**, Jun Miyazaki</span><br />
 _In 35th International Conference on Database and Expert Systems Applications (DEXA)_
 
