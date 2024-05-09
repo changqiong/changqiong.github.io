@@ -8,7 +8,7 @@ redirect_from:
 In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Tokyo Institute of Technology, I am also
 collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
 
-### Current Collaborators
+## Current Collaborators
 
 **Xiang Li**	D2<br />
 Nanjing University, Joint Study in Tokyo Institute of Technology<br />
@@ -26,7 +26,7 @@ Research Interest: GPU acceleration for large-scale 3D cloud point registration.
 Dalian University of Technology<br />
 Research Interest: GPU acceleration for FAST feature dectector.
 
-### Past Collaborators
+## Past Collaborators
 
 2023<br />
 **Kei Terakura**	B4<br />
