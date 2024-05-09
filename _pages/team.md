@@ -18,13 +18,14 @@ Research Interest: GPU-based high-performance computing algorithm design
 Nanjing University<br />
 Research Interest: FPGA accelerator design for dilation-based Iterative Closest Point.
 
+**Xinyuan Chen** M2<br />
+Dalian University of Technology<br />
+Research Interest: GPU acceleration for FAST feature dectector.
+
 **Ziyang Yu**	M1<br />
 Tokyo Institute of Technology<br />
 Research Interest: GPU acceleration for large-scale 3D cloud point registration.
 
-**Xinyuan Chen** M2<br />
-Dalian University of Technology<br />
-Research Interest: GPU acceleration for FAST feature dectector.
 
 ## Past Collaborators
 
