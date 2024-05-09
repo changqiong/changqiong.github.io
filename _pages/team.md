@@ -24,23 +24,22 @@ Research Interest: GPU Acceleration for Large-scale 3D cloud point registration.
 
 ### Past Supervisions
 
-2024
+2024<br />
 **Rikuto Omote**	M2<br />
 University of Tsukuba<br />
 Research Interest: GPU accelerator for stereo matching.
 
-2023
+2023<br />
 **Kei Terakura**	B4<br />
 Tokyo Institute of Technology<br />
 Research Interest: Acceleration of Neural Network Inference for Embedded GPU Systems
 
-2022
+2022<br />
 **Xin Xu**	M3<br />
 Nanjing University<br />
 Career: HiSilicon Technology Co., Ltd<br />
 Research Interest: Tiny machine-learning on embedded GPUs. 
 
-2022
 **Zishuo Li**	M2<br />
 University of Tsukuba<br />
 Research Interest: GPU accelerator for stereo matching.
