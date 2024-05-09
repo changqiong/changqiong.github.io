@@ -5,13 +5,13 @@ redirect_from:
   - /Services.html
 ---
 
-## Long Term 
+## Editorial Board 
 * ACM Transactions on Architecture and Code Optimization: Associate Editor
 * Journal of Real-Time Image Processing: Associate Editor
 * IEEE Transactions on Parallel and Distributed Systems: Reproducibility Reviewer
 
-## Short Term
-### Review for Journal*
+## Reviewer
+### Journal
 * Journal of Systems Architecture (2020-2024)
 * IEEE Transactions on Parallel and Distributed Systems (2024)
 * Journal of Parallel and Distributed Computing (2023)
@@ -24,9 +24,9 @@ redirect_from:
 * IEEE Transactions on Intelligent Transportation Systems (2024)
 * IEEE Transactions on Circuits and Systems for Video Technology (2020, 2021)
 
-### Review for Conference
+### Conference*
 *  International Conference on Database Systems for Advanced Applications (DASFAA) 2024.
+*  International Conference on Intelligent Robots and Systems (IROS) 2024.
 *  IEEE International Conference on Robotics and Automation (ICRA) 2024.
 *  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024.
-*  Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2023.
-*  International Conference on Intelligent Autonomous Systems (ICoIAS) 2022,2023.
+*  Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2023,2024.

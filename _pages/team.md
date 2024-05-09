@@ -8,38 +8,40 @@ redirect_from:
 In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Tokyo Institute of Technology, I am also
 collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
 
-
 ### Current Supervisions
 
-**Xiang Li**     D1<br />
+**Xiang Li**	D2<br />
+Nanjing University, Joint Study in Tokyo Institute of Technology<br />
+Research Interest: GPU Computing
+
+**Qian Li**	M2<br />
 Nanjing University<br />
-Research Interest: GPU accelerator for image processing filter
+Research Interest: FPGA accelerator Design
 
-**Shinya Miura**     M2<br />
-Tokyo Institute of Technology<br />
-Research Interest: GPU accelerator for large-scale data sorting 
-
-**Masashi Nakano**     M1<br />
-Tokyo Institute of Technology<br />
-
-**Huaqiao Duan** M1<br />
-Nanjing University<br />
-Research Interest: GPU accelerator for Deep Learning
-
-**Qian Li** M1<br />
-Nanjing University<br />
-Research Interest: FPGA accelerator for high performance computing
+**Ziyang Yu**	M1<br />
+Tokyo Institute of Technology
+Research Interest: GPU Acceleration for Large-scale 3D cloud point registration.
 
 ### Past Supervisions
 
-**Kei Terakura**     B4<br />
-Tokyo Institute of Technology<br />
-
-**Xin Xu**     M3<br />
-Nanjing University<br />
-Career: HiSilicon Technology Co., Ltd<br />
-Research Interest: Tiny machine learning on embedded GPUs. 
-
-**Zishuo Li**     M2<br />
+2024
+**Rikuto Omote**	M2<br />
 University of Tsukuba<br />
 Research Interest: GPU accelerator for stereo matching.
+
+2023
+**Kei Terakura**	B4<br />
+Tokyo Institute of Technology<br />
+Research Interest: Acceleration of Neural Network Inference for Embedded GPU Systems
+
+2022
+**Xin Xu**	M3<br />
+Nanjing University<br />
+Career: HiSilicon Technology Co., Ltd<br />
+Research Interest: Tiny machine-learning on embedded GPUs. 
+
+2022
+**Zishuo Li**	M2<br />
+University of Tsukuba<br />
+Research Interest: GPU accelerator for stereo matching.
+

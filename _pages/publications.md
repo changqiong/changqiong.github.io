@@ -5,6 +5,11 @@ redirect_from:
   - /publications.html
 ---
 ### [2024]
+Extension of Parallel Primitives and Their Applications to Large-Scale Data
+Processing
+<span style="color:gray">Masashi Nakano, **Qiong Chang**, Jun Miyazaki</span><br />
+_In 35th International Conference on Database and Expert Systems Applications (DEXA)_
+
 TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs<br />
 <span style="color:gray">**Qiong Chang**, Xin Xu Mengjoo Er, Yongqing Sun and Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems_
