@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "Joint Research Team"
 redirect_from: 
   - /team/
   - /team.html
@@ -19,7 +19,7 @@ Nanjing University<br />
 Research Interest: FPGA accelerator Design
 
 **Ziyang Yu**	M1<br />
-Tokyo Institute of Technology
+Tokyo Institute of Technology<br />
 Research Interest: GPU Acceleration for Large-scale 3D cloud point registration.
 
 ### Past Supervisions
