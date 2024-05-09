@@ -27,7 +27,7 @@ Research Interest: GPU Acceleration for Large-scale 3D cloud point registration.
 2024<br />
 **Rikuto Omote**	M2<br />
 University of Tsukuba<br />
-Research Interest: GPU accelerator for stereo matching.
+Research Interest: GPU acceleration for stereo matching.
 
 2023<br />
 **Kei Terakura**	B4<br />
@@ -42,5 +42,5 @@ Research Interest: Tiny machine-learning on embedded GPUs.
 
 **Zishuo Li**	M2<br />
 University of Tsukuba<br />
-Research Interest: GPU accelerator for stereo matching.
+Research Interest: GPU acceleration for stereo matching.
 
