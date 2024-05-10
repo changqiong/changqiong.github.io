@@ -31,7 +31,7 @@ _International Journal of Applied Earth Observation and Geoinformation, 2023_ [[
 
 <span style="color:Magenta">J5. An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem</span><br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Itsuki Noda</span><br />
-_Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Chang_An)|[DOI](https://doi.org/10.1016/j.dam.2022.08.008)]
+_Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Zha_An)|[DOI](https://doi.org/10.1016/j.dam.2022.08.008)]
 
 <span style="color:Magenta">J4. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
