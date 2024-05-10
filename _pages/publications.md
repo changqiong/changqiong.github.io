@@ -130,15 +130,15 @@ _In IEEE 32th International Conference on Tools with Artificial Intelligence (IC
 
 <span style="color:Blue">C4, A Simulator for Analyzing the Balance of Mafia Game</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
-_In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_ [[bib](bibs.html#Chang_Simulator)|[DOI](https://doi.org/10.1109/ICAIIS49377.2020.9194822)]
+_In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_ [[bib](bibs.html#Chang_A_Simulator)|[DOI](https://doi.org/10.1109/ICAIIS49377.2020.9194822)]
 
 <span style="color:Blue">C3, A GPU Accelerator for Domain Transformation-Based Stereo Matching</span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama</span><br /> 
-_In Proceedings of the 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI), 2019_ [[bib](bibs.html#Chang_GPU)|[DOI](https://doi.org/10.1145/3377713.3377806)]
+_In Proceedings of the 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI), 2019_ [[bib](bibs.html#Chang_A_GPU)|[DOI](https://doi.org/10.1145/3377713.3377806)]
 
 <span style="color:Blue">C2, Real-Time High-Quality Stereo Matching System on a GPU</span><br />
 <span style="color:gray">**Qiong Chang**, Tsutomu Maruyama</span><br /> 
-_In IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018_ [[bib](bibs.html#Chang_Real-time)|[DOI](https://doi.org/10.1109/ASAP.2018.8445111)]
+_In IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018_ [[bib](bibs.html#Chang_Real_Time)|[DOI](https://doi.org/10.1109/ASAP.2018.8445111)]
 
 <span style="color:Blue">C1, Fast convolution kernels on pascal GPU with high memory efficiency</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
