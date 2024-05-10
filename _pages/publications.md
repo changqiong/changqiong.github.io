@@ -54,7 +54,7 @@ _IEEE Access, 2018_ [[bib](bibs.html#Chang_Real)|[DOI](https://doi.org/10.1109/A
 <span style="color:Blue">C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
 Processing</span><br />
 <span style="color:gray">Masashi Nakano, **Qiong Chang**, Jun Miyazaki</span><br />
-_In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024_ [[bib](bibs.html#Nakano_Extension)|[DOI]()]
+_In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024_ [[bib]()|[DOI]()]
 
 <span style="color:Blue">C22, Acceleration of Neural Network Inference for Embedded GPU Systems</span><br />
  <span style="color:gray">Kei Terakura, **Qiong Chang**, Jun Miyazaki</span><br />
