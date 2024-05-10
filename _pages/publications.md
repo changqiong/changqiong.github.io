@@ -104,7 +104,7 @@ _In 33rd International Conference on Database and Expert Systems Applications (D
 <span style="color:gray">Yuzuki Mimura, **Qiong Chang**, Tsutomu Maruyama</span><br />
 _In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2022_
 
-<span style="color:Blue">C10, Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation<br />
+<span style="color:Blue">C10, Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation</span><br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
 _The 37th ACM/SIGAPP Symposium on Applied Computing (SAC), 2022_
 
