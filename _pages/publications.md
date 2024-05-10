@@ -51,96 +51,96 @@ _Neural Computing and Application, 2021_
 _IEEE Access, 2018_
 
 ### [Conference]
-C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
-Processing<br />
+<span style="color:Blue">C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
+Processing</span><br />
 <span style="color:gray">Masashi Nakano, **Qiong Chang**, Jun Miyazaki</span><br />
 _In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024_
 
-C22, Acceleration of Neural Network Inference for Embedded GPU Systems<br />
+<span style="color:Blue">C22, Acceleration of Neural Network Inference for Embedded GPU Systems</span><br />
  <span style="color:gray">Kei Terakura, **Qiong Chang**, Jun Miyazaki</span><br />
 _International Conference on Big Data and Smart Computing (BigComp), 2024_
 
-C21, Attribution-based Scanline Perturbation Attack on 3D Detectors of LiDar Point Clouds<br />
+<span style="color:Blue">C21, Attribution-based Scanline Perturbation Attack on 3D Detectors of LiDar Point Clouds</span><br />
 <span style="color:gray">Ziyang Yu, Ting Yang, **Qiong Chang**, Yu Liu, Weimin Wang</span><br />
 _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024_
 
-C20 Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency<br />
+<span style="color:Blue">C20 Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency</span><br />
 <span style="color:gray">Yu Du, Ting Yang, **Qiong Chang**, Wei Zhong, Weimin Wang</span><br />
 _6th Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2023_
 
-C19 How Does the System Perceive Me? --- A Transparent and Tunable Recommender System<br />
+<span style="color:Blue">C19 How Does the System Perceive Me? --- A Transparent and Tunable Recommender System</span><br />
 <span style="color:gray">Mingman Xu, **Qiong Chang**, Jun Miyazaki</span><br />
 _In 34th International Conference on Database and Expert Systems Applications (DEXA), 2023_
 
-C18 GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation<br />
+<span style="color:Blue">C18 GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation</span><br />
 <span style="color:gray">Yoshiki Kunimoto, **Qiong Chang**, Yashiki Yamaguchi, Tsutomu Maruyama</span><br />
 _34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2023_
 
-C17, A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes<br />
+<span style="color:Blue">C17, A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes</span><br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Naoto Imura, Katsuhiro Nishinari</span><br />
 _23rd International Conference on Computational Science (ICCS), 2023_
 
-C16, VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation<br />
+<span style="color:Blue">C16, VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation</span><br />
 <span style="color:gray">Weimin Wang, **Qiong Chang**</span><br />
 _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2023_
 
-C15, StereoVAE: A lightweight stereo-matching system using embedded GPUs<br />
+<span style="color:Blue">C15, StereoVAE: A lightweight stereo-matching system using embedded GPUs</span><br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Xun Xi, Xin Liu, Yun Li, Jun Miyazaki</span><br />
 _International Conference on Robotics and Automation (ICRA), 2023_
 
-C14, Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System<br />
+<span style="color:Blue">C14, Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System</span><br />
 <span style="color:gray">Shi-Jun Luo, Hyoil Han, **Qiong Chang**, Jun Miyazaki</span><br />
 _The 38th ACM/SIGAPP Symposium On Applied Computing (SAC), 2023_
 
-C13, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling<br />
+<span style="color:Blue">C13, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling</span><br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _2023 MultiMedia Modeling: 20th International Conference (MMM), 2023_
 
-C12, Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation<br />
+<span style="color:Blue">C12, Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation</span><br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
 _In 33rd International Conference on Database and Expert Systems Applications (DEXA), 2022_
 
-C11, Acceleration of video stabilization using embedded GPU<br />
+<span style="color:Blue">C11, Acceleration of video stabilization using embedded GPU</span><br />
 <span style="color:gray">Yuzuki Mimura, **Qiong Chang**, Tsutomu Maruyama</span><br />
 _In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2022_
 
-C10, Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation<br />
+<span style="color:Blue">C10, Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation<br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
 _The 37th ACM/SIGAPP Symposium on Applied Computing (SAC), 2022_
 
-C9, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling
+<span style="color:Blue">C9, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _The 29th International Conference on MultiMedia Modeling (MMM), 2022_
 
-C8, Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform<br />
+<span style="color:Blue">C8, Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform</span><br />
 <span style="color:gray">Ran Dong, Yangfei Lin, **Qiong Chang**, Junpei Zhong, Dongsheng Cai, Soichiro Ikuno</span><br />
 _ACM International Conference on Intelligent Computing and Its Emerging Applications (ICEA), 2021_
 
-C7, Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs<br /> 
+<span style="color:Blue">C7, Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs</span><br /> 
 <span style="color:gray">Tsubasa Ohara, **Qiong Chang**, Jun Miyazaki</span><br /> 
 _In 32nd International Conference on Database and Expert Systems Applications (DEXA), 2021_
 
-C6, Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU<br />
+<span style="color:Blue">C6, Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU</span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Masaki Onishi, Tsutomu Maruyama</span><br /> 
 _In IEEE 38th International Conference on Computer Design (ICCD), 2020_
 
-C5, CNF Encodings for the Min-Max Multiple Traveling Salesmen Problem<br />
+<span style="color:Blue">C5, CNF Encodings for the Min-Max Multiple Traveling Salesmen Problem</span><br />
 <span style="color:gray">Aolong Zha, Rongxuan Gao, **Qiong Chang**, Itsuki Noda</span><br /> 
 _In IEEE 32th International Conference on Tools with Artificial Intelligence (ICTAI), 2020_
 
-C4, A Simulator for Analyzing the Balance of Mafia Game<br />
+<span style="color:Blue">C4, A Simulator for Analyzing the Balance of Mafia Game</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
 _In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_
 
-C3, A GPU Accelerator for Domain Transformation-Based Stereo Matching<br />
+<span style="color:Blue">C3, A GPU Accelerator for Domain Transformation-Based Stereo Matching</span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama</span><br /> 
 _In Proceedings of the 2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI), 2019_
 
-C2, Real-Time High-Quality Stereo Matching System on a GPU<br />
+<span style="color:Blue">C2, Real-Time High-Quality Stereo Matching System on a GPU</span><br />
 <span style="color:gray">**Qiong Chang**, Tsutomu Maruyama</span><br /> 
 _In IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018_
 
-C1, Fast convolution kernels on pascal GPU with high memory efficiency<br />
+<span style="color:Blue">C1, Fast convolution kernels on pascal GPU with high memory efficiency</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
 _In Proceedings of the 26th High Performance Computing Symposium (HPC), 2018_ **(Best Paper Award)**
 
