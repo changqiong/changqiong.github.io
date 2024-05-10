@@ -5,48 +5,48 @@ redirect_from:
   - /publications.html
 ---
 ### [Journal]
-J11. TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs<br />
+<span style="color:pink">J11. TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs<br />
 <span style="color:gray">**Qiong Chang**, Xin Xu Mengjoo Er, Yongqing Sun and Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_
 
-J10. Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation<br />
+<span style="color:gray">J10. Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _Neurocomputing, 2023_
 
-J9. High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing<br />
+<span style="color:gray">J9. High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing<br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
 _Scientific Reports, 2023_
 
-J8. Multi-Directional Sobel Operator Kernel on Gpus<br />
+<span style="color:gray">J8. Multi-Directional Sobel Operator Kernel on Gpus<br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing, 2023_
 
-J7. Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications<br />
+<span style="color:gray">J7. Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications<br />
 <span style="color:gray">Kuakua Lu, Longfei Li, Sai Jiang, Xu Chen, **Qiong Chang**, Yi Shi, Yun Li</span><br />
 _Advanced Sensor Research, 2023_
 
-J6. DS-Net: A dedicated approach for collapsed building detection from post-event airborne point clouds<br />
+<span style="color:gray">J6. DS-Net: A dedicated approach for collapsed building detection from post-event airborne point clouds<br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _International Journal of Applied Earth Observation and Geoinformation, 2023_
 
-J5. An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem<br />
+<span style="color:gray">J5. An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem<br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Itsuki Noda</span><br />
 _Discrete Applied Mathematics, 2023_
 
-J4. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation <br />
+<span style="color:gray">J4. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation <br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture, 2022_
 
-J3. A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem<br />
+<span style="color:gray">J3. A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem<br />
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> 
 _Research, 2021_
 
-J2. A Deep Learning Framework for Realistic Robot Motion Generation<br />
+<span style="color:gray">J2. A Deep Learning Framework for Realistic Robot Motion Generation<br />
 <span style="color:gray">Ran Dong, **Qiong Chang**, Soichiro Ikuno</span><br />
 _Neural Computing and Application, 2021_
 
 
-J1. Real-Time Stereo Vision System: A Multi-Block Matching on GPU<br />
+<span style="color:gray">J1. Real-Time Stereo Vision System: A Multi-Block Matching on GPU<br />
 <span style="color:gray">**Qiong Chang**, Tsutomu Maruyama</span><br /> 
 _IEEE Access, 2018_
 
