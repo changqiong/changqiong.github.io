@@ -23,7 +23,7 @@ _Journal of Parallel and Distributed Computing, 2023_ [[bib]()|[DOI](https://doi
 
 <span style="color:Magenta">J7. Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications</span><br />
 <span style="color:gray">Kuakua Lu, Longfei Li, Sai Jiang, Xu Chen, **Qiong Chang**, Yi Shi, Yun Li</span><br />
-_Advanced Sensor Research, 2023_ [[bib]()|[DOI]( https://doi.org/10.1002/adsr.202200066)]
+_Advanced Sensor Research, 2023_ [[bib]()|[DOI](https://doi.org/10.1002/adsr.202200066)]
 
 <span style="color:Magenta">J6. DS-Net: A dedicated approach for collapsed building detection from post-event airborne point clouds</span><br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
@@ -35,20 +35,20 @@ _Discrete Applied Mathematics, 2023_ [[bib]()|[DOI](https://doi.org/10.1016/j.da
 
 <span style="color:Magenta">J4. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
-_Journal of Systems Architecture, 2022_ [[bib]()|[DOI](Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation)]
+_Journal of Systems Architecture, 2022_ [[bib]()|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)]
 
 <span style="color:Magenta">J3. A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem</span><br />
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> /
-_Research, 2021_ [[bib]()|[DOI](10.34133/2021/9820502)]
+_Research, 2021_ [[bib]()|[DOI](https://doi.org/10.34133/2021/9820502)]
 
 <span style="color:Magenta">J2. A Deep Learning Framework for Realistic Robot Motion Generation</span><br />
 <span style="color:gray">Ran Dong, **Qiong Chang**, Soichiro Ikuno</span><br />
-_Neural Computing and Application, 2021_ [[bib]()|[DOI](A Deep Learning Framework for Realistic Robot Motion Generation)]
+_Neural Computing and Application, 2021_ [[bib]()|[DOI](https://doi.org/10.1007/s00521-021-06192-3)]
 
 
 <span style="color:Magenta">J1. Real-Time Stereo Vision System: A Multi-Block Matching on GPU</span><br />
 <span style="color:gray">**Qiong Chang**, Tsutomu Maruyama</span><br /> 
-_IEEE Access, 2018_ [[bib]()|[DOI](10.1109/ACCESS.2018.2859445)]
+_IEEE Access, 2018_ [[bib]()|[DOI](https://doi.org/10.1109/ACCESS.2018.2859445)]
 
 ### [Conference]
 <span style="color:Blue">C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
@@ -58,11 +58,11 @@ _In 35th International Conference on Database and Expert Systems Applications (D
 
 <span style="color:Blue">C22, Acceleration of Neural Network Inference for Embedded GPU Systems</span><br />
  <span style="color:gray">Kei Terakura, **Qiong Chang**, Jun Miyazaki</span><br />
-_International Conference on Big Data and Smart Computing (BigComp), 2024_ [[bib]()|[DOI](10.1109/BigComp60711.2024.00069)]
+_International Conference on Big Data and Smart Computing (BigComp), 2024_ [[bib]()|[DOI](https://doi.org/10.1109/BigComp60711.2024.00069)]
 
 <span style="color:Blue">C21, Attribution-based Scanline Perturbation Attack on 3D Detectors of LiDar Point Clouds</span><br />
 <span style="color:gray">Ziyang Yu, Ting Yang, **Qiong Chang**, Yu Liu, Weimin Wang</span><br />
-_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024_ [[bib]()|[DOI](10.1109/ICASSP48485.2024.10447340)]
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024_ [[bib]()|[DOI](https://doi.org/10.1109/ICASSP48485.2024.10447340)]
 
 <span style="color:Blue">C20 Enhancing Lidar and Radar Fusion for Vehicle Detection in Adverse Weather via Cross-Modality Semantic Consistency</span><br />
 <span style="color:gray">Yu Du, Ting Yang, **Qiong Chang**, Wei Zhong, Weimin Wang</span><br />
@@ -74,7 +74,7 @@ _In 34th International Conference on Database and Expert Systems Applications (D
 
 <span style="color:Blue">C18 GPU Acceleration of Multi-object Tracking with Motion Vector interpolation and Affine Transformation</span><br />
 <span style="color:gray">Yoshiki Kunimoto, **Qiong Chang**, Yashiki Yamaguchi, Tsutomu Maruyama</span><br />
-_34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2023_ [[bib]()|[DOI](10.1109/ASAP57973.2023.00031)]
+_34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2023_ [[bib]()|[DOI](https://doi.org/10.1109/ASAP57973.2023.00031)]
 
 <span style="color:Blue">C17, A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes</span><br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Naoto Imura, Katsuhiro Nishinari</span><br />
@@ -82,11 +82,11 @@ _23rd International Conference on Computational Science (ICCS), 2023_ [[bib]()|[
 
 <span style="color:Blue">C16, VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation</span><br />
 <span style="color:gray">Weimin Wang, **Qiong Chang**</span><br />
-_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2023_ [[bib]()|[DOI](10.1109/ICASSP49357.2023.10095859)]
+_IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2023_ [[bib]()|[DOI](https://doi.org/10.1109/ICASSP49357.2023.10095859)]
 
 <span style="color:Blue">C15, StereoVAE: A lightweight stereo-matching system using embedded GPUs</span><br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Xun Xi, Xin Liu, Yun Li, Jun Miyazaki</span><br />
-_International Conference on Robotics and Automation (ICRA), 2023_ [[bib]()|[DOI](10.1109/ICRA48891.2023.10160441)]
+_International Conference on Robotics and Automation (ICRA), 2023_ [[bib]()|[DOI](https://doi.org/10.1109/ICRA48891.2023.10160441)]
 
 <span style="color:Blue">C14, Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System</span><br />
 <span style="color:gray">Shi-Jun Luo, Hyoil Han, **Qiong Chang**, Jun Miyazaki</span><br />
@@ -94,15 +94,15 @@ _The 38th ACM/SIGAPP Symposium On Applied Computing (SAC), 2023_ [[bib]()|[DOI](
 
 <span style="color:Blue">C13, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling</span><br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_2023 MultiMedia Modeling: 20th International Conference (MMM), 2023_ [[bib]()|[DOI](Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic)]
+_2023 MultiMedia Modeling: 20th International Conference (MMM), 2023_ [[bib]()|[DOI](https://doi.org/10.1007/978-3-031-27077-2_21)]
 
 <span style="color:Blue">C12, Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation</span><br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
-_In 33rd International Conference on Database and Expert Systems Applications (DEXA), 2022_ [[bib]()|[DOI](Jointly Learning Propagating Features on the Knowledge Graph for Movie Recommendation)]
+_In 33rd International Conference on Database and Expert Systems Applications (DEXA), 2022_ [[bib]()|[DOI](https://doi.org/10.1007/978-3-031-12423-5_1)]
 
 <span style="color:Blue">C11, Acceleration of video stabilization using embedded GPU</span><br />
 <span style="color:gray">Yuzuki Mimura, **Qiong Chang**, Tsutomu Maruyama</span><br />
-_In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2022_ [[bib]()|[DOI](10.1109/ASAP54787.2022.00018)]
+_In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2022_ [[bib]()|[DOI](https://doi.org/10.1109/ASAP54787.2022.00018)]
 
 <span style="color:Blue">C10, Knowledge Graph Enhanced Multi-Task Learning between Reviews and Ratings for Movie Recommendation</span><br />
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
@@ -122,15 +122,15 @@ _In 32nd International Conference on Database and Expert Systems Applications (D
 
 <span style="color:Blue">C6, Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU</span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Masaki Onishi, Tsutomu Maruyama</span><br /> 
-_In IEEE 38th International Conference on Computer Design (ICCD), 2020_ [[bib]()|[DOI](10.1109/ICCD50377.2020.00104)]
+_In IEEE 38th International Conference on Computer Design (ICCD), 2020_ [[bib]()|[DOI](https://doi.org/10.1109/ICCD50377.2020.00104)]
 
 <span style="color:Blue">C5, CNF Encodings for the Min-Max Multiple Traveling Salesmen Problem</span><br />
 <span style="color:gray">Aolong Zha, Rongxuan Gao, **Qiong Chang**, Itsuki Noda</span><br /> 
-_In IEEE 32th International Conference on Tools with Artificial Intelligence (ICTAI), 2020_ [[bib]()|[DOI](10.1109/ICTAI50040.2020.00053)]
+_In IEEE 32th International Conference on Tools with Artificial Intelligence (ICTAI), 2020_ [[bib]()|[DOI](https://doi.org/10.1109/ICTAI50040.2020.00053)]
 
 <span style="color:Blue">C4, A Simulator for Analyzing the Balance of Mafia Game</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
-_In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_ [[bib]()|[DOI](10.1109/ICAIIS49377.2020.9194822)]
+_In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_ [[bib]()|[DOI](https://doi.org/10.1109/ICAIIS49377.2020.9194822)]
 
 <span style="color:Blue">C3, A GPU Accelerator for Domain Transformation-Based Stereo Matching</span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama</span><br /> 
@@ -138,7 +138,7 @@ _In Proceedings of the 2nd International Conference on Algorithms, Computing and
 
 <span style="color:Blue">C2, Real-Time High-Quality Stereo Matching System on a GPU</span><br />
 <span style="color:gray">**Qiong Chang**, Tsutomu Maruyama</span><br /> 
-_In IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018_ [[bib]()|[DOI](10.1109/ASAP.2018.8445111)]
+_In IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018_ [[bib]()|[DOI](https://doi.org/10.1109/ASAP.2018.8445111)]
 
 <span style="color:Blue">C1, Fast convolution kernels on pascal GPU with high memory efficiency</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
