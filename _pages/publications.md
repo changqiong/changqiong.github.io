@@ -5,7 +5,7 @@ redirect_from:
   - /publications.html
 ---
 ### [Journal]
-<font color="Magenta">J11. TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs<br />
+<span style="color:Magenta">J11. TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs<br />
 <span style="color:gray">**Qiong Chang**, Xin Xu Mengjoo Er, Yongqing Sun and Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_
 
