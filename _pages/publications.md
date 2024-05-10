@@ -108,7 +108,7 @@ _In IEEE 33rd International Conference on Application-specific Systems, Architec
 <span style="color:gray">Yun Liu, Jun Miyazaki, **Qiong Chang**</span><br />
 _The 37th ACM/SIGAPP Symposium on Applied Computing (SAC), 2022_
 
-<span style="color:Blue">C9, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling
+<span style="color:Blue">C9, Optimizing Local Feature Representations of 3D Point Clouds with Anisotropic Edge Modeling</span><br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
 _The 29th International Conference on MultiMedia Modeling (MMM), 2022_
 
