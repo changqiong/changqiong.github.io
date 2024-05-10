@@ -15,27 +15,27 @@ _Neurocomputing, 2023_ [[bib](bibs.html#Haoyi_Diffusion)|[DOI](https://doi.org/1
 
 <span style="color:Magenta">J9. High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing</span><br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
-_Scientific Reports, 2023_ [[bib]()|[DOI](https://doi.org/10.1038/s41598-023-32167-6)]
+_Scientific Reports, 2023_ [[bib](bibs.html#Matsuura_High)|[DOI](https://doi.org/10.1038/s41598-023-32167-6)]
 
 <span style="color:Magenta">J8. Multi-Directional Sobel Operator Kernel on Gpus</span><br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Yun Li, Jun Miyazaki</span><br />
-_Journal of Parallel and Distributed Computing, 2023_ [[bib]()|[DOI](https://doi.org/10.1016/j.jpdc.2023.03.004)]
+_Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[DOI](https://doi.org/10.1016/j.jpdc.2023.03.004)]
 
 <span style="color:Magenta">J7. Advanced Bioinspired Organic Sensors for Future-Oriented Intelligent Applications</span><br />
 <span style="color:gray">Kuakua Lu, Longfei Li, Sai Jiang, Xu Chen, **Qiong Chang**, Yi Shi, Yun Li</span><br />
-_Advanced Sensor Research, 2023_ [[bib]()|[DOI](https://doi.org/10.1002/adsr.202200066)]
+_Advanced Sensor Research, 2023_ [[bib](bibs.html#Lu_Advanced)|[DOI](https://doi.org/10.1002/adsr.202200066)]
 
 <span style="color:Magenta">J6. DS-Net: A dedicated approach for collapsed building detection from post-event airborne point clouds</span><br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_International Journal of Applied Earth Observation and Geoinformation, 2023_ [[bib]()|[DOI](https://doi.org/10.1016/j.jag.2022.103150)]
+_International Journal of Applied Earth Observation and Geoinformation, 2023_ [[bib](bibs.html#Xiu_DS)|[DOI](https://doi.org/10.1016/j.jag.2022.103150)]
 
 <span style="color:Magenta">J5. An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem</span><br />
 <span style="color:gray">Aolong Zha, **Qiong Chang**, Itsuki Noda</span><br />
-_Discrete Applied Mathematics, 2023_ [[bib]()|[DOI](https://doi.org/10.1016/j.dam.2022.08.008)]
+_Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Chang_An)|[DOI](https://doi.org/10.1016/j.dam.2022.08.008)]
 
 <span style="color:Magenta">J4. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
-_Journal of Systems Architecture, 2022_ [[bib]()|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)]
+_Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)]
 
 <span style="color:Magenta">J3. A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem</span><br />
 <span style="color:gray">Mengjiao Pei, Changjin Wan, **Qiong Chang**, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> /
