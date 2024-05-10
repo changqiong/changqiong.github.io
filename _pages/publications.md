@@ -130,7 +130,7 @@ _In IEEE 32th International Conference on Tools with Artificial Intelligence (IC
 
 <span style="color:Blue">C4, A Simulator for Analyzing the Balance of Mafia Game</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
-_In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_ [[bib](bibs.html#Chang_A_Simulator)|[DOI](https://doi.org/10.1109/ICAIIS49377.2020.9194822)]
+_In IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), 2020_ [[bib](bibs.html#Chang_A_simulator)|[DOI](https://doi.org/10.1109/ICAIIS49377.2020.9194822)]
 
 <span style="color:Blue">C3, A GPU Accelerator for Domain Transformation-Based Stereo Matching</span><br />
 <span style="color:gray">**Qiong Chang**, Aolong Zha, Masaki Onishi, Tsutomu Maruyama</span><br /> 
