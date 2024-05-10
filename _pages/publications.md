@@ -142,6 +142,6 @@ _In IEEE 29th International Conference on Application-specific Systems, Architec
 
 <span style="color:Blue">C1, Fast convolution kernels on pascal GPU with high memory efficiency</span><br />
 <span style="color:gray">**Qiong Chang**</span><br /> 
-_In Proceedings of the 26th High Performance Computing Symposium (HPC), 2018_ **(Best Paper Award)** [[bib](bibs.html#Chang_Fast_convollution)|[DOI](https://dl.acm.org/doi/abs/10.5555/3213069.3213072)]
+_In Proceedings of the 26th High Performance Computing Symposium (HPC), 2018_ **(Best Paper Award)** [[bib](bibs.html#Chang_Fast_convolution)|[DOI](https://dl.acm.org/doi/abs/10.5555/3213069.3213072)]
 
 
