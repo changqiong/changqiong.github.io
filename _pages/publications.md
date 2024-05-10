@@ -86,7 +86,7 @@ _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICAS
 
 <span style="color:Blue">C15, StereoVAE: A lightweight stereo-matching system using embedded GPUs</span><br />
 <span style="color:gray">**Qiong Chang**, Xiang Li, Xun Xi, Xin Liu, Yun Li, Jun Miyazaki</span><br />
-_International Conference on Robotics and Automation (ICRA), 2023_ [[bib](Chang_StereoVAE)|[DOI](https://doi.org/10.1109/ICRA48891.2023.10160441)]
+_International Conference on Robotics and Automation (ICRA), 2023_ [[bib](bibs.html#Chang_StereoVAE)|[DOI](https://doi.org/10.1109/ICRA48891.2023.10160441)]
 
 <span style="color:Blue">C14, Automatic Extraction of Effective Relations in a Knowledge Graph for a Recommendation Explanation System</span><br />
 <span style="color:gray">Shi-Jun Luo, Hyoil Han, **Qiong Chang**, Jun Miyazaki</span><br />
