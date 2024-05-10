@@ -11,7 +11,7 @@ _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_
 
 <span style="color:Magenta">J10. Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation</span><br />
 <span style="color:gray">Haoyi Xiu, Xin Liu, Weimin Wang, Kyoung-Sook Kim, Takayuki Shinohara, **Qiong Chang**, Masashi Matsuoka</span><br />
-_Neurocomputing, 2023_
+_Neurocomputing, 2023_[[bib](bibs.html#XiuLWKSCM23)]
 
 <span style="color:Magenta">J9. High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing</span><br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, **Qiong Chang**, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
