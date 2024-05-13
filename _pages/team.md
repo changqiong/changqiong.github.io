@@ -12,7 +12,7 @@ collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing Univ
 
 **Xiang Li**	D2<br />
 Nanjing University, Joint Study in Tokyo Institute of Technology<br />
-Research Interest: GPU-based high-performance computing algorithm design
+Research Interest: GPU-based high-performance computing algorithm design.
 
 **Qian Li**	M2<br />
 Nanjing University<br />
@@ -32,7 +32,7 @@ Research Interest: GPU acceleration for large-scale 3D cloud point registration.
 2023<br />
 **Kei Terakura**	B4<br />
 Tokyo Institute of Technology<br />
-Research Interest: Acceleration of neural network inference for embedded GPU systems
+Research Interest: Acceleration of neural network inference for embedded GPU systems.
 
 2022<br />
 **Xin Xu**	M3<br />

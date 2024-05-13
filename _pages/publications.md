@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [Journal]
 <span style="color:Magenta">J11. TinyStereo: A Tiny Coarse-to-Fine for vision-based Depth Estimation on Embedded GPUs</span><br />
-<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu Mengjoo Er, Yongqing Sun and Yun Li</span><br />
+<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Yongqing Sun and Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_
 
 <span style="color:Magenta">J10. Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation</span><br />
