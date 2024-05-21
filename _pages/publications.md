@@ -51,10 +51,14 @@ _Neural Computing and Application, 2021_ [[bib](bibs.html#Dong_A)|[DOI](https://
 _IEEE Access, 2018_ [[bib](bibs.html#Chang_Real)|[DOI](https://doi.org/10.1109/ACCESS.2018.2859445)]
 
 ### [Conference]
+<span style="color:Blue">C24, K-way In-place Merge by CPU-GPU Cooperative Processing</span><br />
+<span style="color:gray">Shinya Miura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
+_35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2024, to appear_ [[bib]()|[DOI]()]
+
 <span style="color:Blue">C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
 Processing</span><br />
 <span style="color:gray">Masashi Nakano, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
-_In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024_ [[bib]()|[DOI]()]
+_In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024, to appear_ [[bib]()|[DOI]()]
 
 <span style="color:Blue">C22, Acceleration of Neural Network Inference for Embedded GPU Systems</span><br />
  <span style="color:gray">Kei Terakura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
