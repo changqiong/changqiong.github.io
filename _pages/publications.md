@@ -34,7 +34,7 @@ _International Journal of Applied Earth Observation and Geoinformation, 2023_ [[
 _Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Zha_An)|[DOI](https://doi.org/10.1016/j.dam.2022.08.008)]
 
 <span style="color:Magenta">J4. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
-<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Meng Joo Er, Tsutomu Maruyama</span><br />
+<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)]
 
 <span style="color:Magenta">J3. A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem</span><br />
