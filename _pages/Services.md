@@ -18,7 +18,7 @@ redirect_from:
 * IEEE Robotics and Automation Magazine (2023)
 * Applied Soft Computing (2023)
 * Computer Vision and Image Understanding (2023)
-* Expert Systems With Applications (2023)
+* Expert Systems With Applications (2023, 2024)
 * IET Image Processing (2023)
 * Mechanical Systems and Signal Processing (2023)
 * IEEE Transactions on Intelligent Transportation Systems (2024)
