@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 ## Editorial Board 
-* ACM Transactions on Architecture and Code Optimization: Associate Editor
+* ACM Transactions on Architecture and Code Optimization: [Associate Editor](https://dl.acm.org/journal/taco/editorial-board)
 * Journal of Real-Time Image Processing: [Associate Editor](https://link.springer.com/journal/11554/editors)
 * IEEE Transactions on Parallel and Distributed Systems: [Reproducibility Reviewer](https://www.computer.org/csdl/journals/td/about/107377?title=Review%20Board&periodical=IEEE%20Transactions%20on%20Parallel%20and%20Distributed%20Systems)
 
