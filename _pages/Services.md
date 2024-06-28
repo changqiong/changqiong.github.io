@@ -14,6 +14,7 @@ redirect_from:
 ### Journal
 * Journal of Systems Architecture (2020-2024)
 * IEEE Transactions on Parallel and Distributed Systems (2024)
+* ACM Transactions on Architecture and Code Optimization (2024)
 * Journal of Parallel and Distributed Computing (2023)
 * IEEE Robotics and Automation Magazine (2023)
 * Applied Soft Computing (2023)
