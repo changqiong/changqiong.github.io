@@ -7,7 +7,7 @@ redirect_from:
 ### [Journal]
 <span style="color:Magenta">J12. Motion Capture-based Robotic Imitation: A Keyframeless Implementation Method using Multivariate Empirical Mode Decomposition</span><br />
 <span style="color:gray"><span style="color:black">Ran Dong, **Qiong Chang**</span>, Junpei Zhong and Soichiro Ikuno</span><br />
-_IIEEE/ASME Transactions on Mechatronics, 2024_ 
+_IEEE/ASME Transactions on Mechatronics, 2024_ 
 
 <span style="color:Magenta">J11. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun and Yun Li</span><br />
