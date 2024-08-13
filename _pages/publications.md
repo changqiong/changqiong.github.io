@@ -5,6 +5,10 @@ redirect_from:
   - /publications.html
 ---
 ### [Journal]
+<span style="color:Magenta">J13. An Optimized GPU Implementation for GIST Descriptor</span><br />
+<span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**</span>, Aolong ha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
+_ACM Transactions on Architecture and Code Optimization, 2024_ 
+
 <span style="color:Magenta">J12. Motion Capture-based Robotic Imitation: A Keyframeless Implementation Method using Multivariate Empirical Mode Decomposition</span><br />
 <span style="color:gray"><span style="color:black">Ran Dong, **Qiong Chang**</span>, Junpei Zhong and Soichiro Ikuno</span><br />
 _IEEE/ASME Transactions on Mechatronics, 2024_ 

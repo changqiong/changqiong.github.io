@@ -18,6 +18,7 @@ Research Interests
 
 News(2024) 
 ======
+* <img src="../images/news.jpg" alt="Icon" width="40" />**[Aug, 2024]** Our paper "An Optimized GPU Implementation for GIST Descriptor." is accepted by [TACO'24](https://dl.acm.org/journal/taco)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Aug, 2024]** Our paper "Motion Capture-based Robotic Imitation:
 A Keyframeless Implementation Method using Multivariate Empirical Mode Decomposition." is accepted by [TMECH'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[May, 2024]** Our paper "Extension of Parallel Primitives and Their Applications to Large-Scale Data Processing." is accepted by [DEXA'24](https://www.dexa.org/node/97)
