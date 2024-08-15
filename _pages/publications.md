@@ -10,11 +10,11 @@ redirect_from:
 _ACM Transactions on Architecture and Code Optimization, 2024_ 
 
 <span style="color:Magenta">J12. Motion Capture-based Robotic Imitation: A Keyframeless Implementation Method using Multivariate Empirical Mode Decomposition</span><br />
-<span style="color:gray"><span style="color:black">Ran Dong, **Qiong Chang**</span>, Junpei Zhong and Soichiro Ikuno</span><br />
+<span style="color:gray"><span style="color:black">Ran Dong, **Qiong Chang**</span>, Junpei Zhong, Soichiro Ikuno</span><br />
 _IEEE/ASME Transactions on Mechatronics, 2024_ 
 
 <span style="color:Magenta">J11. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
-<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun and Yun Li</span><br />
+<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)]
 
 <span style="color:Magenta">J10. Diffusion unit: Interpretable edge enhancement and suppression learning for 3D point cloud segmentation</span><br />
@@ -46,7 +46,7 @@ _Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Zha_An)|[DOI](https://doi.
 _Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)]
 
 <span style="color:Magenta">J3. A Smarter Pavlovian Dog with Optically Modulated Associative Learning in an Organic Ferroelectric Neuromem</span><br />
-<span style="color:gray">Mengjiao Pei, Changjin Wan, <span style="color:black">**Qiong Chang**</span>, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, and Yun Li</span><br /> 
+<span style="color:gray">Mengjiao Pei, Changjin Wan, <span style="color:black">**Qiong Chang**</span>, Jianhang Guo, Sai Jiang, Bowen Zhang, Xinran Wang, Yi Shi, Yun Li</span><br /> 
 _Research, 2021_ [[bib](bibs.html#Pei_A)|[DOI](https://doi.org/10.34133/2021/9820502)]
 
 <span style="color:Magenta">J2. A Deep Learning Framework for Realistic Robot Motion Generation</span><br />
