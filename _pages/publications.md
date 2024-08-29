@@ -8,10 +8,12 @@ redirect_from:
 <span style="color:Magenta">J13. An Optimized GPU Implementation for GIST Descriptor</span><br />
 <span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2024_ 
+[[bib]()|[DOI](https://doi.org/10.1145/3689339)]
 
 <span style="color:Magenta">J12. Motion Capture-based Robotic Imitation: A Keyframeless Implementation Method using Multivariate Empirical Mode Decomposition</span><br />
 <span style="color:gray"><span style="color:black">Ran Dong, **Qiong Chang**</span>, Junpei Zhong, Soichiro Ikuno</span><br />
 _IEEE/ASME Transactions on Mechatronics, 2024_ 
+[[bib]()|[DOI](https://doi.org/10.1109/TMECH.2024.3440642)]
 
 <span style="color:Magenta">J11. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
