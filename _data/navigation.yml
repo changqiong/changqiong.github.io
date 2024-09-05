@@ -1,0 +1,18 @@
+
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Joint Team"
+    url: /team/
+
+  - title: "Services"
+    url: /Services/
+
+  - title: "Fundings"
+    url: /funding/
+
+  - title: "Teaching"
+    url: /teaching/    
+
