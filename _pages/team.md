@@ -11,7 +11,7 @@ collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing Univ
 ## Current Collaborators
 
 **Xiang Li**	D2<br />
-Nanjing University, Joint Study in Tokyo Institute of Technology<br />
+Nanjing University<br />
 Research Interest: GPU-based high-performance computing algorithm design.
 
 **Qian Li**	M2<br />
