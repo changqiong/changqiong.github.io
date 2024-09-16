@@ -61,6 +61,11 @@ _Neural Computing and Application, 2021_ [[bib](bibs.html#Dong_A)|[DOI](https://
 _IEEE Access, 2018_ [[bib](bibs.html#Chang_Real)|[DOI](https://doi.org/10.1109/ACCESS.2018.2859445)]
 
 ### [Conference]
+<span style="color:Blue">C25, A Data Model and Implementation of a Data Lineage Management System for Database Repair and Simulation</span><br />
+<span style="color:gray">Weijun Wong, Kyoko Yasuda, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
+_26th International Conference on Information Integration and Web Intelligence (iiWAS2024), 2024, to appear_ [[bib]()|[DOI]()]
+
+
 <span style="color:Blue">C24, K-way In-place Merge by CPU-GPU Cooperative Processing</span><br />
 <span style="color:gray">Shinya Miura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
 _35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2024, to appear_ [[bib]()|[DOI]()]
