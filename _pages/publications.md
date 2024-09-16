@@ -68,7 +68,7 @@ _26th International Conference on Information Integration and Web Intelligence (
 
 <span style="color:Blue">C24, K-way In-place Merge by CPU-GPU Cooperative Processing</span><br />
 <span style="color:gray">Shinya Miura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
-_35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2024, to appear_ [[bib]()|[DOI]()]
+_35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2024, to appear_ [[bib](bibs.html#Miura_K-way)|[DOI](https://doi.org/10.1109/ASAP61560.2024.00039)]
 
 <span style="color:Blue">C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
 Processing</span><br />
