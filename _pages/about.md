@@ -18,6 +18,7 @@ Research Interests
 
 News(2024) 
 ======
+* <img src="../images/news.jpg" alt="Icon" width="40" />**[Oct, 2024]** Our paper "Deep Dual Internal Learning for Hyperspectral Image Super-Resolution." is accepted by [MMM'25](https://mmm2025.net/)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Aug, 2024]** Our paper "A Data Model and Implementation of a Data Lineage Management System for Database Repair and Simulation." is accepted by [iiWAS'24](https://www.iiwas.org/conferences/iiwas2024/)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Aug, 2024]** Our paper "An Optimized GPU Implementation for GIST Descriptor." is accepted by [TACO'24](https://dl.acm.org/journal/taco)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Aug, 2024]** Our paper "Motion Capture-based Robotic Imitation:
