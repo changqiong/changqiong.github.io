@@ -71,12 +71,12 @@ _26th International Conference on Information Integration and Web Intelligence (
 
 <span style="color:Blue">C24, K-way In-place Merge by CPU-GPU Cooperative Processing</span><br />
 <span style="color:gray">Shinya Miura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
-_35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2024, to appear_ [[bib](bibs.html#Miura_K-way)|[DOI](https://doi.org/10.1109/ASAP61560.2024.00039)]
+_35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2024_ [[bib](bibs.html#Miura_K-way)|[DOI](https://doi.org/10.1109/ASAP61560.2024.00039)]
 
 <span style="color:Blue">C23, Extension of Parallel Primitives and Their Applications to Large-Scale Data
 Processing</span><br />
 <span style="color:gray">Masashi Nakano, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
-_In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024, to appear_ [[bib](bibs.html#Nakano_Extension)|[DOI](https://doi.org/10.1007/978-3-031-68312-1_19)]
+_In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024_ [[bib](bibs.html#Nakano_Extension)|[DOI](https://doi.org/10.1007/978-3-031-68312-1_19)]
 
 <span style="color:Blue">C22, Acceleration of Neural Network Inference for Embedded GPU Systems</span><br />
  <span style="color:gray">Kei Terakura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
