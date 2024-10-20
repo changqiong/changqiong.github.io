@@ -31,3 +31,4 @@ redirect_from:
 *  IEEE International Conference on Robotics and Automation (ICRA) 2024.
 *  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024,2025.
 *  Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2023,2024.
+*  Asian Conference on Computer Vision (ACCV) 2024.
