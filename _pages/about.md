@@ -27,4 +27,4 @@ A Keyframeless Implementation Method using Multivariate Empirical Mode Decomposi
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Apr, 2024]** Our paper "TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs." is accepted by [TSMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Jan, 2024]** Our paper "Acceleration of Neural Network Inference for Embedded GPU Systems." is accepted by [BigComp'24](https://www.bigcomputing.org/conf2024/)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=in7drpwzDjW0GWQtSJt0wNY-9gOhjPnKimXZUftHNKM"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=in7drpwzDjW0GWQtSJt0wNY-9gOhjPnKimXZUftHNKM&w=100&h=100"></script>
