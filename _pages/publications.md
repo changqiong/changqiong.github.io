@@ -67,7 +67,7 @@ _31st International Conference on Multimedia Modeling (MMM2025), 2025, to appear
 
 <span style="color:Blue">C25, A Data Model and Implementation of a Data Lineage Management System for Database Repair and Simulation</span><br />
 <span style="color:gray">Weijun Wong, Kyoko Yasuda, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
-_26th International Conference on Information Integration and Web Intelligence (iiWAS2024), 2024, to appear_ [[bib]()|[DOI]()]
+_26th International Conference on Information Integration and Web Intelligence (iiWAS2024), 2024, to appear_ [[bib](bibs.html/#Wong_A)|[DOI](https://doi.org/10.1007/978-3-031-78093-6_22)]
 
 <span style="color:Blue">C24, K-way In-place Merge by CPU-GPU Cooperative Processing</span><br />
 <span style="color:gray">Shinya Miura, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
