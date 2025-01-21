@@ -10,19 +10,19 @@ collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing Univ
 
 ## Current Collaborators
 
-**Xiang Li**	D2<br />
+**Xiang Li**	D3<br />
 Nanjing University<br />
 Research Interest: GPU-based high-performance computing algorithm design.
 
-**Qian Li**	M2<br />
+**Qian Li**	M3<br />
 Nanjing University<br />
 Research Interest: FPGA accelerator design for dilation-based Iterative Closest Point.
 
-**Xinyuan Chen** M2<br />
+**Xinyuan Chen** M3<br />
 Dalian University of Technology<br />
 Research Interest: GPU acceleration for FAST feature dectector.
 
-**Ziyang Yu**	M1<br />
+**Ziyang Yu**	M2<br />
 Tokyo Institute of Technology<br />
 Research Interest: GPU acceleration for large-scale 3D cloud point registration.
 
