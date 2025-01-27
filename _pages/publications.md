@@ -71,7 +71,7 @@ _17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025, to app
 
 <span style="color:Blue">C26, Deep Dual Internal Learning for Hyperspectral Image Super-Resolution</span><br />
 <span style="color:gray">Yongqing Sun, Hong Liu, <span style="color:black">**Qiong Chang**</span>, Xianhua Han</span><br />
-_31st International Conference on Multimedia Modeling (MMM2025), 2025_ [[bib]()|[DOI]()]
+_31st International Conference on Multimedia Modeling (MMM2025), 2025_ [[bib](bibs.html#Sun_Deep)|[DOI](https://doi.org/10.1007/978-981-96-2054-8_20)]
 
 <span style="color:Blue">C25, A Data Model and Implementation of a Data Lineage Management System for Database Repair and Simulation</span><br />
 <span style="color:gray">Weijun Wong, Kyoko Yasuda, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
