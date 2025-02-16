@@ -5,7 +5,7 @@ redirect_from:
   - /team.html
 ---
 
-In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Tokyo Institute of Technology, I am also
+In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Institute of Science Tokyo, I am also
 collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
 
 ## Current Collaborators
@@ -23,7 +23,7 @@ Dalian University of Technology<br />
 Research Interest: GPU acceleration for FAST feature dectector.
 
 **Ziyang Yu**	M2<br />
-Tokyo Institute of Technology<br />
+Institute of Science Tokyo<br />
 Research Interest: GPU acceleration for large-scale 3D cloud point registration.
 
 
