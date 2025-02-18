@@ -10,6 +10,8 @@ redirect_from:
 
 I am an assistant professor at Institute of Science Tokyo (formerly Tokyo Institute of Technology), School of Computing. I received Ph.D. in Intelligent systems engineering from the University of Tsukuba. Before joining Science Tokyo, I was a researcher at the National Institue of Advanced Industrial Science and Technology (AIST).
 
+Email: q.chang_AT_c.titech.ac.jp
+
 Research Interests 
 ======
 * GPU Accelerator: kernel designs for high-performance computing that uses graphics processing units to crunch data.
