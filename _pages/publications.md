@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [Journal]
 <span style="color:Magenta">J14. Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
-_ACM Transactions on Architecture and Code Optimization, 2025
+_ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[DOI](https://doi.org/10.1145/3716875)]
 
 <span style="color:Magenta">J13. An Optimized GPU Implementation for GIST Descriptor</span><br />
@@ -67,7 +67,7 @@ _IEEE Access, 2018_ [[bib](bibs.html#Chang_Real)|[DOI](https://doi.org/10.1109/A
 ### [Conference]
 <span style="color:Blue">C27, Efficient Parallel Implementation of Non-Local Means Algorithm on GPU</span><br />
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**</span>, Yun Li and Jun Miyazaki</span><br />
-_17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025[[bib]()|[DOI]()]
+_17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025_ [[bib]()|[DOI]()]
 
 <span style="color:Blue">C26, Deep Dual Internal Learning for Hyperspectral Image Super-Resolution</span><br />
 <span style="color:gray">Yongqing Sun, Hong Liu, <span style="color:black">**Qiong Chang**</span>, Xianhua Han</span><br />
