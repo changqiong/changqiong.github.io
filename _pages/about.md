@@ -20,6 +20,7 @@ Research Interests
 
 News(2025) 
 ======
+* <img src="../images/news.jpg" alt="Icon" width="40" />**[Jan, 2025]** Our paper "Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs." is accepted by [TECS'25](https://dl.acm.org/journal/tecs)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Jan, 2025]** Our paper "Efficient Parallel Implementation of Non-Local Means Algorithm on GPU." is accepted by [GPGPU'25](https://mocalabucm.github.io/gpgpu2025/)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Jan, 2025]** Our paper "Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs." is accepted by [TACO'25](https://dl.acm.org/journal/taco)
 
