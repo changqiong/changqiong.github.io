@@ -69,9 +69,12 @@ _Neural Computing and Application, 2021_ [[bib](bibs.html#Dong_A)|[DOI](https://
 _IEEE Access, 2018_ [[bib](bibs.html#Chang_Real)|[DOI](https://doi.org/10.1109/ACCESS.2018.2859445)]
 
 ### [Conference]
+<span style="color:Blue">C28, FSAC-IA: A HIERARCHICAL CONSTRUCTED SAC-IA ALGORITHM FOR POINT CLOUD ALIGNMENT ACCELERATION</span><br />
+<span style="color:gray">Ziyang Yu,  <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
+_The IEEE International Conference on Image Processing_ [[bib]()|[DOI]()]
 <span style="color:Blue">C27, Efficient Parallel Implementation of Non-Local Means Algorithm on GPU</span><br />
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**</span>, Yun Li and Jun Miyazaki</span><br />
-_17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025_ [[bib]()|[DOI]()]
+_17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025_ [[bib](bibs.html#Li_Efficient)|[DOI](https://doi.org/10.1145/3725798.3725807)]
 
 <span style="color:Blue">C26, Deep Dual Internal Learning for Hyperspectral Image Super-Resolution</span><br />
 <span style="color:gray">Yongqing Sun, Hong Liu, <span style="color:black">**Qiong Chang**</span>, Xianhua Han</span><br />
