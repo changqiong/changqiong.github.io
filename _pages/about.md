@@ -32,7 +32,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**</span>, Yun Li and Jun Miyazaki</span><br />
 _17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025_ [[bib](bibs.html#Li_Efficient)|[DOI](https://doi.org/10.1145/3725798.3725807)]<br />
 <img src="../images/nlm1.gif" alt="Icon" width="160"/><img src="../images/nlm2.gif" alt="Icon" width="160"/><img src="../images/nlm3.gif" alt="Icon" width="160"/><br />
-&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">5.5x</span><br />
+&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">5.5x</span><br />
 **Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.
 
 * <span style="color:Magenta"> An Optimized GPU Implementation for GIST Descriptor</span><br />
@@ -47,7 +47,7 @@ _ACM Transactions on Architecture and Code Optimization, 2024_
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[DOI](https://doi.org/10.1016/j.jpdc.2023.03.004)]<br />
 <img src="../images/sobel1.gif" alt="Icon" width="160"/><img src="../images/sobel2.gif" alt="Icon" width="160"/><img src="../images/sobel3.gif" alt="Icon" width="160"/><br />
-&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">11x</span><br />
+&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">11x</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.
 
 * <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
