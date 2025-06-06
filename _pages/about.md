@@ -20,7 +20,7 @@ Research Interests
 
 Selected Research
 ======
-<img src="../images/stereo.gif" alt="Icon" width="300" /><br />
+<img src="../images/stereo.gif" alt="Icon" width="500" /><br />
 (Left(original ZNCC): 10fps,  Right(Z2ZNCC): 20fps)<br />
 **Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.**<br />
 *Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation<br />
