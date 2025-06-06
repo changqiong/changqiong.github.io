@@ -27,7 +27,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 &emsp;&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">12x</span><br />
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
-<span style="color:Magenta"> An Optimized GPU Implementation for GIST Descriptor</span><br />
+* <span style="color:Magenta"> An Optimized GPU Implementation for GIST Descriptor</span><br />
 <span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2024_ 
 [[bib](bibs.html#Li_An)|[DOI](https://doi.org/10.1145/3689339)]
