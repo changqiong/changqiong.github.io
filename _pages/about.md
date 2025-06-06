@@ -20,7 +20,7 @@ Research Interests
 
 Selected Research
 ======
-<img src="../images/image16.gif" alt="Icon" width="160" /><img src="../images/image18.gif" alt="Icon" width="160" /><img src="../images/image17.gif" alt="Icon" width="160" /><br />
+<img src="../images/image17.gif" alt="Icon" width="160" /><img src="../images/image19.gif" alt="Icon" width="160" /><img src="../images/image18.gif" alt="Icon" width="160" /><br />
 PCL: 1x,      Open3D: 4x,       VAN-ICP: <span style="color:red">12x</span><br />
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 *Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs<br />
