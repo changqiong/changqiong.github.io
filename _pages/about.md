@@ -24,7 +24,7 @@ Selected Research
 _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[DOI](https://doi.org/10.1145/3716875)|[Code](https://github.com/changqiong/dilationICP)]<br />
 <img src="../images/image17.gif" alt="Icon" width="160" /><img src="../images/image19.gif" alt="Icon" width="160" /><img src="../images/image18.gif" alt="Icon" width="160" /><br />
-PCL: 1x&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open3D: 4x &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VAN-ICP: <span style="color:red">12x</span><br />
+&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;VAN-ICP: <span style="color:red">12x</span><br />
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
 * <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
