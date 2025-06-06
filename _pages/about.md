@@ -18,6 +18,8 @@ Research Interests
 * Real-time vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
 * High-performance large-scale data processing: efficient algorithms for large-scale data processing.
 
+<img src="../images/stereo.gif" alt="Icon" width="400" />
+
 News(2025) 
 ======
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[May, 2025]** Our paper "FSAC-IA: A HIERARCHICAL CONSTRUCTED SAC-IA ALGORITHM FOR POINT CLOUD ALIGNMENT ACCELERATION" is accepted by [ICIP'25](https://2025.ieeeicip.org/)
