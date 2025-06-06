@@ -27,6 +27,15 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 &emsp;&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">12x</span><br />
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
+<span style="color:Magenta"> An Optimized GPU Implementation for GIST Descriptor</span><br />
+<span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
+_ACM Transactions on Architecture and Code Optimization, 2024_ 
+[[bib](bibs.html#Li_An)|[DOI](https://doi.org/10.1145/3689339)]
+<img src="../images/gabar1.gif" alt="Icon" width="160"/><img src="../images/gabar2.gif" alt="Icon" width="160"/><img src="../images/gabar3.gif" alt="Icon" width="160"/><br />
+&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; cuFFT: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">6.4x</span><br />
+**Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.**<br />
+
+
 * <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)|[Code](https://github.com/changqiong/z2zncc)]
