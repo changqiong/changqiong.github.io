@@ -31,7 +31,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 <span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2024_ 
 [[bib](bibs.html#Li_An)|[DOI](https://doi.org/10.1145/3689339)]
-<img src="../images/gabar1.gif" alt="Icon" width="160"/><img src="../images/gabar2.gif" alt="Icon" width="160"/><img src="../images/gabar3.gif" alt="Icon" width="160"/><br />
+<img src="../images/gabor1.gif" alt="Icon" width="160"/><img src="../images/gabor2.gif" alt="Icon" width="160"/><img src="../images/gabor3.gif" alt="Icon" width="160"/><br />
 &emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; cuFFT: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">6.4x</span><br />
 **Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.**<br />
 
