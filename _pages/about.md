@@ -23,14 +23,14 @@ Selected Research
 * <span style="color:Magenta"> Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[DOI](https://doi.org/10.1145/3716875)|[Code](https://github.com/changqiong/dilationICP)]<br />
-<img src="../images/image17.gif" alt="Icon" width="160" /><img src="../images/image19.gif" alt="Icon" width="160" /><img src="../images/image18.gif" alt="Icon" width="160" /><br />
+<img src="../images/image17.gif" alt="Icon" width="160" height="100" /><img src="../images/image19.gif" alt="Icon" width="160" /><img src="../images/image18.gif" alt="Icon" width="160" /><br />
 &emsp;&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">12x</span><br />
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
 * <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)|[Code](https://github.com/changqiong/z2zncc)]
-<img src="../images/stereo.gif" alt="Icon" width="540" /><br />
+<img src="../images/stereo.gif" alt="Icon" width="540" height="100"/><br />
 Left (original ZNCC): 10fps,  Right (proposed Z2ZNCC): 20fps<br />
 **Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.**<br />
 
