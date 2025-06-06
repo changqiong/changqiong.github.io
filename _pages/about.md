@@ -20,12 +20,12 @@ Research Interests
 
 Selected Research
 ======
-<img src="../images/stereo.gif" alt="Icon" width="300" />
-(Left(original ZNCC): 10fps,  Right(Z2ZNCC): 20fps)
-*Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
+<img src="../images/stereo.gif" alt="Icon" width="300" /> </span><br />
+(Left(original ZNCC): 10fps,  Right(Z2ZNCC): 20fps) </span><br />
+Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching. </span><br />
 Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
-_Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)][Code](https://github.com/changqiong/z2zncc)
+_Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)|[Code](https://github.com/changqiong/z2zncc)]
 
 News(2025) 
 ======
