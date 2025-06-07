@@ -1,6 +1,9 @@
 
 # main links links
 main:
+  - title: "Selected Research"
+    url: /selected_research/
+
   - title: "Publications"
     url: /publications/
 
