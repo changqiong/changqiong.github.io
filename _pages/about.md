@@ -53,9 +53,9 @@ _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Mul
 * <span style="color:Magenta">J6. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)]<br />
-<img src="../images/kitti.gif" alt="Icon" width="480"/>&emsp;Input <br />
-<img src="../images/z2zncc.gif" alt="Icon" width="480"/>&emsp;z2zncc (28fps on Jetson Tx2)<br />
-<img src="../images/sRRNet.gif" alt="Icon" width="480"/>&emsp;sRRNet (22fps on Jetson Tx2)<br />
+<img src="../images/kitti.gif" alt="Icon" width="480"/> Input <br />
+<img src="../images/z2zncc.gif" alt="Icon" width="480"/> z2zncc(28fps on Jetson Tx2)<br />
+<img src="../images/sRRNet.gif" alt="Icon" width="480"/> sRRNet(22fps on Jetson Tx2)<br />
 **Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
 
 
