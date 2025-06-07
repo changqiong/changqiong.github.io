@@ -5,7 +5,6 @@ redirect_from:
   - /selected_research.html
 ---
 
-Selected Research
 ======
 * <span style="color:Magenta"> Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_
