@@ -50,6 +50,17 @@ _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Mul
 &emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
 
+* <span style="color:Magenta">J6. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
+<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
+_IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)]<br />
+<img src="../images/kitti.gif" alt="Icon" width="240"/><br />
+<img src="../images/z2zncc.gif" alt="Icon" width="120"/>z2zncc (28fps on Jetson Tx2)<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="../images/sRRNet.gif" alt="Icon" width="120"/>sRRNet (22fps on Jetson Tx2)<br />
+&emsp;&emsp;&emsp;Input<br />
+**Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
+
+
+
 * <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
 _Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)|[Code](https://github.com/changqiong/z2zncc)]
