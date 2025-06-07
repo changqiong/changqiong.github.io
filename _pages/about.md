@@ -53,12 +53,11 @@ _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Mul
 * <span style="color:Magenta">J6. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)]<br />
-<img src="../images/kitti.gif" alt="Icon" width="240"/><br />
-<img src="../images/z2zncc.gif" alt="Icon" width="120"/>z2zncc (28fps on Jetson Tx2)<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="../images/sRRNet.gif" alt="Icon" width="120"/>sRRNet (22fps on Jetson Tx2)<br />
+<img src="../images/kitti.gif" alt="Icon" width="240"/>
+<img src="../images/z2zncc.gif" alt="Icon" width="240"/>z2zncc (28fps on Jetson Tx2)<br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="../images/sRRNet.gif" alt="Icon" width="240"/>sRRNet (22fps on Jetson Tx2)<br />
 &emsp;&emsp;&emsp;Input<br />
 **Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
-
 
 
 * <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
@@ -67,9 +66,6 @@ _Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](
 <img src="../images/stereo.gif" alt="Icon" width="480"/><br />
 Left (original ZNCC): 10fps,  Right (proposed Z2ZNCC): <span style="color:red">**20fps**</span><br />
 **Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.**<br />
-
-
-
 
 
 
