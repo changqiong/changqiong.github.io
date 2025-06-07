@@ -14,7 +14,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[DOI](https://doi.org/10.1145/3716875)]
 
 <span style="color:Magenta">J7. An Optimized GPU Implementation for GIST Descriptor</span><br />
-<span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
+<span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang***</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2024_ 
 [[bib](bibs.html#Li_An)|[DOI](https://doi.org/10.1145/3689339)]
 
@@ -31,7 +31,7 @@ _Scientific Reports, 2023_ [[bib](bibs.html#Matsuura_High)|[DOI](https://doi.org
 _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[DOI](https://doi.org/10.1016/j.jpdc.2023.03.004)]
 
 <span style="color:Magenta">J3. An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem</span><br />
-<span style="color:gray">Aolong Zha, <span style="color:black">**Qiong Chang**</span>, Itsuki Noda</span><br />
+<span style="color:gray">Aolong Zha, <span style="color:black">**Qiong Chang***</span>, Itsuki Noda</span><br />
 _Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Zha_An)|[DOI](https://doi.org/10.1016/j.dam.2022.08.008)]
 
 <span style="color:Magenta">J2. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
@@ -69,7 +69,7 @@ _International Conference on Big Data and Smart Computing (BigComp), 2024_ [[bib
 _34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2023_ [[bib](bibs.html#Kunimoto_GPU)|[DOI](https://doi.org/10.1109/ASAP57973.2023.00031)]
 
 <span style="color:Blue">C8, VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation</span><br />
-<span style="color:gray">Weimin Wang, <span style="color:black">**Qiong Chang**</span></span><br />
+<span style="color:gray">Weimin Wang, <span style="color:black">**Qiong Chang***</span></span><br />
 _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2023_ [[bib](bibs.html#Wang_VAN)|[DOI](https://doi.org/10.1109/ICASSP49357.2023.10095859)]
 
 <span style="color:Blue">C7, StereoVAE: A lightweight stereo-matching system using embedded GPUs</span><br />
