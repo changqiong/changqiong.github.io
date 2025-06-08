@@ -89,6 +89,7 @@ author:
   #googlescholar    : "https://scholar.google.com/citations?hl=en&user=GkfJ564AAAAJ"
   #email            : q.chang@c.titech.ac.jp
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  dblp		    : "https://dblp.org/pid/219/6333.html"
   #uri              :
   #bitbucket        :
   #codepen          :
@@ -96,7 +97,7 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  #github           : "academicpages"
+  github            : "https://github.com/changqiong?tab=repositories"
   #google_plus      :
   #keybase          :
   #instagram        :
