@@ -20,7 +20,7 @@ _ACM Transactions on Architecture and Code Optimization, 2024_
 
 <span style="color:Magenta">J6. TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
-_IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)]
+_IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)|[code](https://github.com/changqiong/sRRNet)]
 
 <span style="color:Magenta">J5. High-precision plant height measurement by drone with RTK-GNSS and single camera for real-time processing</span><br />
 <span style="color:gray">Yuta Matsuura, Heming Zhang, Kousuke Nakao, <span style="color:black">**Qiong Chang**</span>, Firmansyah Iman, Shin Kawai, Yoshiki Yamaguchi, Tsutomu Maruyama, Hisayoshi Hayashi, Hajime Nobuhara</span><br />
@@ -36,7 +36,7 @@ _Discrete Applied Mathematics, 2023_ [[bib](bibs.html#Zha_An)|[DOI](https://doi.
 
 <span style="color:Magenta">J2. Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
-_Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)]
+_Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[DOI](https://doi.org/10.1016/j.sysarc.2021.102366)|[code](https://github.com/changqiong/z2zncc)]
 
 <span style="color:Magenta">J1. Real-Time Stereo Vision System: A Multi-Block Matching on GPU</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Tsutomu Maruyama</span><br /> 
