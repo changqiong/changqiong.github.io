@@ -27,5 +27,5 @@ News(2025)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Jan, 2025]** Our paper "Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs." is accepted by [TACO'25](https://dl.acm.org/journal/taco)
 
 <div style="width: 0; height: 0; overflow: hidden;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=in7drpwzDjW0GWQtSJt0wNY-9gOhjPnKimXZUftHNKM&w=1&h=1"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=in7drpwzDjW0GWQtSJt0wNY-9gOhjPnKimXZUftHNKM&w=0&h=0"></script>
 </div>
