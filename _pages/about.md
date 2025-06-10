@@ -21,6 +21,7 @@ Research Interests
 
 News(2025) 
 ======
+* <img src="../images/news.jpg" alt="Icon" width="40" />**[May, 2025]** Our paper "3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs" is accepted by [TACO'25](https://dl.acm.org/journal/taco)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[May, 2025]** Our paper "FSAC-IA: A HIERARCHICAL CONSTRUCTED SAC-IA ALGORITHM FOR POINT CLOUD ALIGNMENT ACCELERATION" is accepted by [ICIP'25](https://2025.ieeeicip.org/)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Mar, 2025]** Our paper "Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs." is accepted by [TECS'25](https://dl.acm.org/journal/tecs)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Jan, 2025]** Our paper "Efficient Parallel Implementation of Non-Local Means Algorithm on GPU." is accepted by [GPGPU'25](https://mocalabucm.github.io/gpgpu2025/)
