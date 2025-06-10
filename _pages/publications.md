@@ -5,7 +5,7 @@ redirect_from:
   - /publications.html
 ---
 ### [Journal]
-<span style="color:Magenta">J10. 3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br /><span style="color:gray">Xiang Li,<span style="color:black">**Qiong Chang***</span>, Yun Li, Jun Miyazaki</span><br />
+<span style="color:Magenta">J10. 3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br /><span style="color:gray">Xiang Li, <span style="color:black">**Qiong Chang***</span>, Yun Li, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#3DGNLM)|[DOI]()]
 
