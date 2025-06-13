@@ -1,5 +1,5 @@
 ---
-title: "Micro-HPC Related Publications"
+title: "Hardware-aware Algorithm Related Publications"
 redirect_from: 
   - /publications/
   - /publications.html
