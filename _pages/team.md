@@ -10,7 +10,7 @@ collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing Univ
 
 ## Current Collaborators
 
-**Xiang Li**	D3<br />
+**[Xiang Li](https://lixiang-lab.github.io/)**	D3<br />
 Nanjing University<br />
 Research Interest: GPU-based high-performance computing algorithm design.
 
