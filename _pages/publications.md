@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [Journal]
 <span style="color:Magenta">J10. 3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br /><span style="color:gray">Xiang Li, <span style="color:black">**Qiong Chang***</span>, Yun Li, Jun Miyazaki</span><br />
-_ACM Transactions on Architecture and Code Optimization, 2025
+ACM Transactions on Architecture and Code Optimization, 2025
 [[bib](bibs.html#Li_3DGNLM)|[DOI](https://doi.org/10.1145/3744909)]
 
 <span style="color:Magenta">J9. Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xinyuan Chen, Xiang Li, Weimin Wang, Jun Miyazaki</span><br />
