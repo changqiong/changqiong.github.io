@@ -7,6 +7,11 @@ redirect_from:
 
 ## Reviewer
 ### Journal
+* IEEE IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2025
+* IEEE Transactions on Computers (TOC) 2025
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2020-2025
+* ACM Transactions on Architecture and Code Optimization (TACO) 2024,2025
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025
 * Journal of Systems Architecture (JSA) 2020-2024
 * IEEE Transactions on Parallel and Distributed Systems (TPDS) 2024
 * ACM Transactions on Architecture and Code Optimization (TACO) 2024,2025
@@ -17,8 +22,8 @@ redirect_from:
 * Expert Systems With Applications (ESWA) 2023,2024
 * IET Image Processing 2023
 * Mechanical Systems and Signal Processing (MSSP) 2023
-* IEEE Transactions on Intelligent Transportation Systems (TITS) 2024
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2020,2021,2024
+* IEEE Transactions on Intelligent Transportation Systems (TITS) 2024,2025
+
 
 ### Conference
 *  International Conference on Database Systems for Advanced Applications (DASFAA) 2024.
