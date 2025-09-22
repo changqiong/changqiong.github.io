@@ -14,7 +14,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
 
-* <span style="color:Blue">3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br />
+* <span style="color:Magenta">3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br />
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**\*</span>, Yun Li and Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_ [[bib](bibs.html#Li_3DGNLM)|[DOI](https://dl.acm.org/doi/10.1145/3744909)]<br />
 <img src="../../images/nlm1.gif" alt="Icon" width="160"/><img src="../../images/nlm2.gif" alt="Icon" width="160"/><img src="../../images/nlm3.gif" alt="Icon" width="160"/><br />
