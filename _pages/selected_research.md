@@ -14,9 +14,9 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
 
-* <span style="color:Blue">Efficient Parallel Implementation of Non-Local Means Algorithm on GPU</span><br />
+* <span style="color:Blue">3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br />
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**\*</span>, Yun Li and Jun Miyazaki</span><br />
-_17th Workshop on General Purpose Processing Using GPU (GPGPU2025), 2025_ [[bib](bibs.html#Li_Efficient)|[DOI](https://doi.org/10.1145/3725798.3725807)]<br />
+_ACM Transactions on Architecture and Code Optimization, 2025_ [[bib](bibs.html#Li_3DGNLM)|[DOI](https://dl.acm.org/doi/10.1145/3744909)]<br />
 <img src="../../images/nlm1.gif" alt="Icon" width="160"/><img src="../../images/nlm2.gif" alt="Icon" width="160"/><img src="../../images/nlm3.gif" alt="Icon" width="160"/><br />
 &emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">**5.5x**</span><br />
 **Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.**<br />
