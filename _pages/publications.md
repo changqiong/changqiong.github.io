@@ -49,7 +49,7 @@ _IEEE Access, 2018_ [[bib](bibs.html#Chang_Real)|[DOI](https://doi.org/10.1109/A
 ### [Conference]
 <span style="color:Blue">C14, FSAC-IA: A HIERARCHICAL CONSTRUCTED SAC-IA ALGORITHM FOR POINT CLOUD ALIGNMENT ACCELERATION</span><br />
 <span style="color:gray">Ziyang Yu,  <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
-_The IEEE International Conference on Image Processing_ [[bib]()|[DOI]()]
+_The IEEE International Conference on Image Processing_ [[bib](bibs.html#Yu_FSAC)|[DOI](https://doi.org/10.1109/ICIP55913.2025.11084280)]
 
 <span style="color:Blue">C13, Efficient Parallel Implementation of Non-Local Means Algorithm on GPU</span><br />
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**</span>, Yun Li and Jun Miyazaki</span><br />
