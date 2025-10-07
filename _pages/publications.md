@@ -61,7 +61,7 @@ _35th IEEE International Conference on Application-specific Systems, Architectur
 
 <span style="color:Blue">C11, Extension of Parallel Primitives and Their Applications to Large-Scale Data
 Processing</span><br />
-<span style="color:gray">Masashi Nakano, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br />
+<span style="color:gray">Masashi Nakano, <span style="color:black">**Qiong Chang***</span>, Jun Miyazaki</span><br />
 _In 35th International Conference on Database and Expert Systems Applications (DEXA), 2024_ [[bib](bibs.html#Nakano_Extension)|[DOI](https://doi.org/10.1007/978-3-031-68312-1_19)]
 
 <span style="color:Blue">C10, Acceleration of Neural Network Inference for Embedded GPU Systems</span><br />
@@ -85,7 +85,7 @@ _International Conference on Robotics and Automation (ICRA), 2023_ [[bib](bibs.h
 _In IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2022_ [[bib](bibs.html#Mimura_Acceleration)|[DOI](https://doi.org/10.1109/ASAP54787.2022.00018)]
 
 <span style="color:Blue">C5, Fast SQL/Row Pattern Recognition Query Processing using Parallel Primitives on GPUs</span><br /> 
-<span style="color:gray">Tsubasa Ohara, <span style="color:black">**Qiong Chang**</span>, Jun Miyazaki</span><br /> 
+<span style="color:gray">Tsubasa Ohara, <span style="color:black">**Qiong Chang***</span>, Jun Miyazaki</span><br /> 
 _In 32nd International Conference on Database and Expert Systems Applications (DEXA), 2021_ [[bib](bibs.html#Ohara_Fast)|[DOI](https://doi.org/10.1007/978-3-030-86472-9_3)]
 
 <span style="color:Blue">C4, Z<sup>2</sup>-ZNCC:ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU</span><br />
