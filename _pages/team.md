@@ -16,7 +16,7 @@ Research Interest: GPU-based high-performance computing algorithm design.
 
 **Yanliang Wu**    M1<br />
 Nanjing University<br />
-Research Interest: GPU acceleration for large-scale 3D cloud point segmentation.
+Research Interest: GPU task scheduling strategy design. 
 
 
 ## Past Collaborators
