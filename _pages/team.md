@@ -14,10 +14,6 @@ collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing Univ
 Nanjing University<br />
 Research Interest: GPU-based high-performance computing algorithm design.
 
-**Ziyang Yu**	D1<br />
-Institute of Science Tokyo<br />
-Research Interest: GPU acceleration for large-scale 3D cloud point registration.
-
 **Yanliang Wu**    M1<br />
 Nanjing University<br />
 Research Interest: GPU acceleration for large-scale 3D cloud point segmentation.
