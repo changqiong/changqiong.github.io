@@ -22,6 +22,10 @@ Research Interest: High-performance point cloud registration.
 Nanjing University<br />
 Research Interest: GPU task scheduling strategy design. 
 
+**Dongqi Cai**    B3<br />
+Nanjing University<br />
+Research Interest: GPU-based high-performance point cloud registration. 
+
 
 ## Past Collaborators
 
