@@ -21,7 +21,7 @@ Research Interests
 
 News(2025) 
 ======
-* <img src="../images/news.jpg" alt="Icon" width="40" />**[Jun, 2025]** Our paper "Fast Approximate Aggregation with Error Guarantee Using Encoded Bit-slice Indexing." is accepted by [iiWAS'25](https://www.iiwas.org/conferences/iiwas2025/)
+* <img src="../images/news.jpg" alt="Icon" width="40" />**[Sep, 2025]** Our paper "Fast Approximate Aggregation with Error Guarantee Using Encoded Bit-slice Indexing." is accepted by [iiWAS'25](https://www.iiwas.org/conferences/iiwas2025/)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[Jun, 2025]** Our paper "3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs" is accepted by [TACO'25](https://dl.acm.org/journal/taco)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[May, 2025]** Our paper "FSAC-IA: A HIERARCHICAL CONSTRUCTED SAC-IA ALGORITHM FOR POINT CLOUD ALIGNMENT ACCELERATION" is accepted by [ICIP'25](https://2025.ieeeicip.org/)
 * <img src="../images/news.jpg" alt="Icon" width="40" />**[May, 2025]** Our paper "Unified Schema-Driven Graph Polystore: Achieving Transparency in Multi-Model Integration and Migration" is accepted by [DEXA'25](https://www.dexa.org/2025/dexa2025.html)
