@@ -15,7 +15,7 @@ _ACM Transactions on Embedded Computing Systems, 2025_
 
 <span style="color:Magenta">J8. Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_
-[[bib](bibs.html#Chang_Acc)|[DOI](https://doi.org/10.1145/3716875)]
+[[bib](bibs.html#Chang_Acc)|[DOI](https://doi.org/10.1145/3716875)]|[code](https://github.com/changqiong/VANICP4Em)]
 
 <span style="color:Magenta">J7. An Optimized GPU Implementation for GIST Descriptor</span><br />
 <span style="color:gray">Xiang Li, <span style="color:black">**Qiong Chang***</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
