@@ -16,7 +16,7 @@ Research Interests
 ======
 * GPU Accelerator: kernel designs for high-performance computing that uses graphics processing units to crunch data.
 * Hardware-aware 3D vision system: accelerating the processing of high complexity vision algorithms using special hardware such as FPGAs and GPUs.
-* High-performance computing for large-scale data processing: efficient algorithms for large-scale data processing.
+* High-performance computing for large-scale data processing: efficient algorithms for large-scale graph processing.
 
 
 News(2025) 
