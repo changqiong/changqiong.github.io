@@ -17,7 +17,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 _ACM Transactions on Embedded Computing Systems, 2025_
 [[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.48550/arXiv.2506.07164)|[code](https://github.com/changqiong/FasterThanFast)]<br />
 <img src="../../images/input.gif" alt="Icon" width="220"/><img src="../../images/cuda-orb.gif" alt="Icon" width="220" /><img src="../../images/output.gif" alt="Icon" width="220" /><br />
-&emsp;&emsp;&emsp;Original &emsp;&emsp;&emsp;&emsp;&emsp; CUDA-ORB: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**8.8x**</span><br />
+&emsp;&emsp;&emsp;&emsp;Original &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CUDA-ORB: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**8.8x**</span><br />
 **Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.**<br />
 
 
@@ -25,7 +25,7 @@ _ACM Transactions on Embedded Computing Systems, 2025_
 <span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**\*</span>, Yun Li and Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_ [[bib](bibs.html#Li_3DGNLM)|[paper](https://dl.acm.org/doi/10.1145/3744909)]<br />
 <img src="../../images/nlm1.gif" alt="Icon" width="220"/><img src="../../images/nlm2.gif" alt="Icon" width="220"/><img src="../../images/nlm3.gif" alt="Icon" width="220"/><br />
-&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">**5.5x**</span><br />
+&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**5.5x**</span><br />
 **Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.**<br />
 
 * <span style="color:Magenta"> An Optimized GPU Implementation for GIST Descriptor</span><br />
@@ -33,22 +33,22 @@ _ACM Transactions on Architecture and Code Optimization, 2025_ [[bib](bibs.html#
 _ACM Transactions on Architecture and Code Optimization, 2024_ 
 [[bib](bibs.html#Li_An)|[paper](https://doi.org/10.1145/3689339)]<br />
 <img src="../../images/gabor1.gif" alt="Icon" width="220"/><img src="../../images/gabor2.gif" alt="Icon" width="220"/><img src="../../images/gabor3.gif" alt="Icon" width="220"/><br />
-&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; cuFFT: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**6.4x**</span><br />
+&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; cuFFT: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**6.4x**</span><br />
 **Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.**<br />
 
 * <span style="color:Magenta">Multi-Directional Sobel Operator Kernel on Gpus</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[paper](https://doi.org/10.48550/arXiv.2305.00515)|[code](https://github.com/changqiong/SobelGPU_5x5)]<br />
 <img src="../../images/sobel1.gif" alt="Icon" width="220"/><img src="../../images/sobel2.gif" alt="Icon" width="220"/><img src="../../images/sobel3.gif" alt="Icon" width="220"/><br />
-&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
+&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
 
 * <span style="color:Magenta">TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
 _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)|[code](https://github.com/changqiong/sRRNet)]<br />
-<img src="../../images/kitti.gif" alt="Icon" width="480"/> Input <br />
-<img src="../../images/z2zncc.gif" alt="Icon" width="480"/> z2zncc(28fps on Jetson Tx2)<br />
-<img src="../../images/sRRNet.gif" alt="Icon" width="480"/> sRRNet(22fps on Jetson Tx2)<br />
+<img src="../../images/kitti.gif" alt="Icon" width="660"/> Input <br />
+<img src="../../images/z2zncc.gif" alt="Icon" width="660"/> z2zncc(28fps on Jetson Tx2)<br />
+<img src="../../images/sRRNet.gif" alt="Icon" width="6600"/> sRRNet(22fps on Jetson Tx2)<br />
 **Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
 
 
