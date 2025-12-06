@@ -50,8 +50,8 @@ _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.
 <img src="../../images/z2zncc.gif" alt="Icon" width="660"/><br />
 <img src="../../images/sRRNet.gif" alt="Icon" width="660"/><br />
 
-Top: Input &emsp; Middle: z2zncc(28fps on Jetson Tx2) &emsp;Bottom: sRRNet(22fps on Jetson Tx2)
-
+Top: Input &emsp; Middle: z2zncc &emsp;Bottom: sRRNet<br />
+&emsp;&emsp;&emsp;(28fps on Jetson Tx2) &emsp;&emsp;&emsp;(22fps on Jetson Tx2)
 **Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
 
 
