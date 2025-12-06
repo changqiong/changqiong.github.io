@@ -10,7 +10,7 @@ redirect_from:
 _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.1145/3716875)|[code](https://github.com/changqiong/VANICP4Em)]<br />
 <img src="../../images/image17.gif" alt="Icon" width="220"/><img src="../../images/image19.gif" alt="Icon" width="220" /><img src="../../images/image18.gif" alt="Icon" width="220" /><br />
-&emsp;&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**12x**</span><br />
+&emsp;&emsp;&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**12x**</span><br />
 **Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
 
 * <span style="color:Magenta"> Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xinyuan Chen, Weimin Wang, Xiang Li, Jun Miyazaki</span><br />
