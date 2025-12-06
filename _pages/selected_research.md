@@ -18,7 +18,7 @@ _ACM Transactions on Embedded Computing Systems, 2025_
 [[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.48550/arXiv.2506.07164)|[code](https://github.com/changqiong/FasterThanFast)]<br />
 <img src="../../images/input.gif" alt="Icon" width="160"/><img src="../../images/cuda-orb.gif" alt="Icon" width="160" /><img src="../../images/output.gif" alt="Icon" width="160" /><br />
 &emsp;&emsp;&emsp;Original &emsp;&emsp;&emsp;&emsp;&emsp; CUDA-ORB: 1x &emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**8.8x**</span><br />
-**Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
+**Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.**<br />
 
 
 * <span style="color:Magenta">3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br />
