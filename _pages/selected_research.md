@@ -31,7 +31,7 @@ _ACM Transactions on Architecture and Code Optimization, 2024_
 
 * <span style="color:Magenta">Multi-Directional Sobel Operator Kernel on Gpus</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
-_Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[paper](https://doi.org/10.48550/arXiv.2305.00515]<br />
+_Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[paper](https://doi.org/10.48550/arXiv.2305.00515)]<br />
 <img src="../../images/sobel1.gif" alt="Icon" width="160"/><img src="../../images/sobel2.gif" alt="Icon" width="160"/><img src="../../images/sobel3.gif" alt="Icon" width="160"/><br />
 &emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
