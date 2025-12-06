@@ -32,7 +32,7 @@ _Scientific Reports, 2023_ [[bib](bibs.html#Matsuura_High)|[DOI](https://doi.org
 
 <span style="color:Magenta">J4. Multi-Directional Sobel Operator Kernel on Gpus</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
-_Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[DOI](https://doi.org/10.1016/j.jpdc.2023.03.004)]
+_Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[DOI](https://doi.org/10.1016/j.jpdc.2023.03.004)|[code](https://github.com/changqiong/SobelGPU_5x5)]
 
 <span style="color:Magenta">J3. An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem</span><br />
 <span style="color:gray">Aolong Zha, <span style="color:black">**Qiong Chang***</span>, Itsuki Noda</span><br />
