@@ -94,7 +94,7 @@ redirect_from:
 
 /* 正文说明 abstract */
 .pub-desc {
-  font-size: 15.5px;   /* 原来 14px */
+  font-size: 14px;   /* 原来 14px */
   margin-top: 10px;
   line-height: 1.65;
 }
