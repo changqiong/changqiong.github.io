@@ -4,6 +4,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
+
 ### [Journal]
 <span style="color:Magenta">J10. 3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br /><span style="color:gray">Xiang Li, <span style="color:black">**Qiong Chang***</span>, Yun Li, Jun Miyazaki</span><br />
 ACM Transactions on Architecture and Code Optimization, 2025
@@ -105,3 +106,4 @@ _In IEEE 29th International Conference on Application-specific Systems, Architec
 _In Proceedings of the 26th High Performance Computing Symposium (HPC), 2018_ **(Best Paper Award)** [[bib](bibs.html#Chang_Fast_convolution)|[DOI](https://dl.acm.org/doi/abs/10.5555/3213069.3213072)]
 
 
+[Full paper list])(https://scholar.google.com/citations?user=GkfJ564AAAAJ&hl=en)
