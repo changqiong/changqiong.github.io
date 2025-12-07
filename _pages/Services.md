@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 ## 📰 Journals reviewer
-<div class="pub-list">
+
 - **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2025  
 - **IEEE Transactions on Computers (TOC)**, 2025  
 - **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020–2025  
@@ -22,11 +22,11 @@ redirect_from:
 - **IET Image Processing**, 2023  
 - **Mechanical Systems and Signal Processing (MSSP)**, 2023  
 - **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 2024–2025  
-</div>
+
 ---
 
 ## 🎤 Conferences reviewer
-<div class="pub-list">
+
 - **International Conference on Database Systems for Advanced Applications (DASFAA)**, 2024  
 - **International Joint Conference on Neural Networks (IJCNN)**, 2025  
 - **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2024  
@@ -35,4 +35,3 @@ redirect_from:
 - **Chinese Conference on Pattern Recognition and Computer Vision (PRCV)**, 2023–2024  
 - **International Conference on Multimedia Modeling (MMM)**, 2025  
 - **Asian Conference on Computer Vision (ACCV)**, 2024  
-</div>
