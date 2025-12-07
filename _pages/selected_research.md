@@ -99,6 +99,20 @@ redirect_from:
   line-height: 1.65;
 }
 
+/* 带小图标的贡献说明 */
+.pub-desc.with-icon {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+/* 小图标尺寸控制 */
+.pub-desc.with-icon img {
+  width: 18px;
+  height: 18px;
+  margin-top: 3px;  /* 与第一行文字对齐 */
+}
+
 /* 手机端适配 */
 @media (max-width: 768px) {
   .pub-card {
@@ -145,7 +159,8 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-      Contribution: Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
+    <span class="pub-badge"></span>
+    Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
     </p>
   </div>
 
