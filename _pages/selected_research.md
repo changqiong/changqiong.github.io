@@ -17,7 +17,7 @@ _ACM Transactions on Architecture and Code Optimization, 2025_
 _ACM Transactions on Embedded Computing Systems, 2025_
 [[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.48550/arXiv.2506.07164)|[code](https://github.com/changqiong/FasterThanFast)]<br />
 <img src="../../images/fast_input.gif" alt="Icon" width="220"/><img src="../../images/cuda-orb.gif" alt="Icon" width="220" /><img src="../../images/fast.gif" alt="Icon" width="220" /><br />
-&emsp;&emsp;&emsp;&emsp;Original &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CUDA-ORB: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**8.8x**</span><br />
+&emsp;&emsp;&emsp;&emsp;Input &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CUDA-ORB: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**2.2x**</span><br />
 **Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.**<br />
 
 
