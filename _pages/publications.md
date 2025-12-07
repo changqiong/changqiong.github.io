@@ -106,4 +106,4 @@ _In IEEE 29th International Conference on Application-specific Systems, Architec
 _In Proceedings of the 26th High Performance Computing Symposium (HPC), 2018_ **(Best Paper Award)** [[bib](bibs.html#Chang_Fast_convolution)|[DOI](https://dl.acm.org/doi/abs/10.5555/3213069.3213072)]
 
 
-[Full paper list])(https://scholar.google.com/citations?user=GkfJ564AAAAJ&hl=en)
+[Full paper list](https://scholar.google.com/citations?user=GkfJ564AAAAJ&hl=en)
