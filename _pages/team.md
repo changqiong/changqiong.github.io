@@ -33,7 +33,7 @@ Nanjing University
 
 ### 2025  
 **Qian Li** — *(M3)*  
-Nanjing University → :contentReference[oaicite:4]{index=4}  
+Nanjing University → HiSilicon  
 **Research Interest:** FPGA accelerator design for dilation-based Iterative Closest Point  
 
 ---
