@@ -13,10 +13,9 @@ In addition to the [Miyazaki Lab](https://www.lsc.c.titech.ac.jp/) at Institute 
 
 ## Current Collaborators
 
-Xiang Li— *(D4)*  
+[Xiang Li](https://lixiang-lab.github.io/)— *(D4)*  
 <span style="color:gray">Nanjing University</span>  
 **Research Interest:** GPU-based high-performance computing algorithm design  
-[[Homepage](https://lixiang-lab.github.io/)]
 
 Ziyang Yu — *(D1)*  
 <span style="color:gray">Institute of Science Tokyo</span>  
