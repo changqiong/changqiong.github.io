@@ -6,15 +6,6 @@ redirect_from:
 ---
 
 ======
-
-.post img,
-.markdown-body img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
 * <span style="color:Magenta"> Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.1145/3716875)|[code](https://github.com/changqiong/VANICP4Em)]<br />
@@ -53,20 +44,15 @@ _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.
 <img src="../../images/z2zncc.gif" alt="Icon" width="660"/><br />
 <img src="../../images/sRRNet.gif" alt="Icon" width="660"/><br />
 
-<p style="text-align:center;">
-  Top: Input &emsp; &emsp; Middle: z2zncc &emsp; &emsp; Bottom: sRRNet
-</p>
-<p style="text-align:center;">
-  (28fps on Jetson Tx2) &emsp; (22fps on Jetson Tx2)
-</p>
-<p>
-  <strong>Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.</strong>
-</p>
+&emsp;  &emsp; Top: Input  &emsp;  &emsp; &emsp;&emsp; &emsp; Middle: z2zncc  &emsp; &emsp;&emsp;  &emsp; &emsp;Bottom: sRRNet<br />
+&emsp;  &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;(28fps on Jetson Tx2) &emsp; &emsp;&emsp;&emsp;&emsp;(22fps on Jetson Tx2)<br />
+**Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
+
 
 * <span style="color:Magenta">Multi-Directional Sobel Operator Kernel on Gpus</span><br />
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[paper](https://doi.org/10.48550/arXiv.2305.00515)|[code](https://github.com/changqiong/SobelGPU_5x5)]<br />
-<img src="../../images/sobel1.gif" alt="Icon"/><img src="../../images/sobel2.gif" alt="Icon"/><img src="../../images/sobel3.gif" alt="Icon"/><br />
+<img src="../../images/sobel1.gif" alt="Icon" width="220"/><img src="../../images/sobel2.gif" alt="Icon" width="220"/><img src="../../images/sobel3.gif" alt="Icon" width="220"/><br />
 &emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
 
