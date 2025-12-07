@@ -7,8 +7,6 @@ redirect_from:
 
 ## 📚 Teaching Experience
 
-### **:contentReference[oaicite:0]{index=0}**  
-*Institute of Science Tokyo*  
 **2021 – Present**  
 - Low-level programming concepts  
 - Operating systems fundamentals  
@@ -17,8 +15,6 @@ redirect_from:
 
 ---
 
-### **:contentReference[oaicite:1]{index=1}**  
-*Institute of Science Tokyo*  
 **2021 – 2024**  
 - Frontier topics in computer science  
 - Research discussion and academic presentation  
