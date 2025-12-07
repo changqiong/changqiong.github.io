@@ -5,6 +5,73 @@ redirect_from:
   - /publications.html
 ---
 
+<style>
+/* 整体列表间距优化 */
+.pub-list li {
+  margin-bottom: 18px;
+  line-height: 1.55;
+}
+
+/* 论文编号 */
+.pub-id {
+  color: #1f4fa3;
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
+/* Journal 论文标题 */
+.journal-title {
+  color: #8b0000;
+  font-weight: 700;
+}
+
+/* Conference 论文标题 */
+.conf-title {
+  color: #004d40;
+  font-weight: 700;
+}
+
+/* 作者整体颜色 */
+.pub-authors {
+  color: #444;
+}
+
+/* ✅ 你的名字：重点高亮 */
+.author-me {
+  color: #d32f2f;
+  background: #fdeaea;
+  padding: 1px 6px;
+  border-radius: 6px;
+}
+
+/* 期刊 / 会议名称 */
+.pub-venue {
+  color: #2f5d50;
+  font-style: italic;
+}
+
+/* bib / DOI / code 链接 */
+.pub-list a {
+  color: #1565c0;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.pub-list a:hover {
+  color: #d32f2f;
+  text-decoration: underline;
+}
+
+/* Journal / Conference 标题本身区分 */
+h2 {
+  padding: 6px 12px;
+  border-left: 6px solid #1f4fa3;
+  background: #f4f7fb;
+}
+</style>
+
+
+
 ## 📰 Journal
 
 <ul class="pub-list">
