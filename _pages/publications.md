@@ -1,5 +1,5 @@
 ---
-title: "Hardware-aware Algorithm Related Publications"
+title: "📝 Hardware-aware Algorithm Related Publications"
 redirect_from: 
   - /publications/
   - /publications.html

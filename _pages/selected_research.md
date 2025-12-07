@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "🧠 Research"
 redirect_from: 
   - /selected_research/
   - /selected_research.html

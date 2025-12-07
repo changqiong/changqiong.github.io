@@ -1,5 +1,5 @@
 ---
-title: "Joint Research Team"
+title: "👥 Joint Research Team"
 redirect_from: 
   - /team/
   - /team.html

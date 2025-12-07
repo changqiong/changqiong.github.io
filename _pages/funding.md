@@ -1,5 +1,5 @@
 ---
-title: "Funding"
+title: "💰 Funding"
 redirect_from: 
   - /funding/
   - /funding.html
