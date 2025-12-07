@@ -29,24 +29,26 @@ redirect_from:
 }
 
 .pub-authors {
-  font-size: 14px;
+  font-size: 15px;   /* 原来 14px */
   color: #666666;
-  margin-top: 4px;
+  margin-top: 6px;
 }
 
 .pub-venue {
-  font-size: 14px;
+  font-size: 15px;   /* 原来 14px */
   font-style: italic;
-  margin-top: 2px;
-}
-
-.pub-links {
-  font-size: 13px;
   margin-top: 4px;
 }
 
+/* bib / paper / code 链接 */
+.pub-links {
+  font-size: 15px;   /* 原来 13px */
+  margin-top: 6px;
+}
+
 .pub-links a {
-  margin-right: 8px;
+  margin-right: 12px;
+  font-weight: 600;
 }
 
 /* 图片行：3列小图 */
@@ -73,26 +75,28 @@ redirect_from:
   border-radius: 4px;
 }
 
-/* 性能对比文字 */
+/* 性能对比文字（图片下方） */
 .pub-metrics {
-  font-size: 13px;
-  color: #444444;
-  margin-top: 6px;
+  font-size: 15px;   /* 原来 13px */
+  color: #333333;
+  margin-top: 10px;
+  font-weight: 500;
 }
 
-/* 简短说明 */
-.pub-desc {
-  font-size: 14px;
-  margin-top: 8px;
-}
-
-/* 复用你原来的 grid-3 做三列对比 */
+/* 三列对比专用 */
 .grid-3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   text-align: center;
-  font-size: 13px;
-  margin-top: 4px;
+  font-size: 15px;   /* 原来 13px */
+  margin-top: 6px;
+}
+
+/* 正文说明 abstract */
+.pub-desc {
+  font-size: 15.5px;   /* 原来 14px */
+  margin-top: 10px;
+  line-height: 1.65;
 }
 
 /* 手机端适配 */
