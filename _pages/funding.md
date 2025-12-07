@@ -5,17 +5,19 @@ redirect_from:
   - /funding.html
 ---
 
+## Current Funding
 
-## Current
-**A Study on View Constuction for Application-oriented Graph Knowledge Base.**<br /> 
-**(Co-Investigator)**<br /> 
-Grant-in-Aid for Scientific Research (B)<br />
-Japan Society for the Promotion of Science, Apr, 2023 - Mar, 2027
+**A Study on View Construction for Application-Oriented Graph Knowledge Bases**  
+*Co-Investigator*  
+Grant-in-Aid for Scientific Research (B)  
+Japan Society for the Promotion of Science (JSPS), Apr. 2023 – Mar. 2027  
 
+---
 
+## Past Funding
 
-## Past
-**High-accuracy and High-speed Dance Support System using GPUs.**<br />
-**(Principal Investigator)**<br />
-Grant-in-Aid for Scientific Research (Young Scientists)<br />
-Japan Society for the Promotion of Science, Apr, 2021 - Mar, 2024
+**High-Accuracy and High-Speed Dance Support System Using GPUs**  
+*Principal Investigator*  
+Grant-in-Aid for Scientific Research (Young Scientists)  
+Japan Society for the Promotion of Science (JSPS), Apr. 2021 – Mar. 2024  
+
