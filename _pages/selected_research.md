@@ -7,12 +7,6 @@ redirect_from:
 
 ======
 
-<div style="display:flex; justify-content:space-between;">
-  <img src="../../images/gabor1.gif" width="220">
-  <img src="../../images/gabor2.gif" width="220">
-  <img src="../../images/gabor3.gif" width="220">
-</div>
-
 <div style="
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
