@@ -180,7 +180,8 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-      Contribution: Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.
+      <img src="../../images/contribution.png" alt="contribution icon" width=40/>
+    Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.
     </p>
   </div>
 
@@ -213,7 +214,8 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-      Contribution: Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.
+      <img src="../../images/contribution.png" alt="contribution icon" width=40/>
+    Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.
     </p>
   </div>
 
@@ -246,7 +248,8 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-      Contribution: Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.
+      <img src="../../images/contribution.png" alt="contribution icon" width=40/>
+    Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.
     </p>
   </div>
 
@@ -301,7 +304,8 @@ redirect_from:
 
 
     <p class="pub-desc">
-      Contribution: Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.
+      <img src="../../images/contribution.png" alt="contribution icon" width=40/>
+    Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.
     </p>
   </div>
 
@@ -335,7 +339,8 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-      Contribution: Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.
+      <img src="../../images/contribution.png" alt="contribution icon" width=40/>
+    Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.
     </p>
   </div>
 
@@ -365,7 +370,8 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-      Contribution: Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
+      <img src="../../images/contribution.png" alt="contribution icon" width=40/>
+    Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
     </p>
   </div>
 
