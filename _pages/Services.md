@@ -5,9 +5,7 @@ redirect_from:
   - /Services.html
 ---
 
-## Reviewer
-
-### 📰 Journals
+## 📰 Journals reviewer
 
 - **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2025  
 - **IEEE Transactions on Computers (TOC)**, 2025  
@@ -27,7 +25,7 @@ redirect_from:
 
 ---
 
-### 🎤 Conferences
+## 🎤 Conferences reviewer
 
 - **International Conference on Database Systems for Advanced Applications (DASFAA)**, 2024  
 - **International Joint Conference on Neural Networks (IJCNN)**, 2025  
