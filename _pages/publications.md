@@ -19,7 +19,7 @@ redirect_from:
     <span class="pub-venue">
       <em>ACM Transactions on Architecture and Code Optimization</em>, 2025
     </span><br />
-    [<a href="bibs.html#Li_3DGNLM">bib</a> | <a href="https://doi.org/10.1145/3744909">DOI</a>]
+    [<a href="../bibs.html#Li_3DGNLM">bib</a> | <a href="https://doi.org/10.1145/3744909">DOI</a>]
   </li>
 
   <li>
@@ -33,7 +33,7 @@ redirect_from:
     <span class="pub-venue">
       <em>ACM Transactions on Embedded Computing Systems</em>, 2025
     </span><br />
-    [<a href="bibs.html#Chang_Faster">bib</a> | <a href="https://doi.org/10.1145/3725217">DOI</a> | <a href="https://github.com/changqiong/FasterThanFast">code</a>]
+    [<a href="../bibs.html#Chang_Faster">bib</a> | <a href="https://doi.org/10.1145/3725217">DOI</a> | <a href="https://github.com/changqiong/FasterThanFast">code</a>]
   </li>
 
   <li>
@@ -47,7 +47,7 @@ redirect_from:
     <span class="pub-venue">
       <em>ACM Transactions on Architecture and Code Optimization</em>, 2025
     </span><br />
-    [<a href="bibs.html#Chang_Acc">bib</a> | <a href="https://doi.org/10.1145/3716875">DOI</a> | <a href="https://github.com/changqiong/VANICP4Em">code</a>]
+    [<a href="../bibs.html#Chang_Acc">bib</a> | <a href="https://doi.org/10.1145/3716875">DOI</a> | <a href="https://github.com/changqiong/VANICP4Em">code</a>]
   </li>
 
   <li>
@@ -61,7 +61,7 @@ redirect_from:
     <span class="pub-venue">
       <em>ACM Transactions on Architecture and Code Optimization</em>, 2024
     </span><br />
-    [<a href="bibs.html#Li_An">bib</a> | <a href="https://doi.org/10.1145/3689339">DOI</a>]
+    [<a href="../bibs.html#Li_An">bib</a> | <a href="https://doi.org/10.1145/3689339">DOI</a>]
   </li>
 
   <li>
@@ -75,7 +75,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 2024
     </span><br />
-    [<a href="bibs.html#Chang_TinyStereo">bib</a> | <a href="https://doi.org/10.1109/TSMC.2024.3395464">DOI</a> | <a href="https://github.com/changqiong/sRRNet">code</a>]
+    [<a href="../bibs.html#Chang_TinyStereo">bib</a> | <a href="https://doi.org/10.1109/TSMC.2024.3395464">DOI</a> | <a href="https://github.com/changqiong/sRRNet">code</a>]
   </li>
 
   <li>
@@ -89,7 +89,7 @@ redirect_from:
     <span class="pub-venue">
       <em>Scientific Reports</em>, 2023
     </span><br />
-    [<a href="bibs.html#Matsuura_High">bib</a> | <a href="https://doi.org/10.1038/s41598-023-32167-6">DOI</a>]
+    [<a href="../bibs.html#Matsuura_High">bib</a> | <a href="https://doi.org/10.1038/s41598-023-32167-6">DOI</a>]
   </li>
 
   <li>
@@ -103,7 +103,7 @@ redirect_from:
     <span class="pub-venue">
       <em>Journal of Parallel and Distributed Computing</em>, 2023
     </span><br />
-    [<a href="bibs.html#Chang_Multi">bib</a> | <a href="https://doi.org/10.1016/j.jpdc.2023.03.004">DOI</a> | <a href="https://github.com/changqiong/SobelGPU_5x5">code</a>]
+    [<a href="../bibs.html#Chang_Multi">bib</a> | <a href="https://doi.org/10.1016/j.jpdc.2023.03.004">DOI</a> | <a href="https://github.com/changqiong/SobelGPU_5x5">code</a>]
   </li>
 
   <li>
@@ -117,7 +117,7 @@ redirect_from:
     <span class="pub-venue">
       <em>Discrete Applied Mathematics</em>, 2023
     </span><br />
-    [<a href="bibs.html#Zha_An">bib</a> | <a href="https://doi.org/10.1016/j.dam.2022.08.008">DOI</a>]
+    [<a href="../bibs.html#Zha_An">bib</a> | <a href="https://doi.org/10.1016/j.dam.2022.08.008">DOI</a>]
   </li>
 
   <li>
@@ -131,7 +131,7 @@ redirect_from:
     <span class="pub-venue">
       <em>Journal of Systems Architecture</em>, 2022
     </span><br />
-    [<a href="bibs.html#Chang_Efficient">bib</a> | <a href="https://doi.org/10.1016/j.sysarc.2021.102366">DOI</a> | <a href="https://github.com/changqiong/z2zncc">code</a>]
+    [<a href="../bibs.html#Chang_Efficient">bib</a> | <a href="https://doi.org/10.1016/j.sysarc.2021.102366">DOI</a> | <a href="https://github.com/changqiong/z2zncc">code</a>]
   </li>
 
   <li>
@@ -145,7 +145,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE Access</em>, 2018
     </span><br />
-    [<a href="bibs.html#Chang_Real">bib</a> | <a href="https://doi.org/10.1109/ACCESS.2018.2859445">DOI</a>]
+    [<a href="../bibs.html#Chang_Real">bib</a> | <a href="https://doi.org/10.1109/ACCESS.2018.2859445">DOI</a>]
   </li>
 </ul>
 
@@ -164,7 +164,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE International Conference on Image Processing (ICIP)</em>, 2025
     </span><br />
-    [<a href="bibs.html#Yu_FSAC">bib</a> | <a href="https://doi.org/10.1109/ICIP55913.2025.11084280">DOI</a>]
+    [<a href="../bibs.html#Yu_FSAC">bib</a> | <a href="https://doi.org/10.1109/ICIP55913.2025.11084280">DOI</a>]
   </li>
 
   <li>
@@ -178,7 +178,7 @@ redirect_from:
     <span class="pub-venue">
       <em>17th Workshop on General Purpose Processing Using GPU (GPGPU 2025)</em>, 2025
     </span><br />
-    [<a href="bibs.html#Li_Efficient">bib</a> | <a href="https://doi.org/10.1145/3725798.3725807">DOI</a>]
+    [<a href="../bibs.html#Li_Efficient">bib</a> | <a href="https://doi.org/10.1145/3725798.3725807">DOI</a>]
   </li>
 
   <li>
@@ -192,7 +192,7 @@ redirect_from:
     <span class="pub-venue">
       <em>35th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)</em>, 2024
     </span><br />
-    [<a href="bibs.html#Miura_K-way">bib</a> | <a href="https://doi.org/10.1109/ASAP61560.2024.00039">DOI</a>]
+    [<a href="../bibs.html#Miura_K-way">bib</a> | <a href="https://doi.org/10.1109/ASAP61560.2024.00039">DOI</a>]
   </li>
 
   <li>
@@ -206,7 +206,7 @@ redirect_from:
     <span class="pub-venue">
       <em>35th International Conference on Database and Expert Systems Applications (DEXA)</em>, 2024
     </span><br />
-    [<a href="bibs.html#Nakano_Extension">bib</a> | <a href="https://doi.org/10.1007/978-3-031-68312-1_19">DOI</a>]
+    [<a href="../bibs.html#Nakano_Extension">bib</a> | <a href="https://doi.org/10.1007/978-3-031-68312-1_19">DOI</a>]
   </li>
 
   <li>
@@ -220,7 +220,7 @@ redirect_from:
     <span class="pub-venue">
       <em>International Conference on Big Data and Smart Computing (BigComp)</em>, 2024
     </span><br />
-    [<a href="bibs.html#Terakura_Acceleration">bib</a> | <a href="https://doi.org/10.1109/BigComp60711.2024.00069">DOI</a>]
+    [<a href="../bibs.html#Terakura_Acceleration">bib</a> | <a href="https://doi.org/10.1109/BigComp60711.2024.00069">DOI</a>]
   </li>
 
   <li>
@@ -234,7 +234,7 @@ redirect_from:
     <span class="pub-venue">
       <em>34th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)</em>, 2023
     </span><br />
-    [<a href="bibs.html#Kunimoto_GPU">bib</a> | <a href="https://doi.org/10.1109/ASAP57973.2023.00031">DOI</a>]
+    [<a href="../bibs.html#Kunimoto_GPU">bib</a> | <a href="https://doi.org/10.1109/ASAP57973.2023.00031">DOI</a>]
   </li>
 
   <li>
@@ -248,7 +248,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, 2023
     </span><br />
-    [<a href="bibs.html#Wang_VAN">bib</a> | <a href="https://doi.org/10.1109/ICASSP49357.2023.10095859">DOI</a>]
+    [<a href="../bibs.html#Wang_VAN">bib</a> | <a href="https://doi.org/10.1109/ICASSP49357.2023.10095859">DOI</a>]
   </li>
 
   <li>
@@ -262,7 +262,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2023
     </span><br />
-    [<a href="bibs.html#Chang_StereoVAE">bib</a> | <a href="https://doi.org/10.1109/ICRA48891.2023.10160441">DOI</a>]
+    [<a href="../bibs.html#Chang_StereoVAE">bib</a> | <a href="https://doi.org/10.1109/ICRA48891.2023.10160441">DOI</a>]
   </li>
 
   <li>
@@ -276,7 +276,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE 33rd International Conference on Application-specific Systems, Architectures and Processors (ASAP)</em>, 2022
     </span><br />
-    [<a href="bibs.html#Mimura_Acceleration">bib</a> | <a href="https://doi.org/10.1109/ASAP54787.2022.00018">DOI</a>]
+    [<a href="../bibs.html#Mimura_Acceleration">bib</a> | <a href="https://doi.org/10.1109/ASAP54787.2022.00018">DOI</a>]
   </li>
 
   <li>
@@ -290,7 +290,7 @@ redirect_from:
     <span class="pub-venue">
       <em>32nd International Conference on Database and Expert Systems Applications (DEXA)</em>, 2021
     </span><br />
-    [<a href="bibs.html#Ohara_Fast">bib</a> | <a href="https://doi.org/10.1007/978-3-030-86472-9_3">DOI</a>]
+    [<a href="../bibs.html#Ohara_Fast">bib</a> | <a href="https://doi.org/10.1007/978-3-030-86472-9_3">DOI</a>]
   </li>
 
   <li>
@@ -304,7 +304,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE 38th International Conference on Computer Design (ICCD)</em>, 2020
     </span><br />
-    [<a href="bibs.html#Chang_Z2ZNCC">bib</a> | <a href="https://doi.org/10.1109/ICCD50377.2020.00104">DOI</a>]
+    [<a href="../bibs.html#Chang_Z2ZNCC">bib</a> | <a href="https://doi.org/10.1109/ICCD50377.2020.00104">DOI</a>]
   </li>
 
   <li>
@@ -318,7 +318,7 @@ redirect_from:
     <span class="pub-venue">
       <em>2nd International Conference on Algorithms, Computing and Artificial Intelligence (ACAI)</em>, 2019
     </span><br />
-    [<a href="bibs.html#Chang_A_GPU">bib</a> | <a href="https://doi.org/10.1145/3377713.3377806">DOI</a>]
+    [<a href="../bibs.html#Chang_A_GPU">bib</a> | <a href="https://doi.org/10.1145/3377713.3377806">DOI</a>]
   </li>
 
   <li>
@@ -332,7 +332,7 @@ redirect_from:
     <span class="pub-venue">
       <em>IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP)</em>, 2018
     </span><br />
-    [<a href="bibs.html#Chang_Real_Time">bib</a> | <a href="https://doi.org/10.1109/ASAP.2018.8445111">DOI</a>]
+    [<a href="../bibs.html#Chang_Real_Time">bib</a> | <a href="https://doi.org/10.1109/ASAP.2018.8445111">DOI</a>]
   </li>
 
   <li>
@@ -346,7 +346,7 @@ redirect_from:
     <span class="pub-venue">
       <em>26th High Performance Computing Symposium (HPC)</em>, 2018 <strong>(Best Paper Award)</strong>
     </span><br />
-    [<a href="bibs.html#Chang_Fast_convolution">bib</a> | <a href="https://dl.acm.org/doi/abs/10.5555/3213069.3213072">DOI</a>]
+    [<a href="../bibs.html#Chang_Fast_convolution">bib</a> | <a href="https://dl.acm.org/doi/abs/10.5555/3213069.3213072">DOI</a>]
   </li>
 </ul>
 
