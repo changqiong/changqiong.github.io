@@ -84,12 +84,12 @@ author:
   avatar           : "photo1.jpg"
   bio              : "Assistant Professor"
   location         : "Tokyo, Japan"
+  googlescholar    : "https://scholar.google.com/citations?user=GkfJ564AAAAJ&hl=en"
+  dblp		   : "https://dblp.org/pid/219/6333.html"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GkfJ564AAAAJ&hl=en"
   #email            : q.chang@c.titech.ac.jp
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  dblp		    : "https://dblp.org/pid/219/6333.html"
   #uri              :
   #bitbucket        :
   #codepen          :
