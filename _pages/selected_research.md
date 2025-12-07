@@ -5,72 +5,344 @@ redirect_from:
   - /selected_research.html
 ---
 
-======
 <style>
+.pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 12px;
+}
+
+/* 单个论文卡片 */
+.pub-card {
+  background: #fafafa;
+  border-radius: 10px;
+  padding: 16px 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+/* 标题、作者等文字样式 */
+.pub-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: magenta;
+}
+
+.pub-authors {
+  font-size: 14px;
+  color: #666666;
+  margin-top: 4px;
+}
+
+.pub-venue {
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 2px;
+}
+
+.pub-links {
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.pub-links a {
+  margin-right: 8px;
+}
+
+/* 图片行：3列小图 */
+.thumb-row {
+  display: flex;
+  gap: 4px;
+  margin-top: 10px;
+}
+
+.thumb-row img {
+  width: 33.33%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* 图片行：单张大图 */
+.thumb-full {
+  margin-top: 10px;
+}
+
+.thumb-full img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* 性能对比文字 */
+.pub-metrics {
+  font-size: 13px;
+  color: #444444;
+  margin-top: 6px;
+}
+
+/* 简短说明 */
+.pub-desc {
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+/* 复用你原来的 grid-3 做三列对比 */
 .grid-3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   text-align: center;
-  font-size: 14px;
+  font-size: 13px;
   margin-top: 4px;
+}
+
+/* 手机端适配 */
+@media (max-width: 768px) {
+  .pub-card {
+    padding: 12px 14px;
+  }
+  .thumb-row {
+    flex-direction: column;
+  }
+  .thumb-row img {
+    width: 100%;
+  }
 }
 </style>
 
-* <span style="color:Magenta"> Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
-_ACM Transactions on Architecture and Code Optimization, 2025_
-[[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.1145/3716875)|[code](https://github.com/changqiong/VANICP4Em)]<br />
-<img src="../../images/image17.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/image19.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/image18.gif" alt="Icon" style="width:33%; height:auto;"  /><br />
-&emsp;&emsp;&emsp;&emsp;PCL: 1x&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Open3D: 4x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**12x**</span><br />
-**Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.**<br />
+<div class="pub-list">
 
-* <span style="color:Magenta"> Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xinyuan Chen, Weimin Wang, Xiang Li, Jun Miyazaki</span><br />
-_ACM Transactions on Embedded Computing Systems, 2025_
-[[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.48550/arXiv.2506.07164)|[code](https://github.com/changqiong/FasterThanFast)]<br />
-<img src="../../images/fast_input.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/cuda-orb.gif" alt="Icon" style="width:33%; height:auto;"  /><img src="../../images/fast.gif" alt="Icon" style="width:33%; height:auto;"  /><br />
-&emsp;&emsp;&emsp;&emsp;Input &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CUDA-ORB: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**2.2x**</span><br />
-**Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.**<br />
+  <!-- 1. Accelerating Nearest Neighbor Search -->
+  <div class="pub-card">
+    <div class="pub-title">
+      Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs
+    </div>
+    <div class="pub-authors">
+      <strong>Qiong Chang</strong>, Weimin Wang, Jun Miyazaki
+    </div>
+    <div class="pub-venue">
+      ACM Transactions on Architecture and Code Optimization, 2025
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Chang_Acc">bib</a> |
+      <a href="https://doi.org/10.1145/3716875">paper</a> |
+      <a href="https://github.com/changqiong/VANICP4Em">code</a>
+    </div>
 
+    <div class="thumb-row">
+      <img src="../../images/image17.gif" alt="VANICP example 1" />
+      <img src="../../images/image19.gif" alt="VANICP example 2" />
+      <img src="../../images/image18.gif" alt="VANICP example 3" />
+    </div>
 
-* <span style="color:Magenta">3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs</span><br />
-<span style="color:gray">Xiang Li,  <span style="color:black">**Qiong Chang**\*</span>, Yun Li and Jun Miyazaki</span><br />
-_ACM Transactions on Architecture and Code Optimization, 2025_ [[bib](bibs.html#Li_3DGNLM)|[paper](https://dl.acm.org/doi/10.1145/3744909)]<br />
-<img src="../../images/nlm1.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/nlm2.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/nlm3.gif" alt="Icon" style="width:33%; height:auto;" /><br />
-&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**5.5x**</span><br />
-**Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.**<br />
+    <div class="grid-3 pub-metrics">
+      <div>PCL: 1×</div>
+      <div>Open3D: 4×</div>
+      <div>Ours: <span style="color:red;"><strong>12×</strong></span></div>
+    </div>
 
-* <span style="color:Magenta"> An Optimized GPU Implementation for GIST Descriptor</span><br />
-<span style="color:gray"><span style="color:black">Xiang Li, **Qiong Chang**\*</span>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</span><br />
-_ACM Transactions on Architecture and Code Optimization, 2024_ 
-[[bib](bibs.html#Li_An)|[paper](https://doi.org/10.1145/3689339)]<br />
-<img src="../../images/gabor1.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/gabor2.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/gabor3.gif" alt="Icon" style="width:33%; height:auto;" /><br />
-&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; cuFFT: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**6.4x**</span><br />
-**Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.**<br />
+    <p class="pub-desc">
+      Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
+    </p>
+  </div>
 
+  <!-- 2. Faster than Fast -->
+  <div class="pub-card">
+    <div class="pub-title">
+      Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs
+    </div>
+    <div class="pub-authors">
+      <strong>Qiong Chang</strong>, Xinyuan Chen, Weimin Wang, Xiang Li, Jun Miyazaki
+    </div>
+    <div class="pub-venue">
+      ACM Transactions on Embedded Computing Systems, 2025
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Chang_Acc">bib</a> |
+      <a href="https://doi.org/10.48550/arXiv.2506.07164">paper</a> |
+      <a href="https://github.com/changqiong/FasterThanFast">code</a>
+    </div>
 
-* <span style="color:Magenta">TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</span><br />
-<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</span><br />
-_IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.html#Chang_TinyStereo)|[DOI](https://doi.org/10.1109/TSMC.2024.3395464)|[code](https://github.com/changqiong/sRRNet)]<br />
-<img src="../../images/kitti.gif" alt="Icon" style="width:100%; height:auto;" /><br />
-<img src="../../images/z2zncc.gif" alt="Icon" style="width:100%; height:auto;" /><br />
-<img src="../../images/sRRNet.gif" alt="Icon" style="width:100%; height:auto;" /><br />
-&emsp;&emsp;Top: Input&emsp;&emsp;&emsp;&emsp;&emsp;Middle: z2zncc&emsp;&emsp;&emsp;&emsp;&emsp;Bottom: sRRNet<br />
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(28fps on Jetson Tx2) &emsp;&emsp;&emsp;&emsp;&emsp;(22fps on Jetson Tx2)<br />
-**Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.**<br />
+    <div class="thumb-row">
+      <img src="../../images/fast_input.gif" alt="FAST input" />
+      <img src="../../images/cuda-orb.gif" alt="CUDA-ORB" />
+      <img src="../../images/fast.gif" alt="Proposed method" />
+    </div>
 
+    <div class="grid-3 pub-metrics">
+      <div>Input</div>
+      <div>CUDA-ORB: 1×</div>
+      <div>Ours: <span style="color:red;"><strong>2.2×</strong></span></div>
+    </div>
 
-* <span style="color:Magenta">Multi-Directional Sobel Operator Kernel on Gpus</span><br />
-<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
-_Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[paper](https://doi.org/10.48550/arXiv.2305.00515)|[code](https://github.com/changqiong/SobelGPU_5x5)]<br />
-<img src="../../images/sobel1.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/sobel2.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/sobel3.gif" alt="Icon" style="width:33%; height:auto;" /><br />
-&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
-**Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
+    <p class="pub-desc">
+      Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.
+    </p>
+  </div>
 
+  <!-- 3. 3D GNLM -->
+  <div class="pub-card">
+    <div class="pub-title">
+      3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs
+    </div>
+    <div class="pub-authors">
+      Xiang Li, <strong>Qiong Chang*</strong>, Yun Li, Jun Miyazaki
+    </div>
+    <div class="pub-venue">
+      ACM Transactions on Architecture and Code Optimization, 2025
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Li_3DGNLM">bib</a> |
+      <a href="https://dl.acm.org/doi/10.1145/3744909">paper</a>
+    </div>
 
+    <div class="thumb-row">
+      <img src="../../images/nlm1.gif" alt="NLM example 1" />
+      <img src="../../images/nlm2.gif" alt="NLM example 2" />
+      <img src="../../images/nlm3.gif" alt="NLM example 3" />
+    </div>
 
-* <span style="color:Magenta"> Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation </span><br />
-<span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama</span><br />
-_Journal of Systems Architecture, 2022_ [[bib](bibs.html#Chang_Efficient)|[paper](https://doi.org/10.48550/arXiv.2212.00476)|[code](https://github.com/changqiong/z2zncc)]
-<img src="../../images/stereo.gif" alt="Icon" style="width:100%; height:auto;" /><br />
-Left (original ZNCC): 10fps,  Right (proposed Z2ZNCC): <span style="color:red">**20fps**</span><br />
-**Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.**<br />
+    <div class="grid-3 pub-metrics">
+      <div>Input</div>
+      <div>OpenCV-GPU: 1×</div>
+      <div>Ours: <span style="color:red;"><strong>5.5×</strong></span></div>
+    </div>
 
+    <p class="pub-desc">
+      Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.
+    </p>
+  </div>
+
+  <!-- 4. GIST -->
+  <div class="pub-card">
+    <div class="pub-title">
+      An Optimized GPU Implementation for GIST Descriptor
+    </div>
+    <div class="pub-authors">
+      Xiang Li, <strong>Qiong Chang*</strong>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki
+    </div>
+    <div class="pub-venue">
+      ACM Transactions on Architecture and Code Optimization, 2024
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Li_An">bib</a> |
+      <a href="https://doi.org/10.1145/3689339">paper</a>
+    </div>
+
+    <div class="thumb-row">
+      <img src="../../images/gabor1.gif" alt="Gabor example 1" />
+      <img src="../../images/gabor2.gif" alt="Gabor example 2" />
+      <img src="../../images/gabor3.gif" alt="Gabor example 3" />
+    </div>
+
+    <div class="grid-3 pub-metrics">
+      <div>Input</div>
+      <div>cuFFT: 1×</div>
+      <div>Ours: <span style="color:red;"><strong>6.4×</strong></span></div>
+    </div>
+
+    <p class="pub-desc">
+      Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.
+    </p>
+  </div>
+
+  <!-- 5. TinyStereo -->
+  <div class="pub-card">
+    <div class="pub-title">
+      TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs
+    </div>
+    <div class="pub-authors">
+      <strong>Qiong Chang</strong>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li
+    </div>
+    <div class="pub-venue">
+      IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Chang_TinyStereo">bib</a> |
+      <a href="https://doi.org/10.1109/TSMC.2024.3395464">DOI</a> |
+      <a href="https://github.com/changqiong/sRRNet">code</a>
+    </div>
+
+    <div class="thumb-full">
+      <img src="../../images/kitti.gif" alt="KITTI example" />
+    </div>
+    <div class="thumb-full">
+      <img src="../../images/z2zncc.gif" alt="z2zncc example" />
+    </div>
+    <div class="thumb-full">
+      <img src="../../images/sRRNet.gif" alt="sRRNet example" />
+    </div>
+
+    <div class="pub-metrics">
+      Top: Input &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Middle: z2zncc (28 fps on Jetson TX2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bottom: sRRNet (22 fps on Jetson TX2)
+    </div>
+
+    <p class="pub-desc">
+      Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.
+    </p>
+  </div>
+
+  <!-- 6. Multi-directional Sobel -->
+  <div class="pub-card">
+    <div class="pub-title">
+      Multi-Directional Sobel Operator Kernel on GPUs
+    </div>
+    <div class="pub-authors">
+      <strong>Qiong Chang</strong>, Xiang Li, Yun Li, Jun Miyazaki
+    </div>
+    <div class="pub-venue">
+      Journal of Parallel and Distributed Computing, 2023
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Chang_Multi">bib</a> |
+      <a href="https://doi.org/10.48550/arXiv.2305.00515">paper</a> |
+      <a href="https://github.com/changqiong/SobelGPU_5x5">code</a>
+    </div>
+
+    <div class="thumb-row">
+      <img src="../../images/sobel1.gif" alt="Sobel example 1" />
+      <img src="../../images/sobel2.gif" alt="Sobel example 2" />
+      <img src="../../images/sobel3.gif" alt="Sobel example 3" />
+    </div>
+
+    <div class="grid-3 pub-metrics">
+      <div>Input</div>
+      <div>OpenCV-GPU: 1×</div>
+      <div>Ours: <span style="color:red;"><strong>11×</strong></span></div>
+    </div>
+
+    <p class="pub-desc">
+      Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.
+    </p>
+  </div>
+
+  <!-- 7. Z2ZNCC Stereo -->
+  <div class="pub-card">
+    <div class="pub-title">
+      Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation
+    </div>
+    <div class="pub-authors">
+      <strong>Qiong Chang</strong>, Aolong Zha, Weimin Wang, Xin Liu, Masaki Onishi, Lei Lei, Tsutomu Maruyama
+    </div>
+    <div class="pub-venue">
+      Journal of Systems Architecture, 2022
+    </div>
+    <div class="pub-links">
+      <a href="bibs.html#Chang_Efficient">bib</a> |
+      <a href="https://doi.org/10.48550/arXiv.2212.00476">paper</a> |
+      <a href="https://github.com/changqiong/z2zncc">code</a>
+    </div>
+
+    <div class="thumb-full">
+      <img src="../../images/stereo.gif" alt="Stereo matching example" />
+    </div>
+
+    <div class="pub-metrics">
+      Left (original ZNCC): 10 fps &nbsp;&nbsp;&nbsp; Right (proposed Z2ZNCC): <span style="color:red;"><strong>20 fps</strong></span>
+    </div>
+
+    <p class="pub-desc">
+      Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
+    </p>
+  </div>
+
+</div>
