@@ -5,7 +5,7 @@ redirect_from:
   - /publications.html
 ---
 
-### 📰 Journal
+## 📰 Journal
 
 <ul class="pub-list">
   <li>
@@ -150,7 +150,7 @@ redirect_from:
 </ul>
 
 
-### 🎤 Conference
+## 🎤 Conference
 
 <ul class="pub-list">
   <li>
