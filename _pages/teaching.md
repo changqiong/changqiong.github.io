@@ -1,11 +1,9 @@
 ---
-title: "Teaching"
+title: "📚 Teaching Experience"
 author_profile: true
 redirect_from: 
   - /teaching/
 ---
-
-## 📚 Teaching Experience
 
 🔹 **System Programming**
 - 2021 – Present  
