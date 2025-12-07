@@ -276,9 +276,28 @@ redirect_from:
       <img src="../../images/sRRNet.gif" alt="sRRNet example" />
     </div>
 
-    <div class="pub-metrics">
-      Top: Input &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Middle: z2zncc (28 fps on Jetson TX2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bottom: sRRNet (22 fps on Jetson TX2)
+     <div class="grid-3 pub-metrics" style="margin-top:12px; text-align:center;">
+  
+  <div>
+    <div><strong>Top</strong>: Input</div>
+  </div>
+
+  <div>
+    <div><strong>Middle</strong>: z2zncc</div>
+    <div style="color:red; font-weight:700; margin-top:4px;">
+      28 fps on Jetson TX2
     </div>
+  </div>
+
+  <div>
+    <div><strong>Bottom</strong>: sRRNet</div>
+    <div style="color:red; font-weight:700; margin-top:4px;">
+      22 fps on Jetson TX2
+    </div>
+  </div>
+
+</div>
+
 
     <p class="pub-desc">
       Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.
