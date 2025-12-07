@@ -15,7 +15,7 @@ redirect_from:
 
 /* 单个论文卡片 */
 .pub-card {
-  background: #fafafa;
+  background: linear-gradient(145deg, #f7f9fc, #eef2f7);
   border-radius: 10px;
   padding: 16px 20px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.04);
