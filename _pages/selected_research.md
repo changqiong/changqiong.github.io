@@ -145,7 +145,7 @@ redirect_from:
     </div>
 
     <p class="pub-desc">
-    <img src="../../images/contribution.png" alt="contribution icon" width=10/>
+    <img src="../../images/contribution.png" alt="contribution icon" width=40/>
     Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
     </p>
   </div>
