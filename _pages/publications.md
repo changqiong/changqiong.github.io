@@ -47,7 +47,6 @@ color: magenta;
 /* ✅ 你的名字：重点高亮 */
 .author-me {
   color: #1f4fa3;
-  background: #d8e1ed;
   padding: 1px 6px;
   border-radius: 6px;
 }
