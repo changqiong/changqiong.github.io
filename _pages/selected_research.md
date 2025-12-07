@@ -83,6 +83,16 @@ redirect_from:
   font-weight: 500;
 }
 
+.pub-metrics-2col {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;  /* 左右各 50% */
+  text-align: center;             /* 每一列内部居中 */
+  color: #333333;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
 /* 三列对比专用 */
 .grid-3 {
   display: grid;
@@ -364,13 +374,15 @@ redirect_from:
     <div class="thumb-full">
       <img src="../../images/stereo.gif" alt="Stereo matching example" />
     </div>
-
-    <div style="width:50%; margin: 0 auto; text-align:center;">
-    	Left (original ZNCC): 10 fps &nbsp;&nbsp;&nbsp;&nbsp;
-       	Right (proposed Z2ZNCC): 
-  	<span style="color:red; font-weight:700;">20 fps</span>
+    <div class="pub-metrics-2col">
+    <div>
+    Left (original ZNCC): 10 fps
     </div>
-
+    <div>
+    Right (proposed Z2ZNCC): 
+    <span style="color:red; font-weight:700;">20 fps</span>
+    </div>
+    </div>
     <p class="pub-desc">
       <img src="../../images/contribution.png" alt="contribution icon" width=40/>
     Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
