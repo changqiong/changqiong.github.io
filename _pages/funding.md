@@ -5,7 +5,7 @@ redirect_from:
   - /funding.html
 ---
 
-## 🔹 Current Funding
+## Current Funding
 
 **A Study on View Construction for Application-Oriented Graph Knowledge Bases**  
 *Co-Investigator*  
@@ -14,7 +14,7 @@ Japan Society for the Promotion of Science (JSPS), Apr. 2023 – Mar. 2027
 
 ---
 
-## 🔹 Past Funding
+## Past Funding
 
 **High-Accuracy and High-Speed Dance Support System Using GPUs**  
 *Principal Investigator*  

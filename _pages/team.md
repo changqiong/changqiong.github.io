@@ -9,7 +9,7 @@ In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Institu
 
 ---
 
-## 🔹 Current Collaborators
+## Current Collaborators
 
 **[Xiang Li](https://lixiang-lab.github.io/)** — *Ph.D. (D4)*  
 Nanjing University  
@@ -29,7 +29,7 @@ Nanjing University
 
 ---
 
-## 🔹 Past Collaborators
+## Past Collaborators
 
 ### 2025  
 **Qian Li** — *Master (M3)*  
