@@ -21,13 +21,13 @@ redirect_from:
 
 /* Journal 论文标题 */
 .journal-title {
-  color: #8b0000;
-  font-weight: 700;
+color: magenta;
+ font-weight: 700;
 }
 
 /* Conference 论文标题 */
 .conf-title {
-  color: #004d40;
+  color: blue;
   font-weight: 700;
 }
 
