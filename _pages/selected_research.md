@@ -89,29 +89,15 @@ redirect_from:
   grid-template-columns: 1fr 1fr 1fr;
   text-align: center;
   font-size: 15px;   /* 原来 13px */
-  margin-top: 
-
-
-/* Key Contribution 标签样式 */
-.pub-badge {
-  display: inline-block;
-  background: #e8ecf4;
-  color: #3a4f7a;
-  font-weight: 700;
-  padding: 2px 10px;
-  border-radius: 6px;
-  margin-bottom: 6px;
-  font-size: 14px;
+  margin-top: 6px;
 }
 
-/* 说明正文统一样式 */
+/* 正文说明 abstract */
 .pub-desc {
-  font-size: 15.5px;
+  font-size: 14px;   /* 原来 14px */
   margin-top: 10px;
   line-height: 1.65;
-  color: #222222;
 }
-
 
 /* 手机端适配 */
 @media (max-width: 768px) {
@@ -158,11 +144,9 @@ redirect_from:
       <div>Ours: <span style="color:red;"><strong>12×</strong></span></div>
     </div>
 
-    <div class="pub-desc">
-    <span style="...">Key Contribution</span>
-     <div style="margin-top:6px;">
-      Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
-    </div>
+    <p class="pub-desc">
+      Contribution: Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
+    </p>
   </div>
 
   <!-- 2. Faster than Fast -->
@@ -194,11 +178,9 @@ redirect_from:
       <div>Ours: <span style="color:red;"><strong>2.2×</strong></span></div>
     </div>
 
-    <div class="pub-desc">
-    <span style="...">Key Contribution</span>
-     <div style="margin-top:6px;">
-      Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.
-    </div>
+    <p class="pub-desc">
+      Contribution: Proposed two methods to accelerate the most time-consuming steps in Oriented FAST feature detection: FAST feature point detection and Harris corner detection.
+    </p>
   </div>
 
   <!-- 3. 3D GNLM -->
@@ -229,11 +211,9 @@ redirect_from:
       <div>Ours: <span style="color:red;"><strong>5.5×</strong></span></div>
     </div>
 
-    <div class="pub-desc">
-    <span style="...">Key Contribution</span>
-     <div style="margin-top:6px;">
-      Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.
-    </div>
+    <p class="pub-desc">
+      Contribution: Proposed an efficient parallel implementation of the 3D Non-Local Means (NLM) denoising algorithm on GPU, significantly accelerating performance for high-resolution medical image processing tasks.
+    </p>
   </div>
 
   <!-- 4. GIST -->
@@ -264,11 +244,9 @@ redirect_from:
       <div>Ours: <span style="color:red;"><strong>6.4×</strong></span></div>
     </div>
 
-    <div class="pub-desc">
-    <span style="...">Key Contribution</span>
-     <div style="margin-top:6px;">
-      Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.
-    </div>
+    <p class="pub-desc">
+      Contribution: Introduced an optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.
+    </p>
   </div>
 
   <!-- 5. TinyStereo -->
@@ -321,11 +299,9 @@ redirect_from:
 </div>
 
 
-    <div class="pub-desc">
-    <span style="...">Key Contribution</span>
-     <div style="margin-top:6px;">
-      Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.
-    </div>
+    <p class="pub-desc">
+      Contribution: Implemented a lightweight coarse-to-fine stereo matching framework optimized for embedded GPUs, enabling efficient and accurate depth estimation under constrained computational resources.
+    </p>
   </div>
 
   <!-- 6. Multi-directional Sobel -->
@@ -357,9 +333,9 @@ redirect_from:
       <div>Ours: <span style="color:red;"><strong>11×</strong></span></div>
     </div>
 
-    <div class="pub-desc">
-      Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.
-    </div>
+    <p class="pub-desc">
+      Contribution: Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.
+    </p>
   </div>
 
   <!-- 7. Z2ZNCC Stereo -->
@@ -387,11 +363,9 @@ redirect_from:
       Left (original ZNCC): 10 fps &nbsp;&nbsp;&nbsp; Right (proposed Z2ZNCC): <span style="color:red;"><strong>20 fps</strong></span>
     </div>
 
-    <div class="pub-desc">
-    <span style="...">Key Contribution</span>
-     <div style="margin-top:6px;">
-      Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
-    </div>
+    <p class="pub-desc">
+      Contribution: Implemented fast ZNCC feature matching on embedded GPUs, offering an effective real-time alternative to traditional Census in stereo matching.
+    </p>
   </div>
 
 </div>
