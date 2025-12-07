@@ -5,7 +5,7 @@ redirect_from:
   - /team.html
 ---
 
-In addition to the :contentReference[oaicite:0]{index=0} at :contentReference[oaicite:1]{index=1}, I also collaborate closely with the :contentReference[oaicite:2]{index=2} at :contentReference[oaicite:3]{index=3}.
+In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Institute of Science Tokyo, I am also collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
 
 ---
 
