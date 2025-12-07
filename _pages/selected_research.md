@@ -158,10 +158,10 @@ redirect_from:
       <div>Ours: <span style="color:red;"><strong>12×</strong></span></div>
     </div>
 
-    <div class="pub-desc">
-    <img src="../../images/contribution.png" alt="contribution icon" />
+    <p class="pub-desc">
+    <div><img src="../../images/contribution.png" alt="contribution icon" />
     Proposed a GPU-accelerated method to significantly speed up nearest neighbor search for 3D point cloud registration, enhancing real-time performance in high-density spatial data processing.
-    </div>
+    </div></p>
   </div>
 
   <!-- 2. Faster than Fast -->
