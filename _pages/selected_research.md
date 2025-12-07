@@ -11,7 +11,7 @@ redirect_from:
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 4px;
 }
 </style>
@@ -62,12 +62,8 @@ _IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024_ [[bib](bibs.
 <span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Xiang Li, Yun Li, Jun Miyazaki</span><br />
 _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Multi)|[paper](https://doi.org/10.48550/arXiv.2305.00515)|[code](https://github.com/changqiong/SobelGPU_5x5)]<br />
 <img src="../../images/sobel1.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/sobel2.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/sobel3.gif" alt="Icon" style="width:33%; height:auto;" /><br />
-<div>Input</div>
-<div>OPENCV-GPU: 1x</div>
-<div>Ours: <span style="color:red;"><b>11x</b></span></div>
-</div>
+&emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
-
 
 
 
