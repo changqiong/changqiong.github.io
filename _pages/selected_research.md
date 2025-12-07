@@ -108,8 +108,8 @@ redirect_from:
 
 /* 小图标尺寸控制 */
 .pub-desc.with-icon img {
-  width: 18px;
-  height: 18px;
+  width: 1px;
+  height: 1px;
   margin-top: 3px;  /* 与第一行文字对齐 */
 }
 
