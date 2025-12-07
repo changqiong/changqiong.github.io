@@ -7,13 +7,6 @@ redirect_from:
 
 ======
 
-<div style="
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  text-align: center;
-  font-size: 14px;
-  margin-top: 4px;
-">
 * <span style="color:Magenta"> Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs</span><br /><span style="color:gray"><span style="color:black">**Qiong Chang**</span>, Weimin Wang, Jun Miyazaki</span><br />
 _ACM Transactions on Architecture and Code Optimization, 2025_
 [[bib](bibs.html#Chang_Acc)|[paper](https://doi.org/10.1145/3716875)|[code](https://github.com/changqiong/VANICP4Em)]<br />
@@ -62,6 +55,13 @@ _Journal of Parallel and Distributed Computing, 2023_ [[bib](bibs.html#Chang_Mul
 <img src="../../images/sobel1.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/sobel2.gif" alt="Icon" style="width:33%; height:auto;" /><img src="../../images/sobel3.gif" alt="Icon" style="width:33%; height:auto;" /><br />
 &emsp;&emsp;&emsp;&emsp;Input&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OPENCV-GPU: 1x &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ours: <span style="color:red">**11x**</span><br />
 **Proposed a GPU-accelerated multi-directional Sobel operator kernel for efficient and parallel edge detection across multiple gradient orientations.**<br />
+<div style="
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 4px;
+">
 <div>Input</div>
   <div>cuFFT: 1x</div>
   <div>Ours: <span style="color:red;"><b>6.4x</b></span></div>
