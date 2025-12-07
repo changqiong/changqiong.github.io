@@ -13,11 +13,19 @@ redirect_from:
 }
 
 /* 论文编号 */
-.pub-id {
-  color: #1f4fa3;
+.pub-jour-id {
+  color: magenta;
   font-weight: bold;
   font-size: 1.05em;
 }
+
+/* 论文编号 */
+.pub-conf-id {
+  color: blue;
+  font-weight: bold;
+  font-size: 1.05em;
+}
+
 
 /* Journal 论文标题 */
 .journal-title {
@@ -76,7 +84,7 @@ h2 {
 
 <ul class="pub-list">
   <li>
-    <span class="pub-id">J10.</span>
+    <span class="pub-jour-id">J10.</span>
     <span class="pub-title journal-title">
       3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs
     </span><br />
@@ -90,7 +98,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J9.</span>
+    <span class="pub-jour-id">J9.</span>
     <span class="pub-title journal-title">
       Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs
     </span><br />
@@ -104,7 +112,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J8.</span>
+    <span class="pub-jour-id">J8.</span>
     <span class="pub-title journal-title">
       Accelerating Nearest Neighbor Search in 3D Point Cloud Registration on GPUs
     </span><br />
@@ -118,7 +126,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J7.</span>
+    <span class="pub-jour-id">J7.</span>
     <span class="pub-title journal-title">
       An Optimized GPU Implementation for GIST Descriptor
     </span><br />
@@ -132,7 +140,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J6.</span>
+    <span class="pub-jour-id">J6.</span>
     <span class="pub-title journal-title">
       TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs
     </span><br />
@@ -146,7 +154,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J5.</span>
+    <span class="pub-jour-id">J5.</span>
     <span class="pub-title journal-title">
       High-precision Plant Height Measurement by Drone with RTK-GNSS and Single Camera for Real-time Processing
     </span><br />
@@ -160,7 +168,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J4.</span>
+    <span class="pub-jour-id">J4.</span>
     <span class="pub-title journal-title">
       Multi-Directional Sobel Operator Kernel on GPUs
     </span><br />
@@ -174,7 +182,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J3.</span>
+    <span class="pub-jour-id">J3.</span>
     <span class="pub-title journal-title">
       An Incremental SAT-Based Approach for Solving the Real-Time Taxi-Sharing Service Problem
     </span><br />
@@ -188,7 +196,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J2.</span>
+    <span class="pub-jour-id">J2.</span>
     <span class="pub-title journal-title">
       Efficient Stereo Matching on Embedded GPUs with Zero-Means Cross Correlation
     </span><br />
@@ -202,7 +210,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">J1.</span>
+    <span class="pub-jour-id">J1.</span>
     <span class="pub-title journal-title">
       Real-Time Stereo Vision System: A Multi-Block Matching on GPU
     </span><br />
@@ -221,7 +229,7 @@ h2 {
 
 <ul class="pub-list">
   <li>
-    <span class="pub-id">C14.</span>
+    <span class="pub-conf-id">C14.</span>
     <span class="pub-title conf-title">
       FSAC-IA: A Hierarchical Constructed SAC-IA Algorithm for Point Cloud Alignment Acceleration
     </span><br />
@@ -235,7 +243,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C13.</span>
+    <span class="pub-conf-id">C13.</span>
     <span class="pub-title conf-title">
       Efficient Parallel Implementation of Non-Local Means Algorithm on GPU
     </span><br />
@@ -249,7 +257,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C12.</span>
+    <span class="pub-conf-id">C12.</span>
     <span class="pub-title conf-title">
       K-way In-place Merge by CPU-GPU Cooperative Processing
     </span><br />
@@ -263,7 +271,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C11.</span>
+    <span class="pub-conf-id">C11.</span>
     <span class="pub-title conf-title">
       Extension of Parallel Primitives and Their Applications to Large-Scale Data Processing
     </span><br />
@@ -277,7 +285,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C10.</span>
+    <span class="pub-conf-id">C10.</span>
     <span class="pub-title conf-title">
       Acceleration of Neural Network Inference for Embedded GPU Systems
     </span><br />
@@ -291,7 +299,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C9.</span>
+    <span class="pub-conf-id">C9.</span>
     <span class="pub-title conf-title">
       GPU Acceleration of Multi-object Tracking with Motion Vector Interpolation and Affine Transformation
     </span><br />
@@ -305,7 +313,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C8.</span>
+    <span class="pub-conf-id">C8.</span>
     <span class="pub-title conf-title">
       VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation
     </span><br />
@@ -319,7 +327,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C7.</span>
+    <span class="pub-conf-id">C7.</span>
     <span class="pub-title conf-title">
       StereoVAE: A Lightweight Stereo-Matching System Using Embedded GPUs
     </span><br />
@@ -333,7 +341,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C6.</span>
+    <span class="pub-conf-id">C6.</span>
     <span class="pub-title conf-title">
       Acceleration of Video Stabilization Using Embedded GPU
     </span><br />
@@ -347,7 +355,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C5.</span>
+    <span class="pub-conf-id">C5.</span>
     <span class="pub-title conf-title">
       Fast SQL/Row Pattern Recognition Query Processing Using Parallel Primitives on GPUs
     </span><br />
@@ -361,7 +369,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C4.</span>
+    <span class="pub-conf-id">C4.</span>
     <span class="pub-title conf-title">
       Z<sup>2</sup>-ZNCC: ZigZag Scanning-based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU
     </span><br />
@@ -375,7 +383,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C3.</span>
+    <span class="pub-conf-id">C3.</span>
     <span class="pub-title conf-title">
       A GPU Accelerator for Domain Transformation-Based Stereo Matching
     </span><br />
@@ -389,7 +397,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C2.</span>
+    <span class="pub-conf-id">C2.</span>
     <span class="pub-title conf-title">
       Real-Time High-Quality Stereo Matching System on a GPU
     </span><br />
@@ -403,7 +411,7 @@ h2 {
   </li>
 
   <li>
-    <span class="pub-id">C1.</span>
+    <span class="pub-conf-id">C1.</span>
     <span class="pub-title conf-title">
       Fast Convolution Kernels on Pascal GPU with High Memory Efficiency
     </span><br />
