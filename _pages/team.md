@@ -5,26 +5,35 @@ redirect_from:
   - /team.html
 ---
 
-In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Institute of Science Tokyo, I am also collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
+<span style="color:gray">
+In addition to the Miyazaki Lab at Institute of Science Tokyo, I am also collaborating with the Yun Li Lab at Nanjing University.
+</span>
 
 ---
 
 ## Current Collaborators
 
-**[Xiang Li](https://lixiang-lab.github.io/)** — *(D4)*  
-Nanjing University  
+<span style="color:Magenta">Xiang Li</span> — *(D4)*  
+<span style="color:gray">Nanjing University</span>  
 **Research Interest:** GPU-based high-performance computing algorithm design  
+[[Homepage](https://lixiang-lab.github.io/)]
 
-**Ziyang Yu** — *(D1)*  
-Institute of Science Tokyo  
+<br />
+
+<span style="color:Magenta">Ziyang Yu</span> — *(D1)*  
+<span style="color:gray">Institute of Science Tokyo</span>  
 **Research Interest:** High-performance point cloud registration  
 
-**Yanliang Wu** — *(M1)*  
-Nanjing University  
+<br />
+
+<span style="color:Magenta">Yanliang Wu</span> — *(M1)*  
+<span style="color:gray">Nanjing University</span>  
 **Research Interest:** GPU task scheduling strategy design  
 
-**Dongqi Cai** — *(B3)*  
-Nanjing University  
+<br />
+
+<span style="color:Magenta">Dongqi Cai</span> — *(B3)*  
+<span style="color:gray">Nanjing University</span>  
 **Research Interest:** GPU-based high-performance point cloud registration  
 
 ---
@@ -32,22 +41,25 @@ Nanjing University
 ## Past Collaborators
 
 ### 2025  
-**Qian Li** — *(M3)*  
-Nanjing University → HiSilicon  
+
+<span style="color:Magenta">Qian Li</span> — *(M3)*  
+<span style="color:gray">Nanjing University → HiSilicon</span>  
 **Research Interest:** FPGA accelerator design for dilation-based Iterative Closest Point  
 
 ---
 
 ### 2023  
-**Kei Terakura** — *(B4)*  
-Tokyo Institute of Technology  
+
+<span style="color:Magenta">Kei Terakura</span> — *(B4)*  
+<span style="color:gray">Tokyo Institute of Technology</span>  
 **Research Interest:** Acceleration of neural network inference for embedded GPU systems  
 
 ---
 
 ### 2022  
-**Xin Xu** — *(M3)*  
-Nanjing University → HiSilicon  
+
+<span style="color:Magenta">Xin Xu</span> — *(M3)*  
+<span style="color:gray">Nanjing University → HiSilicon</span>  
 **Research Interest:** Tiny framework for depth estimation on embedded GPUs  
 
 ---
