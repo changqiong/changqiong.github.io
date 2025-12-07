@@ -5,45 +5,49 @@ redirect_from:
   - /team.html
 ---
 
-In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Institute of Science Tokyo, I am also
-collaborating with the [Yun Li Lab](https://www.yunligroup.org/) at Nanjing University.
+In addition to the :contentReference[oaicite:0]{index=0} at :contentReference[oaicite:1]{index=1}, I also collaborate closely with the :contentReference[oaicite:2]{index=2} at :contentReference[oaicite:3]{index=3}.
 
-## Current Collaborators
+---
 
-**[Xiang Li](https://lixiang-lab.github.io/)**	D4<br />
-Nanjing University<br />
-Research Interest: GPU-based high-performance computing algorithm design.
+## 🔹 Current Collaborators
 
-**Ziyang Yu**    D1<br />
-Institute of Science Tokyo<br />
-Research Interest: High-performance point cloud registration. 
+**[Xiang Li](https://lixiang-lab.github.io/)** — *Ph.D. (D4)*  
+Nanjing University  
+**Research Interest:** GPU-based high-performance computing algorithm design  
 
-**Yanliang Wu**    M1<br />
-Nanjing University<br />
-Research Interest: GPU task scheduling strategy design. 
+**Ziyang Yu** — *Ph.D. (D1)*  
+Institute of Science Tokyo  
+**Research Interest:** High-performance point cloud registration  
 
-**Dongqi Cai**    B3<br />
-Nanjing University<br />
-Research Interest: GPU-based high-performance point cloud registration. 
+**Yanliang Wu** — *Master (M1)*  
+Nanjing University  
+**Research Interest:** GPU task scheduling strategy design  
 
+**Dongqi Cai** — *Bachelor (B3)*  
+Nanjing University  
+**Research Interest:** GPU-based high-performance point cloud registration  
 
-## Past Collaborators
+---
 
-2025<br />
-**Qian Li**    M3<br />
-Nanjing University<br />
-Career: HiSilicon Technology Co., Ltd<br />
-Research Interest: FPGA accelerator design for dilation-based Iterative Closest Point.
+## 🔹 Past Collaborators
 
+### 2025  
+**Qian Li** — *Master (M3)*  
+Nanjing University → :contentReference[oaicite:4]{index=4}  
+**Research Interest:** FPGA accelerator design for dilation-based Iterative Closest Point  
 
-2023<br />
-**Kei Terakura**	B4<br />
-Tokyo Institute of Technology<br />
-Research Interest: Acceleration of neural network inference for embedded GPU systems.
+---
 
-2022<br />
-**Xin Xu**	M3<br />
-Nanjing University<br />
-Career: HiSilicon Technology Co., Ltd<br />
-Research Interest: Tiny framework for depth estimation on embedded GPUs. 
+### 2023  
+**Kei Terakura** — *Bachelor (B4)*  
+Tokyo Institute of Technology  
+**Research Interest:** Acceleration of neural network inference for embedded GPU systems  
 
+---
+
+### 2022  
+**Xin Xu** — *Master (M3)*  
+Nanjing University → HiSilicon  
+**Research Interest:** Tiny framework for depth estimation on embedded GPUs  
+
+---
