@@ -23,26 +23,26 @@ redirect_from:
 
 /* 标题、作者等文字样式 */
 .pub-title {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   color: magenta;
 }
 
 .pub-authors {
-  font-size: 15px;   /* 原来 14px */
+  font-size: 17px;   /* 原来 14px */
   color: #666666;
   margin-top: 6px;
 }
 
 .pub-venue {
-  font-size: 15px;   /* 原来 14px */
+  font-size: 16px;   /* 原来 14px */
   font-style: italic;
   margin-top: 4px;
 }
 
 /* bib / paper / code 链接 */
 .pub-links {
-  font-size: 15px;   /* 原来 13px */
+  font-size: 16px;   /* 原来 13px */
   margin-top: 6px;
 }
 
@@ -77,7 +77,7 @@ redirect_from:
 
 /* 性能对比文字（图片下方） */
 .pub-metrics {
-  font-size: 15px;   /* 原来 13px */
+  font-size: 16px;   /* 原来 13px */
   color: #333333;
   margin-top: 10px;
   font-weight: 500;
