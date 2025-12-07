@@ -365,8 +365,10 @@ redirect_from:
       <img src="../../images/stereo.gif" alt="Stereo matching example" />
     </div>
 
-    <div class="pub-metrics">
-      Left (original ZNCC): 10 fps &nbsp;&nbsp;&nbsp; Right (proposed Z2ZNCC): <span style="color:red;"><strong>20 fps</strong></span>
+    <div style="width:50%; margin: 0 auto; text-align:center;">
+    	Left (original ZNCC): 10 fps &nbsp;&nbsp;&nbsp;&nbsp;
+       	Right (proposed Z2ZNCC): 
+  	<span style="color:red; font-weight:700;">20 fps</span>
     </div>
 
     <p class="pub-desc">
