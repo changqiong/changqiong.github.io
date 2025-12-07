@@ -11,19 +11,19 @@ In addition to the [Miyazaki Lab](http://www.lsc.cs.titech.ac.jp/en/) at Institu
 
 ## Current Collaborators
 
-**[Xiang Li](https://lixiang-lab.github.io/)** — *Ph.D. (D4)*  
+**[Xiang Li](https://lixiang-lab.github.io/)** — *(D4)*  
 Nanjing University  
 **Research Interest:** GPU-based high-performance computing algorithm design  
 
-**Ziyang Yu** — *Ph.D. (D1)*  
+**Ziyang Yu** — *(D1)*  
 Institute of Science Tokyo  
 **Research Interest:** High-performance point cloud registration  
 
-**Yanliang Wu** — *Master (M1)*  
+**Yanliang Wu** — *(M1)*  
 Nanjing University  
 **Research Interest:** GPU task scheduling strategy design  
 
-**Dongqi Cai** — *Bachelor (B3)*  
+**Dongqi Cai** — *(B3)*  
 Nanjing University  
 **Research Interest:** GPU-based high-performance point cloud registration  
 
@@ -32,21 +32,21 @@ Nanjing University
 ## Past Collaborators
 
 ### 2025  
-**Qian Li** — *Master (M3)*  
+**Qian Li** — *(M3)*  
 Nanjing University → :contentReference[oaicite:4]{index=4}  
 **Research Interest:** FPGA accelerator design for dilation-based Iterative Closest Point  
 
 ---
 
 ### 2023  
-**Kei Terakura** — *Bachelor (B4)*  
+**Kei Terakura** — *(B4)*  
 Tokyo Institute of Technology  
 **Research Interest:** Acceleration of neural network inference for embedded GPU systems  
 
 ---
 
 ### 2022  
-**Xin Xu** — *Master (M3)*  
+**Xin Xu** — *(M3)*  
 Nanjing University → HiSilicon  
 **Research Interest:** Tiny framework for depth estimation on embedded GPUs  
 
