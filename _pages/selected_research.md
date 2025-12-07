@@ -29,11 +29,10 @@ redirect_from:
 }
 
 .pub-authors {
-  font-size: 15px;   /* 原来 14px */
-  color: #666666;
+  font-size: 15px;
+  color: #3b6f61;   /* 科技绿灰 */
   margin-top: 6px;
 }
-
 .pub-venue {
   font-size: 15px;   /* 原来 14px */
   font-style: italic;
