@@ -1,5 +1,5 @@
 ---
-title: "🌐 Professional Services"
+title: "🌐 Services"
 redirect_from: 
   - /Services/
   - /Services.html
