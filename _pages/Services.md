@@ -4,6 +4,14 @@ redirect_from:
   - /Services/
   - /Services.html
 ---
+## ✍️ Editor
+- **IEEE Transactions on Parallel and Distributed Systems (TPDS)** Reproducibility Review Board  
+- **ACM Transactions on Architecture and Code Optimization (TACO)** Associate Editor 
+- **SpringNature Journal of Real-time Image Processing (JPIP)** Associate Editor
+- **IEEE International Conference on Robotics & Automation (ICRA)** Associate Editor 2026  
+
+
+
 
 ## 📰 Journals reviewer
 
