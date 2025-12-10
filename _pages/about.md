@@ -10,7 +10,6 @@ redirect_from:
 
 I am an assistant professor at the Institute of Science Tokyo (formerly Tokyo Institute of Technology), School of Computing. I received my Ph.D. in Intelligent Systems Engineering from the University of Tsukuba. Before joining the Institute of Science Tokyo, I was a researcher at the National Institute of Advanced Industrial Science and Technology (AIST).
 
-Email: q.chang_AT_c.titech.ac.jp
 
 ## Research Interests
 
