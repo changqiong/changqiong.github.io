@@ -15,10 +15,25 @@ redirect_from:
 
 /* 单个论文卡片 */
 .pub-card {
-  background: linear-gradient(145deg, #f7f9fc, #eef2f7);
+  position: relative;
+  background: transparent;                 /* 默认无背景色 */
   border-radius: 10px;
   padding: 16px 20px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+  cursor: default;
+
+  /* 动画过渡效果 */
+  transition: 
+    background 0.25s ease,
+    box-shadow 0.25s ease,
+    transform 0.25s ease;
+}
+
+/* 鼠标移到当前卡片时的效果 */
+.pub-card:hover {
+  background: linear-gradient(145deg, #f7f9fc, #eef2f7); /* 悬停时才显示背景 */
+  transform: translateY(-3px);                           /* 轻微上浮 */
+  box-shadow: 0 8px 18px rgba(0,0,0,0.08);               /* 阴影加强一点 */
 }
 
 /* 标题、作者等文字样式 */
