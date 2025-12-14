@@ -12,7 +12,7 @@ redirect_from:
 - **ACM Transactions on Architecture and Code Optimization (TACO)**  
   Associate Editor  
 
-- **SpringNature Journal of Real-time Image Processing (JPIP)**  
+- **SpringNature Journal of Real-Time Image Processing (JRTIP)**  
   Associate Editor  
 
 - **IEEE International Conference on Robotics & Automation (ICRA)**  
