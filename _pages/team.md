@@ -5,12 +5,6 @@ redirect_from:
   - /team.html
 ---
 
-<span style="color:gray">
-In addition to the [Miyazaki Lab](https://www.lsc.c.titech.ac.jp/) at Institute of Science Tokyo, I am also collaborating with the [Yun Li](https://www.yunligroup.org/) Lab at Nanjing University.
-</span>
-
----
-
 ## Current Collaborators
 
 [Xiang Li](https://lixiang-lab.github.io/)— *(D4)*  
