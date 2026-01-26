@@ -23,15 +23,16 @@ redirect_from:
 
 ## 📰 Journals reviewer
 
+- **IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCA)**, 2026  
 - **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2025  
 - **IEEE Transactions on Computers (TOC)**, 2025  
 - **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2020–2025
-- **IEEE Transactions on Image Processing (TIP)**, 2025    
+- **IEEE Transactions on Image Processing (TIP)**, 2026    
 - **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 2024–2025  
 - **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2025  
 - **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, 2024-2025  
 - **IEEE Robotics and Automation Magazine (RAM)**, 2023  
-- **ACM Transactions on Architecture and Code Optimization (TACO)**, 2024–2025
+- **ACM Transactions on Architecture and Code Optimization (TACO)**, 2024–2026
 - **ACM Transactions on Recommender Systems (TORS)**, 2025
 - **Journal of Systems Architecture (JSA)**, 2020–2024  
 - **Journal of Parallel and Distributed Computing (JPDC)**, 2023  
