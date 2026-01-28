@@ -223,7 +223,8 @@ redirect_from:
     </div>
     <div class="pub-links">
       <a href="bibs.html#Li_3DGNLM">bib</a> |
-      <a href="https://dl.acm.org/doi/10.1145/3744909">paper</a>
+      <a href="https://dl.acm.org/doi/10.1145/3744909">paper</a>|
+      <a href="https://github.com/lixiang-lab/3D-GNLM">code</a>
     </div>
 
     <div class="thumb-row">
