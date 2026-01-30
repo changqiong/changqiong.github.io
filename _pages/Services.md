@@ -47,7 +47,7 @@ redirect_from:
 ## 🎤 Conferences reviewer
 
 - **International Conference on Database Systems for Advanced Applications (DASFAA)**, 2024  
-- **International Joint Conference on Neural Networks (IJCNN)**, 2025  
+- **International Joint Conference on Neural Networks (IJCNN)**, 2025,2026  
 - **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2024  
 - **IEEE International Conference on Robotics and Automation (ICRA)**, 2024  
 - **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2024–2025  
