@@ -233,7 +233,7 @@ h2 {
     Memory Efficient Point Cloud Registration Accelerator on FPGA
     </span><br />
     <span class="pub-authors">
-      <span class="author-me"><strong>Qiong Chang</strong></span>, Ran Dong, Junpei Zhong
+      <span class="author-me"><strong>Qiong Chang</strong></span>, Ran Dong, Qian Li, Junpei Zhong
     </span><br />
     <span class="pub-venue">
        <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2026
