@@ -18,7 +18,7 @@ I am an assistant professor at the Institute of Science Tokyo (formerly Tokyo In
 * **High-performance computing for large-scale data**: Efficient algorithms and systems for large-scale graph and data processing.
 
 ## News (2026)
-* <img src="../images/news.jpg" alt="Icon" width="28" style="vertical-align: middle; margin-right: 4px;" />**[Sep 2025]** Our paper *"Memory Efficient Point Cloud Registration Accelerator on FPGA"* has been accepted to [ICRA'26](https://2026.ieee-icra.org/).
+* <img src="../images/news.jpg" alt="Icon" width="28" style="vertical-align: middle; margin-right: 4px;" />**[Jan 2026]** Our paper *"Memory Efficient Point Cloud Registration Accelerator on FPGA"* has been accepted to [ICRA'26](https://2026.ieee-icra.org/).
 ## News (2025)
 * <img src="../images/news.jpg" alt="Icon" width="28" style="vertical-align: middle; margin-right: 4px;" />**[Sep 2025]** Our paper *"Fast Approximate Aggregation with Error Guarantee Using Encoded Bit-slice Indexing"* has been accepted to [iiWAS'25](https://www.iiwas.org/conferences/iiwas2025/).
 * <img src="../images/news.jpg" alt="Icon" width="28" style="vertical-align: middle; margin-right: 4px;" />**[Jun 2025]** Our paper *"3D GNLM: Efficient 3D Non-Local Means Kernel with Nested Reuse Strategies for Embedded GPUs"* has been accepted for publication in [TACO'25](https://dl.acm.org/journal/taco).
