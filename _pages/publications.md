@@ -230,6 +230,20 @@ h2 {
   <li>
     <span class="pub-conf-id">C14.</span>
     <span class="pub-title conf-title">
+    Memory Efficient Point Cloud Registration Accelerator on FPGA
+    </span><br />
+    <span class="pub-authors">
+      <span class="author-me"><strong>Qiong Chang</strong></span>, Ran Dong, Junpei Zhong
+    </span><br />
+    <span class="pub-venue">
+       <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2026
+    </span><br />
+    [<a href="../bibs.html#Chang_Memory">bib</a> | <a href="">DOI</a>]
+  </li>
+
+  <li>
+    <span class="pub-conf-id">C14.</span>
+    <span class="pub-title conf-title">
       FSAC-IA: A Hierarchical Constructed SAC-IA Algorithm for Point Cloud Alignment Acceleration
     </span><br />
     <span class="pub-authors">
