@@ -228,7 +228,7 @@ h2 {
 
 <ul class="pub-list">
   <li>
-    <span class="pub-conf-id">C14.</span>
+    <span class="pub-conf-id">C15.</span>
     <span class="pub-title conf-title">
     Memory Efficient Point Cloud Registration Accelerator on FPGA
     </span><br />
