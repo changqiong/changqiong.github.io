@@ -392,7 +392,7 @@ h2 {
     <span class="pub-venue">
       <em>IEEE 38th International Conference on Computer Design (ICCD)</em>, 2020
     </span><br />
-    [<a href="../bibs.html#Chang_Z2ZNCC">bib</a> | <a href="https://doi.org/10.1109/ICCD50377.2020.00104">DOI</a>]
+    [<a href="../bibs.html#Chang_Z2ZNCC">bib</a> | <a href="https://doi.org/10.1109/ICCD50377.2020.00104">DOI</a> | <a href="https://github.com/changqiong/z2zncc">code</a>]
   </li>
 
   <li>
