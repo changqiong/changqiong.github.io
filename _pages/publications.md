@@ -93,7 +93,7 @@ h2 {
     <span class="pub-venue">
       <em>ACM Transactions on Architecture and Code Optimization</em>, 2025
     </span><br />
-    [<a href="../bibs.html#Li_3DGNLM">bib</a> | <a href="https://doi.org/10.1145/3744909">DOI</a>]
+    [<a href="../bibs.html#Li_3DGNLM">bib</a> | <a href="https://doi.org/10.1145/3744909">DOI</a> | <a href="https://github.com/lixiang-lab/3D-GNLM">code</a>]
   </li>
 
   <li>
