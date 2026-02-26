@@ -21,7 +21,7 @@ Yanliang Wu — *(M1)*
 
 Dongqi Cai — *(B3)*  
 <span style="color:gray">Nanjing University</span>  
-**Research Interest:** GPU-based high-performance point cloud registration  
+**Research Interest:** FPGA-based high-performance point cloud registration  
 
 ---
 
