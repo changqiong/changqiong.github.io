@@ -31,7 +31,7 @@ Dongqi Cai — *(B3)*
 
 Qian Li — *(M3)*  
 <span style="color:gray">Nanjing University → HiSilicon</span>  
-**Research Interest:** FPGA accelerator design for dilation-based Iterative Closest Point  
+**Research Interest:** GPU accelerator design for dilation-based Iterative Closest Point  
 
 ### 2023  
 
