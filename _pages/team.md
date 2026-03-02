@@ -17,7 +17,7 @@ Ziyang Yu — *(D1)*
 
 Yanliang Wu — *(M1)*  
 <span style="color:gray">Nanjing University</span>  
-**Research Interest:** GPU task scheduling strategy design  
+**Research Interest:** GPU-based accelerator design for deep learning  
 
 Dongqi Cai — *(B3)*  
 <span style="color:gray">Nanjing University</span>  
