@@ -32,7 +32,7 @@ redirect_from:
 - **IEEE Transactions on Image Processing (TIP)**, 2026    
 - **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 2024–2026 
 - **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, 2024-2025
-- **IEEE Transactions on Circuits and Systems II: Express Briefs**, 2025
+- **IEEE Transactions on Circuits and Systems II: Express Briefs**, 2025,2026ß
 - **IEEE Transactions on Emerging Topics in Computational Intelligence**, 2025  
 - **IEEE Robotics and Automation Magazine (RAM)**, 2023  
 - **ACM Transactions on Architecture and Code Optimization (TACO)**, 2024–2026
