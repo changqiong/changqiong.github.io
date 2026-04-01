@@ -208,10 +208,7 @@ I am an assistant professor at the Institute of Science Tokyo (formerly Tokyo In
 
 </div>
 
-<div id="clustrmaps-wrapper" style="display:none;">
-  <script
-    type="text/javascript"
-    id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=in7drpwzDjW0GWQtSJt0wNY-9gOhjPnKimXZUftHNKM&cl=ffffff&w=a">
-  </script>
-</div>
+<div id="clustrmaps-wrapper" style="display:none;"> <script
+  type="text/javascript" id="clustrmaps"
+  src="//clustrmaps.com/map_v2.js?d=in7drpwzDjW0GWQtSJt0wNY-9gOhjPnKimXZUftHNKM&cl=ffffff&w=a">
+  </script> </div>

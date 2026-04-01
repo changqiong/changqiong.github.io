@@ -1,59 +1,196 @@
 ---
-title: "🌐 Services"
-redirect_from: 
-  - /Services/
-  - /Services.html
----
-## ✍️ Editor
-
-- **IEEE Transactions on Parallel and Distributed Systems (TPDS)**  
-  Reproducibility Review Board  
-
-- **ACM Transactions on Architecture and Code Optimization (TACO)**  
-  Associate Editor  
-
-- **SpringNature Journal of Real-Time Image Processing (JRTIP)**  
-  Associate Editor  
-
-- **IEEE International Conference on Robotics & Automation (ICRA)**  
-  Associate Editor 2026  
-
-
-
-
-## 📰 Journals reviewer
-
-- **IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCA)**, 2026  
-- **IEEE IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2025
-- **IEEE Transactions on MultiMedia (TMM)**, 2026  
-- **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2025  
-- **IEEE Transactions on Computers (TOC)**, 2025  
-- **IEEE Transactions onß Circuits and Systems for Video Technology (TCSVT)**, 2020–2026
-- **IEEE Transactions on Image Processing (TIP)**, 2026    
-- **IEEE Transactions on Intelligent Transportation Systems (TITS)**, 2024–2026 
-- **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, 2024-2025
-- **IEEE Transactions on Circuits and Systems II: Express Briefs**, 2025,2026ß
-- **IEEE Transactions on Emerging Topics in Computational Intelligence**, 2025  
-- **IEEE Robotics and Automation Magazine (RAM)**, 2023  
-- **ACM Transactions on Architecture and Code Optimization (TACO)**, 2024–2026
-- **ACM Transactions on Recommender Systems (TORS)**, 2025ß
-- **Journal of Systems Architecture (JSA)**, 2020–2024  
-- **Journal of Parallel and Distributed Computing (JPDC)**, 2023  
-- **Applied Soft Computing**, 2023  
-- **Computer Vision and Image Understanding (CVIU)**, 2023  
-- **Expert Systems with Applications (ESWA)**, 2023-2024  
-- **IET Image Processing**, 2023  
-- **Mechanical Systems and Signal Processing (MSSP)**, 2023  
-
+layout: subpage
+permalink: /Services/
+title: "Services"
+author_profile: false
+redirect_from:
+  - /Services
 ---
 
-## 🎤 Conferences reviewer
+## Editor
 
-- **International Conference on Database Systems for Advanced Applications (DASFAA)**, 2024  
-- **International Joint Conference on Neural Networks (IJCNN)**, 2025,2026  
-- **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2024  
-- **IEEE International Conference on Robotics and Automation (ICRA)**, 2024  
-- **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2024–2025  
-- **Chinese Conference on Pattern Recognition and Computer Vision (PRCV)**, 2023–2024  
-- **International Conference on Multimedia Modeling (MMM)**, 2025  
-- **Asian Conference on Computer Vision (ACCV)**, 2024  
+<div class="service-item">
+  <span class="service-role role-editor">Editor</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Transactions on Parallel and Distributed Systems (TPDS)</div>
+    <div class="service-detail">Reproducibility Review Board</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-editor">AE</span>
+  <div class="service-info">
+    <div class="service-name">ACM Transactions on Architecture and Code Optimization (TACO)</div>
+    <div class="service-detail">Associate Editor</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-editor">AE</span>
+  <div class="service-info">
+    <div class="service-name">SpringNature Journal of Real-Time Image Processing (JRTIP)</div>
+    <div class="service-detail">Associate Editor</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-editor">AE</span>
+  <div class="service-info">
+    <div class="service-name">IEEE International Conference on Robotics & Automation (ICRA)</div>
+    <div class="service-detail">Associate Editor 2026</div>
+  </div>
+</div>
+
+## Journal Reviewer
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Systems, Man and Cybernetics: Systems (TSMCA)</div>
+    <div class="service-detail">2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)</div>
+    <div class="service-detail">2025</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on MultiMedia (TMM)</div>
+    <div class="service-detail">2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</div>
+    <div class="service-detail">2025</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Computers (TOC)</div>
+    <div class="service-detail">2025</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Circuits and Systems for Video Technology (TCSVT)</div>
+    <div class="service-detail">2020–2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Image Processing (TIP)</div>
+    <div class="service-detail">2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Intelligent Transportation Systems (TITS)</div>
+    <div class="service-detail">2024–2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Parallel and Distributed Systems (TPDS)</div>
+    <div class="service-detail">2024–2025</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Circuits and Systems II: Express Briefs</div>
+    <div class="service-detail">2025–2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Trans. on Emerging Topics in Computational Intelligence</div>
+    <div class="service-detail">2025</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">IEEE Robotics and Automation Magazine (RAM)</div>
+    <div class="service-detail">2023</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">ACM Trans. on Architecture and Code Optimization (TACO)</div>
+    <div class="service-detail">2024–2026</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">ACM Trans. on Recommender Systems (TORS)</div>
+    <div class="service-detail">2025</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">Journal of Systems Architecture (JSA)</div>
+    <div class="service-detail">2020–2024</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">Journal of Parallel and Distributed Computing (JPDC)</div>
+    <div class="service-detail">2023</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">Applied Soft Computing / CVIU / ESWA / IET Image Processing / MSSP</div>
+    <div class="service-detail">2023–2024</div>
+  </div>
+</div>
+
+## Conference Reviewer
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">DASFAA 2024 · IJCNN 2025–2026 · IROS 2024 · ICRA 2024</div>
+  </div>
+</div>
+
+<div class="service-item">
+  <span class="service-role role-reviewer">Reviewer</span>
+  <div class="service-info">
+    <div class="service-name">ICASSP 2024–2025 · PRCV 2023–2024 · MMM 2025 · ACCV 2024</div>
+  </div>
+</div>

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | absolute_url }}">
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    <!-- ========== NAV ========== -->
+    <nav class="hp-nav">
+      <div class="hp-nav-inner">
+        <a href="{{ '/' | absolute_url }}" class="hp-nav-name">{{ site.author.name }}</a>
+        <button class="hp-nav-toggle" aria-label="Toggle menu" onclick="document.querySelector('.hp-nav-links').classList.toggle('open')">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+        <div class="hp-nav-links">
+          {% for link in site.data.navigation.main %}
+            <a href="{{ link.url | absolute_url }}"{% if page.url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </nav>
+
+    <!-- ========== PAGE HEADER ========== -->
+    <section class="sp-header">
+      <div class="sp-header-inner">
+        <h1>{{ page.title }}</h1>
+        {% if page.excerpt and page.excerpt != page.title %}
+        <p class="sp-header-desc">{{ page.excerpt }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <!-- ========== MAIN CONTENT ========== -->
+    <div class="hp-main sp-main">
+      {{ content }}
+    </div>
+
+    <!-- ========== FOOTER ========== -->
+    <footer class="hp-footer">
+      &copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
+    </footer>
+
+  </body>
+</html>

@@ -1,39 +1,36 @@
 ---
-title: "💰 Funding"
-redirect_from: 
-  - /funding/
-  - /funding.html
+layout: subpage
+permalink: /funding/
+title: "Funding"
+author_profile: false
+redirect_from:
+  - /funding
 ---
 
 ## Current
 
-<span style="color:Magenta">
-**Design and optimization of an embedded GPU processing platform for real-time 3D environment recognition**
-</span><br />
-<span style="color:gray">
-**(Principal Investigator)**<br />
-Grant-in-Aid for Scientific Research (B)<br />
-Japan Society for the Promotion of Science (JSPS), Apr. 2026 – Mar. 2030
-</span>
+<div class="funding-card current">
+  <span class="funding-status status-current">Active</span>
+  <div class="funding-title">Design and optimization of an embedded GPU processing platform for real-time 3D environment recognition</div>
+  <div class="funding-role">Principal Investigator</div>
+  <div class="funding-source">Grant-in-Aid for Scientific Research (B), Japan Society for the Promotion of Science (JSPS)</div>
+  <div class="funding-period">Apr. 2026 – Mar. 2030</div>
+</div>
 
-<span style="color:Magenta">
-**A Study on View Construction for Application-Oriented Graph Knowledge Bases**
-</span><br />
-<span style="color:gray">
-**(Co-Investigator)**<br />
-Grant-in-Aid for Scientific Research (B)<br />
-Japan Society for the Promotion of Science (JSPS), Apr. 2023 – Mar. 2027
-</span>
-
----
+<div class="funding-card current">
+  <span class="funding-status status-current">Active</span>
+  <div class="funding-title">A Study on View Construction for Application-Oriented Graph Knowledge Bases</div>
+  <div class="funding-role">Co-Investigator</div>
+  <div class="funding-source">Grant-in-Aid for Scientific Research (B), Japan Society for the Promotion of Science (JSPS)</div>
+  <div class="funding-period">Apr. 2023 – Mar. 2027</div>
+</div>
 
 ## Past
 
-<span style="color:Magenta">
-**High-Accuracy and High-Speed Dance Support System Using GPUs**
-</span><br />
-<span style="color:gray">
-**(Principal Investigator)**<br />
-Grant-in-Aid for Scientific Research (Young Scientists)<br />
-Japan Society for the Promotion of Science (JSPS), Apr. 2021 – Mar. 2024
-</span>
+<div class="funding-card past">
+  <span class="funding-status status-past">Completed</span>
+  <div class="funding-title">High-Accuracy and High-Speed Dance Support System Using GPUs</div>
+  <div class="funding-role">Principal Investigator</div>
+  <div class="funding-source">Grant-in-Aid for Scientific Research (Young Scientists), Japan Society for the Promotion of Science (JSPS)</div>
+  <div class="funding-period">Apr. 2021 – Mar. 2024</div>
+</div>
