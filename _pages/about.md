@@ -142,10 +142,26 @@ I am an assistant professor at the Institute of Science Tokyo (formerly Tokyo In
     </div>
   </div>
 
-<div class="hp-news-item">
-    <span class="hp-news-date">Sep 2025</span>
-    <div class="hp-news-text">Paper <em>"Fast Approximate Aggregation with Error Guarantee Using Encoded Bit-slice Indexing"</em> accepted to <a href="https://www.iiwas.org/conferences/iiwas2025/">iiWAS'25</a></div>
+    <div class="hp-research-card">
+    <div>
+      <div class="hp-research-venue">TACO 2024</div>
+      <h3>An Optimized GPU Implementation for GIST Descriptor</h3>
+      <div class="hp-research-authors">Xiang Li, <strong>Qiong Chang*</strong>, Aolong Zha, Shijie Chang, Yun Li, Jun Miyazaki</div>
+      <div class="hp-research-desc">An optimized GPU-based implementation of the GIST descriptor, significantly accelerating image feature extraction for large-scale visual processing tasks.</div>
+      <div class="hp-research-tags">
+        <span class="hp-tag hp-tag-blue">GPU</span>
+        <span class="hp-tag hp-tag-amber">Feature Extraction</span>
+      </div>
+      <div class="hp-research-links">
+        <a href="https://doi.org/10.1145/3689339">Paper</a>
+      </div>
+    </div>
+    <div class="hp-speedup">
+      <div class="num">6.4&times;</div>
+      <div class="label">speedup</div>
+    </div>
   </div>
+
   
   <div class="hp-research-card">
     <div>

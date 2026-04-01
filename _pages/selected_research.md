@@ -94,7 +94,6 @@ redirect_from:
       <div class="label">speedup</div>
     </div>
   </div>
-
   <div class="hp-research-card">
     <div>
       <div class="hp-research-venue">IEEE TSMC 2024</div>
