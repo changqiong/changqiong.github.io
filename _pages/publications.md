@@ -92,7 +92,7 @@ redirect_from:
 <div class="pub-item">
   <span class="pub-num">J6</span>
   <div class="pub-content">
-    <div class="pub-title"><span class="pub-logo ieee">IEEE TSMC</span>TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</div>
+    <div class="pub-title"><span class="pub-logo ieee">TSMC</span>TinyStereo: A Tiny Coarse-to-Fine Framework for Vision-based Depth Estimation on Embedded GPUs</div>
     <div class="pub-authors"><strong>Qiong Chang</strong>, Xin Xu, Aolong Zha, Yongqing Sun, Yun Li</div>
     <div class="pub-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024</div>
     <div class="pub-links">
