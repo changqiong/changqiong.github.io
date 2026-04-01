@@ -40,6 +40,10 @@ I am an assistant professor at the Institute of Science Tokyo (formerly Tokyo In
 
 <div class="hp-news-list">
   <div class="hp-news-item">
+    <span class="hp-news-date">Feb 2026</span>
+    <div class="hp-news-text">Paper <em>"Memory Efficient Point Cloud Registration Accelerator on FPGA"</em> accepted to <a href="https://2026.ieee-icra.org/">ICRA'26</a></div>
+  </div>
+  <div class="hp-news-item">
     <span class="hp-news-date">Sep 2025</span>
     <div class="hp-news-text">Paper <em>"Fast Approximate Aggregation with Error Guarantee Using Encoded Bit-slice Indexing"</em> accepted to <a href="https://www.iiwas.org/conferences/iiwas2025/">iiWAS'25</a></div>
   </div>
