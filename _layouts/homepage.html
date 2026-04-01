@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.name }} - {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | absolute_url }}">
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    <!-- ========== NAV ========== -->
+    <nav class="hp-nav">
+      <div class="hp-nav-inner">
+        <a href="{{ '/' | absolute_url }}" class="hp-nav-name">{{ site.author.name }}</a>
+        <button class="hp-nav-toggle" aria-label="Toggle menu" onclick="document.querySelector('.hp-nav-links').classList.toggle('open')">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+        <div class="hp-nav-links">
+          {% for link in site.data.navigation.main %}
+            <a href="{{ link.url | absolute_url }}"{% if page.url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </nav>
+
+    <!-- ========== HERO ========== -->
+    <section class="hp-hero">
+      <div class="hp-hero-inner">
+        <div class="hp-avatar-wrap">
+          <div class="hp-avatar-glow"></div>
+          <img src="{{ '/images/' | append: site.author.avatar | absolute_url }}" alt="{{ site.author.name }}" class="hp-avatar">
+        </div>
+        <div class="hp-hero-info">
+          <h1>{{ site.author.name }}</h1>
+          <div class="hp-subtitle">{{ site.author.bio }}</div>
+          <div class="hp-affil">
+            School of Computing, <a href="https://www.titech.ac.jp/" target="_blank">Institute of Science Tokyo</a><br>
+            (formerly Tokyo Institute of Technology)
+          </div>
+          <div class="hp-hero-links">
+            {% if site.author.email %}
+            <a href="mailto:{{ site.author.email }}">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+              Email
+            </a>
+            {% endif %}
+            {% if site.author.googlescholar %}
+            <a href="{{ site.author.googlescholar }}" target="_blank">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/></svg>
+              Scholar
+            </a>
+            {% endif %}
+            {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" target="_blank">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.605-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12"/></svg>
+              GitHub
+            </a>
+            {% endif %}
+            {% if site.author.dblp %}
+            <a href="{{ site.author.dblp }}" target="_blank">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3.075.002c-.096 0-.188.047-.241.126L.038 4.54a.3.3 0 0 0 .055.376l5.632 5.2a.3.3 0 0 0 .178.08l5.17.543a.3.3 0 0 0 .31-.175l2.39-4.8a.3.3 0 0 0-.05-.334L8.32.15A.3.3 0 0 0 8.135.06L3.18.003zM13.13 6.224a.3.3 0 0 0-.268.17l-2.39 4.8a.3.3 0 0 0 .05.335l5.402 5.28a.3.3 0 0 0 .186.09l4.956.568a.3.3 0 0 0 .283-.136l2.811-4.412a.3.3 0 0 0-.055-.376l-5.621-5.2a.3.3 0 0 0-.178-.08l-5.17-.543zM7.72 11.222a.3.3 0 0 0-.269.17l-2.39 4.8a.3.3 0 0 0 .05.335l5.403 5.28a.3.3 0 0 0 .186.09l4.955.568a.3.3 0 0 0 .283-.136l2.811-4.413a.3.3 0 0 0-.055-.375l-5.62-5.2a.3.3 0 0 0-.179-.08l-5.17-.543z"/></svg>
+              DBLP
+            </a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== MAIN CONTENT ========== -->
+    <div class="hp-main">
+      {{ content }}
+    </div>
+
+    <!-- ========== FOOTER ========== -->
+    <footer class="hp-footer">
+      &copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
+    </footer>
+
+  </body>
+</html>
