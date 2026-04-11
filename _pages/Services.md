@@ -55,7 +55,7 @@ redirect_from:
   <span class="service-role role-reviewer">Reviewer</span>
   <div class="service-info">
     <div class="service-name">IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)</div>
-    <div class="service-detail">2025</div>
+    <div class="service-detail">2025-2026</div>
   </div>
 </div>
 
