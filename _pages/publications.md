@@ -173,6 +173,16 @@ redirect_from:
 ## Conference
 
 <div class="pub-item">
+  <span class="pub-num">C16</span>
+  <div class="pub-content">
+    <div class="pub-title"><span class="pub-logo springer">DAWAK</span>GPU-Accelerated Dependency Graph Construction and Conflict Analysis for Preventing Read-Only Anomalies</div>
+    <div class="pub-authors">Reo Chiyomaru, Takamitsu Shioi, <strong>Qiong Chang</strong>, Jun Miyazaki</div>
+    <div class="pub-venue">The 28th International Conference on Big Data Analytics and Knowledge Discovery 2026</div>
+    <div class="pub-links"><a href="{{ site.baseurl }}/_pages/bibs.html#Reo_GPU">bib</a></div>
+  </div>
+</div>
+
+<div class="pub-item">
   <span class="pub-num">C15</span>
   <div class="pub-content">
     <div class="pub-title"><span class="pub-logo ieee">ICRA</span>Memory Efficient Point Cloud Registration Accelerator on FPGA</div>
