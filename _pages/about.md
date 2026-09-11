@@ -6,6 +6,10 @@ excerpt: "About me"
 author_profile: false
 ---
 
+<div class="hp-motto">
+  September 10, 2026 | Stay centered, stand on your own, and seek truth beyond imposed boundaries.
+</div>
+
 ## Research Interests
 
 <div class="hp-interests">
